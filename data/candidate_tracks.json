@@ -1,0 +1,203 @@
+{
+  "unit": "crore INR",
+  "tracks": [
+    {
+      "id": "T01",
+      "from": "S11",
+      "to": "S65",
+      "cost_crore": 310
+    },
+    {
+      "id": "T02",
+      "from": "S46",
+      "to": "S67",
+      "cost_crore": 95
+    },
+    {
+      "id": "T03",
+      "from": "S48",
+      "to": "S67",
+      "cost_crore": 80
+    },
+    {
+      "id": "T04",
+      "from": "S08",
+      "to": "S65",
+      "cost_crore": 150
+    },
+    {
+      "id": "T05",
+      "from": "S14",
+      "to": "S65",
+      "cost_crore": 120
+    },
+    {
+      "id": "T06",
+      "from": "S15",
+      "to": "S66",
+      "cost_crore": 210
+    },
+    {
+      "id": "T07",
+      "from": "S21",
+      "to": "S64",
+      "cost_crore": 430
+    },
+    {
+      "id": "T08",
+      "from": "S27",
+      "to": "S63",
+      "cost_crore": 260
+    },
+    {
+      "id": "T09",
+      "from": "S24",
+      "to": "S63",
+      "cost_crore": 240
+    },
+    {
+      "id": "T10",
+      "from": "S27",
+      "to": "S62",
+      "cost_crore": 520
+    },
+    {
+      "id": "T11",
+      "from": "S67",
+      "to": "S66",
+      "cost_crore": 70
+    },
+    {
+      "id": "T12",
+      "from": "S65",
+      "to": "S63",
+      "cost_crore": 140
+    },
+    {
+      "id": "T13",
+      "from": "S64",
+      "to": "S62",
+      "cost_crore": 110
+    },
+    {
+      "id": "T14",
+      "from": "S63",
+      "to": "S64",
+      "cost_crore": 90
+    },
+    {
+      "id": "T15",
+      "from": "S40",
+      "to": "S71",
+      "cost_crore": 180
+    },
+    {
+      "id": "T16",
+      "from": "S50",
+      "to": "S71",
+      "cost_crore": 85
+    },
+    {
+      "id": "T17",
+      "from": "S36",
+      "to": "S71",
+      "cost_crore": 110
+    },
+    {
+      "id": "T18",
+      "from": "S71",
+      "to": "S69",
+      "cost_crore": 60
+    },
+    {
+      "id": "T19",
+      "from": "S71",
+      "to": "S70",
+      "cost_crore": 75
+    },
+    {
+      "id": "T20",
+      "from": "S69",
+      "to": "S68",
+      "cost_crore": 65
+    },
+    {
+      "id": "T21",
+      "from": "S70",
+      "to": "S68",
+      "cost_crore": 90
+    },
+    {
+      "id": "T22",
+      "from": "S69",
+      "to": "S70",
+      "cost_crore": 55
+    },
+    {
+      "id": "T23",
+      "from": "S06",
+      "to": "S70",
+      "cost_crore": 160
+    },
+    {
+      "id": "T24",
+      "from": "S04",
+      "to": "S70",
+      "cost_crore": 130
+    },
+    {
+      "id": "T25",
+      "from": "S33",
+      "to": "S71",
+      "cost_crore": 200
+    },
+    {
+      "id": "T26",
+      "from": "S65",
+      "to": "S67",
+      "cost_crore": 230
+    },
+    {
+      "id": "T27",
+      "from": "S11",
+      "to": "S48",
+      "cost_crore": 175
+    },
+    {
+      "id": "T28",
+      "from": "S28",
+      "to": "S27",
+      "cost_crore": 350
+    },
+    {
+      "id": "T29",
+      "from": "S01",
+      "to": "S68",
+      "cost_crore": 440
+    },
+    {
+      "id": "T30",
+      "from": "S29",
+      "to": "S32",
+      "cost_crore": 40
+    },
+    {
+      "id": "T31",
+      "from": "S12",
+      "to": "S40",
+      "cost_crore": 45
+    },
+    {
+      "id": "T32",
+      "from": "S50",
+      "to": "S54",
+      "cost_crore": 50
+    },
+    {
+      "id": "T33",
+      "from": "S56",
+      "to": "S17",
+      "cost_crore": 30
+    }
+  ]
+}

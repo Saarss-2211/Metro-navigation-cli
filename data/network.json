@@ -1,0 +1,908 @@
+{
+  "city": "Sample Metro (Hyderabad-inspired, fictional data)",
+  "interchange_penalty_minutes": 4,
+  "stations": [
+    {
+      "id": "S01",
+      "name": "Miyapur"
+    },
+    {
+      "id": "S02",
+      "name": "JNTU College"
+    },
+    {
+      "id": "S03",
+      "name": "KPHB Colony"
+    },
+    {
+      "id": "S04",
+      "name": "Kukatpally"
+    },
+    {
+      "id": "S05",
+      "name": "Balanagar"
+    },
+    {
+      "id": "S06",
+      "name": "Moosapet"
+    },
+    {
+      "id": "S07",
+      "name": "Bharat Nagar"
+    },
+    {
+      "id": "S08",
+      "name": "Erragadda"
+    },
+    {
+      "id": "S09",
+      "name": "ESI Hospital"
+    },
+    {
+      "id": "S10",
+      "name": "SR Nagar"
+    },
+    {
+      "id": "S11",
+      "name": "Ameerpet"
+    },
+    {
+      "id": "S12",
+      "name": "Punjagutta"
+    },
+    {
+      "id": "S13",
+      "name": "Irrum Manzil"
+    },
+    {
+      "id": "S14",
+      "name": "Khairatabad"
+    },
+    {
+      "id": "S15",
+      "name": "Lakdikapul"
+    },
+    {
+      "id": "S16",
+      "name": "Assembly"
+    },
+    {
+      "id": "S17",
+      "name": "Nampally"
+    },
+    {
+      "id": "S18",
+      "name": "Gandhi Bhavan"
+    },
+    {
+      "id": "S19",
+      "name": "Osmania Medical College"
+    },
+    {
+      "id": "S20",
+      "name": "MG Bus Station"
+    },
+    {
+      "id": "S21",
+      "name": "Malakpet"
+    },
+    {
+      "id": "S22",
+      "name": "New Market"
+    },
+    {
+      "id": "S23",
+      "name": "Musarambagh"
+    },
+    {
+      "id": "S24",
+      "name": "Dilsukhnagar"
+    },
+    {
+      "id": "S25",
+      "name": "Chaitanyapuri"
+    },
+    {
+      "id": "S26",
+      "name": "Victoria Memorial"
+    },
+    {
+      "id": "S27",
+      "name": "LB Nagar"
+    },
+    {
+      "id": "S28",
+      "name": "Nagole"
+    },
+    {
+      "id": "S29",
+      "name": "Uppal"
+    },
+    {
+      "id": "S30",
+      "name": "Stadium"
+    },
+    {
+      "id": "S31",
+      "name": "NGRI"
+    },
+    {
+      "id": "S32",
+      "name": "Habsiguda"
+    },
+    {
+      "id": "S33",
+      "name": "Tarnaka"
+    },
+    {
+      "id": "S34",
+      "name": "Mettuguda"
+    },
+    {
+      "id": "S35",
+      "name": "Secunderabad East"
+    },
+    {
+      "id": "S36",
+      "name": "Parade Grounds"
+    },
+    {
+      "id": "S37",
+      "name": "Paradise"
+    },
+    {
+      "id": "S38",
+      "name": "Rasoolpura"
+    },
+    {
+      "id": "S39",
+      "name": "Prakash Nagar"
+    },
+    {
+      "id": "S40",
+      "name": "Begumpet"
+    },
+    {
+      "id": "S41",
+      "name": "Madhura Nagar"
+    },
+    {
+      "id": "S42",
+      "name": "Yusufguda"
+    },
+    {
+      "id": "S43",
+      "name": "Road No 5 Jubilee Hills"
+    },
+    {
+      "id": "S44",
+      "name": "Jubilee Hills Check Post"
+    },
+    {
+      "id": "S45",
+      "name": "Peddamma Temple"
+    },
+    {
+      "id": "S46",
+      "name": "Madhapur"
+    },
+    {
+      "id": "S47",
+      "name": "Durgam Cheruvu"
+    },
+    {
+      "id": "S48",
+      "name": "HITEC City"
+    },
+    {
+      "id": "S49",
+      "name": "Raidurg"
+    },
+    {
+      "id": "S50",
+      "name": "Secunderabad West"
+    },
+    {
+      "id": "S51",
+      "name": "Gandhi Hospital"
+    },
+    {
+      "id": "S52",
+      "name": "Musheerabad"
+    },
+    {
+      "id": "S53",
+      "name": "RTC X Roads"
+    },
+    {
+      "id": "S54",
+      "name": "Chikkadpally"
+    },
+    {
+      "id": "S55",
+      "name": "Narayanguda"
+    },
+    {
+      "id": "S56",
+      "name": "Sultan Bazar"
+    },
+    {
+      "id": "S57",
+      "name": "Sanath Nagar"
+    },
+    {
+      "id": "S58",
+      "name": "Borabanda"
+    },
+    {
+      "id": "S59",
+      "name": "Lalaguda"
+    },
+    {
+      "id": "S60",
+      "name": "Vidyanagar"
+    },
+    {
+      "id": "S61",
+      "name": "Kachiguda"
+    },
+    {
+      "id": "S62",
+      "name": "Shamshabad"
+    },
+    {
+      "id": "S63",
+      "name": "Rajendranagar"
+    },
+    {
+      "id": "S64",
+      "name": "Aramghar"
+    },
+    {
+      "id": "S65",
+      "name": "Mehdipatnam"
+    },
+    {
+      "id": "S66",
+      "name": "Tolichowki"
+    },
+    {
+      "id": "S67",
+      "name": "Gachibowli"
+    },
+    {
+      "id": "S68",
+      "name": "Kompally"
+    },
+    {
+      "id": "S69",
+      "name": "Suchitra"
+    },
+    {
+      "id": "S70",
+      "name": "Jeedimetla"
+    },
+    {
+      "id": "S71",
+      "name": "Bowenpally"
+    }
+  ],
+  "lines": [
+    {
+      "name": "Red",
+      "stations": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S27"
+      ]
+    },
+    {
+      "name": "Blue",
+      "stations": [
+        "S28",
+        "S29",
+        "S30",
+        "S31",
+        "S32",
+        "S33",
+        "S34",
+        "S35",
+        "S36",
+        "S37",
+        "S38",
+        "S39",
+        "S40",
+        "S11",
+        "S41",
+        "S42",
+        "S43",
+        "S44",
+        "S45",
+        "S46",
+        "S47",
+        "S48",
+        "S49"
+      ]
+    },
+    {
+      "name": "Green",
+      "stations": [
+        "S36",
+        "S50",
+        "S51",
+        "S52",
+        "S53",
+        "S54",
+        "S55",
+        "S56",
+        "S20"
+      ]
+    },
+    {
+      "name": "Yellow",
+      "stations": [
+        "S06",
+        "S57",
+        "S58",
+        "S42"
+      ]
+    },
+    {
+      "name": "Pink",
+      "stations": [
+        "S33",
+        "S59",
+        "S60",
+        "S54",
+        "S61",
+        "S17"
+      ]
+    },
+    {
+      "name": "Orange",
+      "stations": [
+        "S62",
+        "S63",
+        "S64"
+      ]
+    },
+    {
+      "name": "Brown",
+      "stations": [
+        "S65",
+        "S66",
+        "S67"
+      ]
+    },
+    {
+      "name": "Violet",
+      "stations": [
+        "S68",
+        "S69"
+      ]
+    },
+    {
+      "name": "Teal",
+      "stations": [
+        "S70",
+        "S71"
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "from": "S01",
+      "to": "S02",
+      "line": "Red",
+      "minutes": 2,
+      "km": 0.6
+    },
+    {
+      "from": "S02",
+      "to": "S03",
+      "line": "Red",
+      "minutes": 3,
+      "km": 1.3
+    },
+    {
+      "from": "S03",
+      "to": "S04",
+      "line": "Red",
+      "minutes": 3,
+      "km": 2.2
+    },
+    {
+      "from": "S04",
+      "to": "S05",
+      "line": "Red",
+      "minutes": 2,
+      "km": 1.3
+    },
+    {
+      "from": "S05",
+      "to": "S06",
+      "line": "Red",
+      "minutes": 2,
+      "km": 0.6
+    },
+    {
+      "from": "S06",
+      "to": "S07",
+      "line": "Red",
+      "minutes": 3,
+      "km": 1.3
+    },
+    {
+      "from": "S07",
+      "to": "S08",
+      "line": "Red",
+      "minutes": 2,
+      "km": 1.3
+    },
+    {
+      "from": "S08",
+      "to": "S09",
+      "line": "Red",
+      "minutes": 4,
+      "km": 1.7
+    },
+    {
+      "from": "S09",
+      "to": "S10",
+      "line": "Red",
+      "minutes": 3,
+      "km": 2.4
+    },
+    {
+      "from": "S10",
+      "to": "S11",
+      "line": "Red",
+      "minutes": 2,
+      "km": 1.5
+    },
+    {
+      "from": "S11",
+      "to": "S12",
+      "line": "Red",
+      "minutes": 3,
+      "km": 2.2
+    },
+    {
+      "from": "S12",
+      "to": "S13",
+      "line": "Red",
+      "minutes": 4,
+      "km": 1.9
+    },
+    {
+      "from": "S13",
+      "to": "S14",
+      "line": "Red",
+      "minutes": 3,
+      "km": 2.6
+    },
+    {
+      "from": "S14",
+      "to": "S15",
+      "line": "Red",
+      "minutes": 4,
+      "km": 1.4
+    },
+    {
+      "from": "S15",
+      "to": "S16",
+      "line": "Red",
+      "minutes": 4,
+      "km": 1.4
+    },
+    {
+      "from": "S16",
+      "to": "S17",
+      "line": "Red",
+      "minutes": 4,
+      "km": 2.6
+    },
+    {
+      "from": "S17",
+      "to": "S18",
+      "line": "Red",
+      "minutes": 2,
+      "km": 1.5
+    },
+    {
+      "from": "S18",
+      "to": "S19",
+      "line": "Red",
+      "minutes": 2,
+      "km": 1.8
+    },
+    {
+      "from": "S19",
+      "to": "S20",
+      "line": "Red",
+      "minutes": 4,
+      "km": 1.4
+    },
+    {
+      "from": "S20",
+      "to": "S21",
+      "line": "Red",
+      "minutes": 3,
+      "km": 2.4
+    },
+    {
+      "from": "S21",
+      "to": "S22",
+      "line": "Red",
+      "minutes": 4,
+      "km": 2.6
+    },
+    {
+      "from": "S22",
+      "to": "S23",
+      "line": "Red",
+      "minutes": 2,
+      "km": 0.7
+    },
+    {
+      "from": "S23",
+      "to": "S24",
+      "line": "Red",
+      "minutes": 3,
+      "km": 2.3
+    },
+    {
+      "from": "S24",
+      "to": "S25",
+      "line": "Red",
+      "minutes": 2,
+      "km": 1.6
+    },
+    {
+      "from": "S25",
+      "to": "S26",
+      "line": "Red",
+      "minutes": 2,
+      "km": 1.1
+    },
+    {
+      "from": "S26",
+      "to": "S27",
+      "line": "Red",
+      "minutes": 5,
+      "km": 3.4
+    },
+    {
+      "from": "S28",
+      "to": "S29",
+      "line": "Blue",
+      "minutes": 4,
+      "km": 1.6
+    },
+    {
+      "from": "S29",
+      "to": "S30",
+      "line": "Blue",
+      "minutes": 4,
+      "km": 1.7
+    },
+    {
+      "from": "S30",
+      "to": "S31",
+      "line": "Blue",
+      "minutes": 3,
+      "km": 2.2
+    },
+    {
+      "from": "S31",
+      "to": "S32",
+      "line": "Blue",
+      "minutes": 2,
+      "km": 1.3
+    },
+    {
+      "from": "S32",
+      "to": "S33",
+      "line": "Blue",
+      "minutes": 3,
+      "km": 1.9
+    },
+    {
+      "from": "S33",
+      "to": "S34",
+      "line": "Blue",
+      "minutes": 3,
+      "km": 1.2
+    },
+    {
+      "from": "S34",
+      "to": "S35",
+      "line": "Blue",
+      "minutes": 4,
+      "km": 1.8
+    },
+    {
+      "from": "S35",
+      "to": "S36",
+      "line": "Blue",
+      "minutes": 3,
+      "km": 2.1
+    },
+    {
+      "from": "S36",
+      "to": "S37",
+      "line": "Blue",
+      "minutes": 2,
+      "km": 0.9
+    },
+    {
+      "from": "S37",
+      "to": "S38",
+      "line": "Blue",
+      "minutes": 2,
+      "km": 1.6
+    },
+    {
+      "from": "S38",
+      "to": "S39",
+      "line": "Blue",
+      "minutes": 4,
+      "km": 1.8
+    },
+    {
+      "from": "S39",
+      "to": "S40",
+      "line": "Blue",
+      "minutes": 3,
+      "km": 2.5
+    },
+    {
+      "from": "S40",
+      "to": "S11",
+      "line": "Blue",
+      "minutes": 4,
+      "km": 1.7
+    },
+    {
+      "from": "S11",
+      "to": "S41",
+      "line": "Blue",
+      "minutes": 5,
+      "km": 2.7
+    },
+    {
+      "from": "S41",
+      "to": "S42",
+      "line": "Blue",
+      "minutes": 5,
+      "km": 1.9
+    },
+    {
+      "from": "S42",
+      "to": "S43",
+      "line": "Blue",
+      "minutes": 3,
+      "km": 1.3
+    },
+    {
+      "from": "S43",
+      "to": "S44",
+      "line": "Blue",
+      "minutes": 3,
+      "km": 2.2
+    },
+    {
+      "from": "S44",
+      "to": "S45",
+      "line": "Blue",
+      "minutes": 4,
+      "km": 3.4
+    },
+    {
+      "from": "S45",
+      "to": "S46",
+      "line": "Blue",
+      "minutes": 4,
+      "km": 2.1
+    },
+    {
+      "from": "S46",
+      "to": "S47",
+      "line": "Blue",
+      "minutes": 3,
+      "km": 1.8
+    },
+    {
+      "from": "S47",
+      "to": "S48",
+      "line": "Blue",
+      "minutes": 2,
+      "km": 1.5
+    },
+    {
+      "from": "S48",
+      "to": "S49",
+      "line": "Blue",
+      "minutes": 2,
+      "km": 0.8
+    },
+    {
+      "from": "S36",
+      "to": "S50",
+      "line": "Green",
+      "minutes": 3,
+      "km": 2.3
+    },
+    {
+      "from": "S50",
+      "to": "S51",
+      "line": "Green",
+      "minutes": 4,
+      "km": 2.6
+    },
+    {
+      "from": "S51",
+      "to": "S52",
+      "line": "Green",
+      "minutes": 4,
+      "km": 2.1
+    },
+    {
+      "from": "S52",
+      "to": "S53",
+      "line": "Green",
+      "minutes": 5,
+      "km": 3.1
+    },
+    {
+      "from": "S53",
+      "to": "S54",
+      "line": "Green",
+      "minutes": 2,
+      "km": 1.4
+    },
+    {
+      "from": "S54",
+      "to": "S55",
+      "line": "Green",
+      "minutes": 2,
+      "km": 1.4
+    },
+    {
+      "from": "S55",
+      "to": "S56",
+      "line": "Green",
+      "minutes": 3,
+      "km": 2.3
+    },
+    {
+      "from": "S56",
+      "to": "S20",
+      "line": "Green",
+      "minutes": 4,
+      "km": 1.5
+    },
+    {
+      "from": "S06",
+      "to": "S57",
+      "line": "Yellow",
+      "minutes": 4,
+      "km": 1.6
+    },
+    {
+      "from": "S57",
+      "to": "S58",
+      "line": "Yellow",
+      "minutes": 2,
+      "km": 1.7
+    },
+    {
+      "from": "S58",
+      "to": "S42",
+      "line": "Yellow",
+      "minutes": 3,
+      "km": 2.6
+    },
+    {
+      "from": "S33",
+      "to": "S59",
+      "line": "Pink",
+      "minutes": 3,
+      "km": 1.8
+    },
+    {
+      "from": "S59",
+      "to": "S60",
+      "line": "Pink",
+      "minutes": 2,
+      "km": 1.6
+    },
+    {
+      "from": "S60",
+      "to": "S54",
+      "line": "Pink",
+      "minutes": 3,
+      "km": 2.4
+    },
+    {
+      "from": "S54",
+      "to": "S61",
+      "line": "Pink",
+      "minutes": 3,
+      "km": 1.2
+    },
+    {
+      "from": "S61",
+      "to": "S17",
+      "line": "Pink",
+      "minutes": 3,
+      "km": 1.9
+    },
+    {
+      "from": "S62",
+      "to": "S63",
+      "line": "Orange",
+      "minutes": 2,
+      "km": 1.3
+    },
+    {
+      "from": "S63",
+      "to": "S64",
+      "line": "Orange",
+      "minutes": 5,
+      "km": 1.6
+    },
+    {
+      "from": "S65",
+      "to": "S66",
+      "line": "Brown",
+      "minutes": 4,
+      "km": 3.3
+    },
+    {
+      "from": "S66",
+      "to": "S67",
+      "line": "Brown",
+      "minutes": 3,
+      "km": 1.3
+    },
+    {
+      "from": "S68",
+      "to": "S69",
+      "line": "Violet",
+      "minutes": 3,
+      "km": 2.5
+    },
+    {
+      "from": "S70",
+      "to": "S71",
+      "line": "Teal",
+      "minutes": 2,
+      "km": 0.7
+    }
+  ]
+}

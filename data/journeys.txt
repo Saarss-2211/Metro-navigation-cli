@@ -1,0 +1,5006 @@
+timestamp,origin,destination,peak
+06:00:08,Raidurg,Vidyanagar,0
+06:00:17,HITEC City,ESI Hospital,0
+06:00:25,Sanath Nagar,Ameerpet,0
+06:00:34,Gandhi Hospital,LB Nagar,0
+06:00:38,Sultan Bazar,HITEC City,0
+06:00:50,Irrum Manzil,MG Bus Station,0
+06:01:01,Begumpet,Nagole,0
+06:01:10,Nagole,Nampally,0
+06:01:12,New Market,Parade Grounds,0
+06:01:16,Parade Grounds,Miyapur,0
+06:01:28,Begumpet,Lakdikapul,0
+06:01:43,Miyapur,Malakpet,0
+06:01:52,Assembly,Madhura Nagar,0
+06:01:56,Mettuguda,Peddamma Temple,0
+06:02:11,Parade Grounds,Uppal,0
+06:02:24,Uppal,LB Nagar,0
+06:02:26,Moosapet,LB Nagar,0
+06:02:33,LB Nagar,Secunderabad West,0
+06:02:34,Madhura Nagar,Vidyanagar,0
+06:02:36,KPHB Colony,Peddamma Temple,0
+06:02:49,Secunderabad West,Nampally,0
+06:02:53,Mettuguda,SR Nagar,0
+06:02:56,Osmania Medical College,Nampally,0
+06:03:11,Balanagar,Raidurg,0
+06:03:25,Secunderabad East,KPHB Colony,0
+06:03:34,Secunderabad West,Lalaguda,0
+06:03:49,HITEC City,Assembly,0
+06:03:56,Stadium,Khairatabad,0
+06:04:03,Chikkadpally,Ameerpet,0
+06:04:04,Vidyanagar,Gandhi Bhavan,0
+06:04:17,HITEC City,MG Bus Station,0
+06:04:29,Borabanda,Kachiguda,0
+06:04:38,Begumpet,Stadium,0
+06:04:42,MG Bus Station,Lalaguda,0
+06:04:52,Madhapur,KPHB Colony,0
+06:04:58,KPHB Colony,Parade Grounds,0
+06:05:07,Narayanguda,Mettuguda,0
+06:05:08,Borabanda,Balanagar,0
+06:05:11,Kukatpally,Secunderabad West,0
+06:05:18,Erragadda,RTC X Roads,0
+06:05:22,Parade Grounds,JNTU College,0
+06:05:24,LB Nagar,Parade Grounds,0
+06:05:33,MG Bus Station,Gandhi Bhavan,0
+06:05:44,Peddamma Temple,Assembly,0
+06:05:51,ESI Hospital,Begumpet,0
+06:05:59,MG Bus Station,Durgam Cheruvu,0
+06:06:01,Miyapur,Prakash Nagar,0
+06:06:11,Kachiguda,Kukatpally,0
+06:06:15,NGRI,ESI Hospital,0
+06:06:21,Musheerabad,Dilsukhnagar,0
+06:06:24,Nagole,Secunderabad East,0
+06:06:29,Rasoolpura,Vidyanagar,0
+06:06:40,Tarnaka,Madhura Nagar,0
+06:06:49,MG Bus Station,Begumpet,0
+06:07:04,ESI Hospital,Erragadda,0
+06:07:06,Durgam Cheruvu,Ameerpet,0
+06:07:11,Paradise,Peddamma Temple,0
+06:07:15,Yusufguda,Secunderabad West,0
+06:07:24,Stadium,Chikkadpally,0
+06:07:38,KPHB Colony,Begumpet,0
+06:07:52,Osmania Medical College,Miyapur,0
+06:08:05,ESI Hospital,Vidyanagar,0
+06:08:08,Durgam Cheruvu,Secunderabad East,0
+06:08:15,Parade Grounds,Erragadda,0
+06:08:30,Yusufguda,Ameerpet,0
+06:08:31,Secunderabad West,Parade Grounds,0
+06:08:34,LB Nagar,JNTU College,0
+06:08:40,RTC X Roads,Raidurg,0
+06:08:54,JNTU College,Musarambagh,0
+06:09:05,Nampally,Bharat Nagar,0
+06:09:18,Parade Grounds,Gandhi Hospital,0
+06:09:28,Durgam Cheruvu,Narayanguda,0
+06:09:32,Gandhi Hospital,Vidyanagar,0
+06:09:45,Ameerpet,LB Nagar,0
+06:09:48,Madhapur,Malakpet,0
+06:10:03,LB Nagar,Madhura Nagar,0
+06:10:15,Raidurg,Gandhi Bhavan,0
+06:10:28,Road No 5 Jubilee Hills,Chaitanyapuri,0
+06:10:29,Secunderabad West,Lakdikapul,0
+06:10:43,Narayanguda,Musarambagh,0
+06:10:57,Raidurg,Lakdikapul,0
+06:10:58,Begumpet,LB Nagar,0
+06:11:03,Gandhi Hospital,Lalaguda,0
+06:11:08,Musarambagh,Habsiguda,0
+06:11:19,Vidyanagar,Mettuguda,0
+06:11:20,Erragadda,Lalaguda,0
+06:11:23,Parade Grounds,Vidyanagar,0
+06:11:24,Bharat Nagar,Nagole,0
+06:11:36,HITEC City,Nagole,0
+06:11:45,Erragadda,RTC X Roads,0
+06:11:49,Nampally,Jubilee Hills Check Post,0
+06:11:50,Tarnaka,Raidurg,0
+06:12:01,Peddamma Temple,Durgam Cheruvu,0
+06:12:12,Punjagutta,LB Nagar,0
+06:12:23,Narayanguda,Prakash Nagar,0
+06:12:34,Secunderabad West,Peddamma Temple,0
+06:12:39,Habsiguda,Madhura Nagar,0
+06:12:45,LB Nagar,MG Bus Station,0
+06:12:48,Punjagutta,Begumpet,0
+06:12:55,Madhura Nagar,Chikkadpally,0
+09:15:00,Atlantis,Ameerpet,1
+06:13:05,Parade Grounds,LB Nagar,0
+06:13:19,Miyapur,MG Bus Station,0
+06:13:26,HITEC City,Rasoolpura,0
+06:13:32,Nagole,Khairatabad,0
+06:13:40,Raidurg,Borabanda,0
+06:13:52,Ameerpet,Balanagar,0
+06:14:01,Begumpet,Prakash Nagar,0
+06:14:03,Raidurg,Durgam Cheruvu,0
+06:14:14,MG Bus Station,Raidurg,0
+06:14:17,Miyapur,Assembly,0
+06:14:25,Rasoolpura,HITEC City,0
+06:14:33,LB Nagar,Begumpet,0
+06:14:37,Peddamma Temple,Victoria Memorial,0
+06:14:44,Assembly,Begumpet,0
+06:14:45,RTC X Roads,Secunderabad West,0
+06:15:00,Bharat Nagar,LB Nagar,0
+06:15:03,Raidurg,Road No 5 Jubilee Hills,0
+06:15:11,KPHB Colony,Nampally,0
+06:15:25,Erragadda,ESI Hospital,0
+06:15:33,Madhura Nagar,Kachiguda,0
+06:15:43,MG Bus Station,HITEC City,0
+06:15:51,Rasoolpura,Peddamma Temple,0
+06:16:00,LB Nagar,Chikkadpally,0
+06:16:08,RTC X Roads,Durgam Cheruvu,0
+06:16:16,Nagole,Durgam Cheruvu,0
+06:16:30,Begumpet,HITEC City,0
+06:16:39,Stadium,Assembly,0
+06:16:47,Balanagar,MG Bus Station,0
+06:16:52,New Market,RTC X Roads,0
+06:16:54,SR Nagar,Lakdikapul,0
+06:17:06,Ameerpet,Khairatabad,0
+06:17:13,LB Nagar,Mettuguda,0
+06:17:20,Kukatpally,Secunderabad West,0
+06:17:27,Chikkadpally,Parade Grounds,0
+06:17:39,Miyapur,Musheerabad,0
+06:17:49,Chaitanyapuri,Miyapur,0
+06:17:55,MG Bus Station,Victoria Memorial,0
+06:18:10,Borabanda,LB Nagar,0
+06:18:22,Madhapur,Raidurg,0
+06:18:37,Khairatabad,Nagole,0
+06:18:38,Victoria Memorial,Madhura Nagar,0
+06:18:51,LB Nagar,Ameerpet,0
+06:18:59,Narayanguda,Vidyanagar,0
+06:19:08,Miyapur,Victoria Memorial,0
+06:19:18,Begumpet,Balanagar,0
+06:19:25,ESI Hospital,Nagole,0
+06:19:26,Gandhi Bhavan,Malakpet,0
+06:19:34,Malakpet,HITEC City,0
+06:19:41,Osmania Medical College,Borabanda,0
+06:19:48,Nampally,Balanagar,0
+06:19:49,Durgam Cheruvu,KPHB Colony,0
+06:19:55,Lakdikapul,Kukatpally,0
+06:20:06,JNTU College,Miyapur,0
+06:20:10,Irrum Manzil,Miyapur,0
+06:20:13,Assembly,Uppal,0
+06:20:15,Parade Grounds,Khairatabad,0
+06:20:27,Nampally,Dilsukhnagar,0
+06:20:37,Rasoolpura,Durgam Cheruvu,0
+06:20:39,HITEC City,Ameerpet,0
+06:20:44,Bharat Nagar,Miyapur,0
+06:20:49,Parade Grounds,Chikkadpally,0
+06:20:56,LB Nagar,Jubilee Hills Check Post,0
+06:20:58,Parade Grounds,Secunderabad West,0
+06:21:02,Bharat Nagar,HITEC City,0
+06:21:16,Yusufguda,Raidurg,0
+06:21:29,Vidyanagar,HITEC City,0
+06:21:35,Mettuguda,Begumpet,0
+06:21:37,NGRI,New Market,0
+06:21:51,LB Nagar,Stadium,0
+06:21:58,Borabanda,Begumpet,0
+06:22:12,Nagole,Ameerpet,0
+06:22:15,Madhapur,Lalaguda,0
+06:22:20,Rasoolpura,Narayanguda,0
+06:22:33,Stadium,Nagole,0
+06:22:45,Parade Grounds,Malakpet,0
+06:22:49,Secunderabad West,Moosapet,0
+06:23:04,Nagole,Durgam Cheruvu,0
+06:23:14,Rasoolpura,Chaitanyapuri,0
+06:23:15,NGRI,Malakpet,0
+06:23:23,Khairatabad,Raidurg,0
+06:23:29,Osmania Medical College,Paradise,0
+06:23:44,Osmania Medical College,Miyapur,0
+06:23:48,Balanagar,Peddamma Temple,0
+06:23:56,Secunderabad East,Assembly,0
+06:24:04,Begumpet,Stadium,0
+06:24:17,Miyapur,MG Bus Station,0
+06:24:24,Road No 5 Jubilee Hills,MG Bus Station,0
+06:24:34,Dilsukhnagar,Secunderabad East,0
+06:24:40,LB Nagar,Durgam Cheruvu,0
+06:24:46,Musarambagh,Nagole,0
+06:24:51,Nampally,Erragadda,0
+06:24:55,MG Bus Station,Durgam Cheruvu,0
+06:25:08,Yusufguda,Punjagutta,0
+06:25:20,Stadium,Peddamma Temple,0
+06:25:33,Tarnaka,Osmania Medical College,0
+06:25:35,Secunderabad West,MG Bus Station,0
+06:25:41,Ameerpet,Miyapur,0
+06:25:50,ESI Hospital,JNTU College,0
+06:25:51,Secunderabad East,Road No 5 Jubilee Hills,0
+06:25:54,Begumpet,Durgam Cheruvu,0
+06:25:56,Gandhi Hospital,Parade Grounds,0
+06:26:04,Uppal,New Market,0
+06:26:05,Nampally,Secunderabad West,0
+06:26:07,Raidurg,LB Nagar,0
+06:26:09,Parade Grounds,Yusufguda,0
+06:26:12,Ameerpet,Parade Grounds,0
+06:26:17,Balanagar,Nampally,0
+06:26:26,HITEC City,Rasoolpura,0
+06:26:39,Prakash Nagar,HITEC City,0
+06:26:46,Nagole,Secunderabad West,0
+06:26:53,MG Bus Station,Prakash Nagar,0
+06:27:03,Borabanda,Bharat Nagar,0
+06:27:16,Irrum Manzil,Khairatabad,0
+06:27:27,Balanagar,Assembly,0
+06:27:36,Balanagar,Miyapur,0
+06:27:44,Yusufguda,Uppal,0
+06:27:45,Lakdikapul,Jubilee Hills Check Post,0
+06:27:57,Secunderabad West,Kukatpally,0
+06:28:01,Narayanguda,HITEC City,0
+06:28:12,Parade Grounds,Raidurg,0
+06:28:16,LB Nagar,Secunderabad East,0
+06:28:27,Ameerpet,Gandhi Bhavan,0
+06:28:30,Kukatpally,Ameerpet,0
+06:28:35,Paradise,Raidurg,0
+06:28:50,MG Bus Station,ESI Hospital,0
+06:29:02,MG Bus Station,LB Nagar,0
+06:29:07,NGRI,Stadium,0
+06:29:09,Paradise,RTC X Roads,0
+06:29:21,Malakpet,Nampally,0
+06:29:23,Lakdikapul,Madhura Nagar,0
+06:29:37,Parade Grounds,Borabanda,0
+06:29:50,Madhura Nagar,Gandhi Bhavan,0
+06:29:51,HITEC City,Ameerpet,0
+06:30:00,Begumpet,Narayanguda,0
+06:30:03,Kachiguda,Nagole,0
+06:30:17,Stadium,Moosapet,0
+06:30:23,LB Nagar,Malakpet,0
+06:30:25,Secunderabad West,Malakpet,0
+06:30:37,NGRI,Begumpet,0
+06:30:44,Raidurg,Secunderabad East,0
+06:30:52,Moosapet,Nampally,0
+06:30:54,Lalaguda,LB Nagar,0
+06:31:03,Raidurg,Miyapur,0
+06:31:17,Mettuguda,LB Nagar,0
+06:31:21,Habsiguda,Prakash Nagar,0
+06:31:29,Prakash Nagar,HITEC City,0
+06:31:33,Gandhi Bhavan,ESI Hospital,0
+06:31:38,Nagole,Road No 5 Jubilee Hills,0
+06:31:40,Miyapur,Begumpet,0
+06:31:53,Assembly,Ameerpet,0
+06:32:02,Miyapur,LB Nagar,0
+06:32:06,Kachiguda,Chikkadpally,0
+06:32:14,Sanath Nagar,Begumpet,0
+06:32:17,NGRI,Peddamma Temple,0
+06:32:26,Jubilee Hills Check Post,LB Nagar,0
+06:32:34,Vidyanagar,Assembly,0
+06:32:43,SR Nagar,Punjagutta,0
+06:32:53,Habsiguda,Musheerabad,0
+06:33:07,Kukatpally,HITEC City,0
+06:33:21,LB Nagar,Sultan Bazar,0
+06:33:30,Gandhi Bhavan,Miyapur,0
+06:33:42,MG Bus Station,Parade Grounds,0
+06:33:53,Stadium,Ameerpet,0
+06:34:02,Stadium,Malakpet,0
+06:34:15,Secunderabad East,Nagole,0
+06:34:21,Gandhi Hospital,Vidyanagar,0
+06:34:25,Parade Grounds,Lakdikapul,0
+06:34:38,LB Nagar,MG Bus Station,0
+06:34:46,Jubilee Hills Check Post,Raidurg,0
+06:34:53,Kachiguda,Raidurg,0
+06:35:04,Vidyanagar,NGRI,0
+06:35:05,ESI Hospital,Lalaguda,0
+06:35:11,Gandhi Hospital,Nagole,0
+06:35:20,Chikkadpally,Miyapur,0
+06:35:23,LB Nagar,Begumpet,0
+06:35:26,Balanagar,HITEC City,0
+06:35:31,New Market,Road No 5 Jubilee Hills,0
+06:35:42,Balanagar,Malakpet,0
+06:35:53,Secunderabad West,Chaitanyapuri,0
+06:35:59,Prakash Nagar,Musheerabad,0
+06:36:07,Gandhi Hospital,Miyapur,0
+06:36:09,Assembly,Yusufguda,0
+06:36:14,Kachiguda,Durgam Cheruvu,0
+06:36:21,Vidyanagar,HITEC City,0
+06:36:33,Gandhi Hospital,Nagole,0
+06:36:45,MG Bus Station,Miyapur,0
+06:36:51,Raidurg,MG Bus Station,0
+06:36:57,LB Nagar,Assembly,0
+06:37:04,Parade Grounds,Raidurg,0
+06:37:07,Ameerpet,Rasoolpura,0
+06:37:14,Prakash Nagar,Assembly,0
+06:37:29,Parade Grounds,Lakdikapul,0
+06:37:40,Nampally,Miyapur,0
+06:37:53,Nagole,MG Bus Station,0
+06:38:02,Ameerpet,Nagole,0
+06:38:08,Vidyanagar,MG Bus Station,0
+06:38:15,Yusufguda,Nagole,0
+06:38:20,Irrum Manzil,Victoria Memorial,0
+06:38:28,Bharat Nagar,Chaitanyapuri,0
+06:38:34,Parade Grounds,Kachiguda,0
+06:38:39,Miyapur,Secunderabad West,0
+06:38:46,Osmania Medical College,Parade Grounds,0
+06:38:57,HITEC City,Lalaguda,0
+06:39:12,Rasoolpura,NGRI,0
+06:39:27,Chikkadpally,HITEC City,0
+06:39:31,Rasoolpura,Musarambagh,0
+06:39:42,Punjagutta,Nampally,0
+06:39:55,Peddamma Temple,Begumpet,0
+06:40:09,SR Nagar,Moosapet,0
+06:40:20,Begumpet,MG Bus Station,0
+06:40:28,Miyapur,Dilsukhnagar,0
+06:40:31,Moosapet,MG Bus Station,0
+06:40:43,LB Nagar,Irrum Manzil,0
+06:40:56,Mettuguda,Lalaguda,0
+06:41:05,NGRI,Osmania Medical College,0
+06:41:08,Nampally,Raidurg,0
+06:41:16,Lalaguda,MG Bus Station,0
+06:41:30,New Market,Erragadda,0
+06:41:32,SR Nagar,Lalaguda,0
+06:41:46,Madhura Nagar,LB Nagar,0
+06:42:00,Raidurg,Dilsukhnagar,0
+06:42:13,Victoria Memorial,Gandhi Bhavan,0
+06:42:15,Nagole,Madhura Nagar,0
+06:42:26,Gandhi Bhavan,Chaitanyapuri,0
+06:42:37,Sanath Nagar,Bharat Nagar,0
+06:42:41,Uppal,Prakash Nagar,0
+06:42:50,Malakpet,Rasoolpura,0
+06:43:01,Kukatpally,Raidurg,0
+06:43:16,Road No 5 Jubilee Hills,Begumpet,0
+06:43:18,SR Nagar,Sanath Nagar,0
+06:43:23,Kachiguda,Erragadda,0
+06:43:27,Musheerabad,ESI Hospital,0
+06:43:35,Chaitanyapuri,Sanath Nagar,0
+06:43:47,Sanath Nagar,LB Nagar,0
+06:43:59,Peddamma Temple,Musheerabad,0
+06:44:10,Bharat Nagar,Stadium,0
+06:44:17,Sanath Nagar,Osmania Medical College,0
+06:44:29,Chaitanyapuri,Nagole,0
+06:44:33,Secunderabad West,Bharat Nagar,0
+06:44:44,Dilsukhnagar,Chikkadpally,0
+06:44:55,Dilsukhnagar,LB Nagar,0
+06:44:59,Lalaguda,Sanath Nagar,0
+06:45:13,Nagole,Begumpet,0
+06:45:24,Begumpet,Lalaguda,0
+06:45:25,HITEC City,Assembly,0
+06:45:28,HITEC City,Irrum Manzil,0
+06:45:42,HITEC City,Irrum Manzil,0
+06:45:46,Raidurg,Lakdikapul,0
+06:45:59,SR Nagar,RTC X Roads,0
+06:46:00,Osmania Medical College,Vidyanagar,0
+06:46:03,Mettuguda,Raidurg,0
+06:46:05,Begumpet,Miyapur,0
+06:46:06,Dilsukhnagar,HITEC City,0
+06:46:16,Malakpet,Ameerpet,0
+06:46:17,ESI Hospital,LB Nagar,0
+06:46:19,Durgam Cheruvu,Uppal,0
+06:46:32,Dilsukhnagar,Paradise,0
+06:46:40,NGRI,Sanath Nagar,0
+06:46:41,Peddamma Temple,Chikkadpally,0
+06:46:52,Tarnaka,Nagole,0
+06:46:53,KPHB Colony,Uppal,0
+06:47:00,LB Nagar,Bharat Nagar,0
+06:47:12,Chikkadpally,Kukatpally,0
+06:47:14,Malakpet,Ameerpet,0
+06:47:17,Osmania Medical College,Begumpet,0
+06:47:26,Jubilee Hills Check Post,Chaitanyapuri,0
+06:47:36,Tarnaka,Nagole,0
+06:47:46,LB Nagar,Raidurg,0
+06:47:48,Secunderabad West,Begumpet,0
+06:48:01,Secunderabad East,Gandhi Hospital,0
+06:48:08,Nagole,Lakdikapul,0
+06:48:14,Secunderabad West,LB Nagar,0
+06:48:26,Moosapet,LB Nagar,0
+06:48:37,Nampally,Borabanda,0
+06:48:48,Narayanguda,Kukatpally,0
+06:49:02,Balanagar,LB Nagar,0
+06:49:14,Madhapur,Raidurg,0
+06:49:23,KPHB Colony,Borabanda,0
+06:49:32,Malakpet,Erragadda,0
+06:49:38,Gandhi Hospital,Sanath Nagar,0
+06:49:45,Gandhi Hospital,Peddamma Temple,0
+06:49:50,Paradise,Musarambagh,0
+06:50:00,Habsiguda,Ameerpet,0
+06:50:08,Lakdikapul,Bharat Nagar,0
+06:50:22,Parade Grounds,Erragadda,0
+06:50:27,Parade Grounds,Raidurg,0
+06:50:41,Parade Grounds,HITEC City,0
+06:50:51,Rasoolpura,Begumpet,0
+06:50:52,Rasoolpura,Begumpet,0
+06:51:04,Gandhi Bhavan,Ameerpet,0
+06:51:16,HITEC City,Narayanguda,0
+06:51:22,Miyapur,Gandhi Hospital,0
+06:51:32,Begumpet,Kukatpally,0
+06:51:44,Begumpet,Miyapur,0
+06:51:56,Tarnaka,Chaitanyapuri,0
+06:52:04,New Market,Dilsukhnagar,0
+06:52:16,Malakpet,Sanath Nagar,0
+06:52:26,Balanagar,KPHB Colony,0
+06:52:29,HITEC City,KPHB Colony,0
+06:52:31,Osmania Medical College,Begumpet,0
+06:52:39,Rasoolpura,LB Nagar,0
+06:52:43,HITEC City,Erragadda,0
+06:52:50,Bharat Nagar,Madhura Nagar,0
+06:53:00,Stadium,Madhura Nagar,0
+06:53:01,Khairatabad,Vidyanagar,0
+06:53:02,Miyapur,MG Bus Station,0
+06:53:06,HITEC City,MG Bus Station,0
+06:53:08,Miyapur,Durgam Cheruvu,0
+06:53:11,ESI Hospital,Mettuguda,0
+06:53:15,NGRI,Secunderabad West,0
+06:53:28,Musarambagh,LB Nagar,0
+06:53:40,JNTU College,Miyapur,0
+06:53:55,Balanagar,MG Bus Station,0
+06:54:02,Parade Grounds,Jubilee Hills Check Post,0
+06:54:09,MG Bus Station,LB Nagar,0
+06:54:15,Ameerpet,Sanath Nagar,0
+06:54:23,Secunderabad West,Narayanguda,0
+06:54:25,Nagole,Bharat Nagar,0
+06:54:32,Parade Grounds,Tarnaka,0
+06:54:39,Gandhi Hospital,Durgam Cheruvu,0
+06:54:43,Malakpet,Ameerpet,0
+06:54:52,Begumpet,Tarnaka,0
+06:54:56,Chikkadpally,Musarambagh,0
+06:55:08,Borabanda,Begumpet,0
+06:55:11,Assembly,SR Nagar,0
+06:55:15,Ameerpet,HITEC City,0
+06:55:17,Ameerpet,HITEC City,0
+06:55:25,Nagole,Parade Grounds,0
+06:55:35,Nagole,Narayanguda,0
+06:55:45,Begumpet,Vidyanagar,0
+06:55:51,Gandhi Hospital,Prakash Nagar,0
+06:55:54,Nagole,Begumpet,0
+06:56:07,Osmania Medical College,KPHB Colony,0
+06:56:16,Balanagar,Nagole,0
+06:56:17,KPHB Colony,Secunderabad West,0
+06:56:19,Begumpet,Vidyanagar,0
+06:56:21,Rasoolpura,Habsiguda,0
+06:56:29,Parade Grounds,Borabanda,0
+06:56:41,RTC X Roads,Nagole,0
+06:56:54,Parade Grounds,Punjagutta,0
+06:57:04,Uppal,Ameerpet,0
+06:57:05,Nagole,Raidurg,0
+06:57:19,New Market,Jubilee Hills Check Post,0
+06:57:28,Begumpet,JNTU College,0
+06:57:40,Nagole,Tarnaka,0
+06:57:43,Dilsukhnagar,Narayanguda,0
+06:57:50,LB Nagar,New Market,0
+06:58:00,KPHB Colony,Begumpet,0
+06:58:06,Kukatpally,Moosapet,0
+06:58:17,Victoria Memorial,Nampally,0
+06:58:31,Begumpet,Chikkadpally,0
+06:58:45,Ameerpet,Balanagar,0
+06:58:56,SR Nagar,Musarambagh,0
+06:59:07,Road No 5 Jubilee Hills,Victoria Memorial,0
+06:59:17,Jubilee Hills Check Post,Balanagar,0
+06:59:26,Chaitanyapuri,Raidurg,0
+06:59:40,ESI Hospital,Road No 5 Jubilee Hills,0
+06:59:52,Kachiguda,Chikkadpally,0
+06:59:54,Begumpet,LB Nagar,0
+07:00:00,Miyapur,MG Bus Station,0
+07:00:04,New Market,HITEC City,0
+07:00:08,Lakdikapul,SR Nagar,0
+07:00:10,MG Bus Station,HITEC City,0
+07:00:19,HITEC City,Secunderabad West,0
+07:00:34,Tarnaka,Begumpet,0
+07:00:49,HITEC City,ESI Hospital,0
+07:00:56,Ameerpet,Road No 5 Jubilee Hills,0
+07:01:06,Raidurg,Ameerpet,0
+07:01:14,JNTU College,Dilsukhnagar,0
+07:01:26,Assembly,Nagole,0
+07:01:31,Durgam Cheruvu,HITEC City,0
+07:01:35,Mettuguda,MG Bus Station,0
+07:01:48,HITEC City,Chikkadpally,0
+07:01:52,Dilsukhnagar,Sanath Nagar,0
+07:02:00,Nagole,Osmania Medical College,0
+07:02:07,NGRI,LB Nagar,0
+07:02:10,Raidurg,SR Nagar,0
+07:02:15,KPHB Colony,Uppal,0
+07:02:21,Secunderabad East,Bharat Nagar,0
+07:02:35,Habsiguda,ESI Hospital,0
+07:02:37,HITEC City,Osmania Medical College,0
+07:02:52,Habsiguda,Secunderabad West,0
+07:02:54,Sanath Nagar,Khairatabad,0
+07:03:02,Musheerabad,Sultan Bazar,0
+07:03:09,KPHB Colony,NGRI,0
+07:03:13,Victoria Memorial,Balanagar,0
+07:03:17,Miyapur,Sultan Bazar,0
+07:03:31,Jubilee Hills Check Post,New Market,0
+07:03:34,SR Nagar,MG Bus Station,0
+07:03:48,Uppal,Secunderabad West,0
+07:04:01,Jubilee Hills Check Post,Nagole,0
+07:04:02,Chikkadpally,Miyapur,0
+07:04:06,Secunderabad West,Secunderabad East,0
+07:04:18,Rasoolpura,LB Nagar,0
+07:04:31,MG Bus Station,JNTU College,0
+07:04:38,Begumpet,Prakash Nagar,0
+07:04:40,Bharat Nagar,Chikkadpally,0
+07:04:50,Mettuguda,Begumpet,0
+07:05:00,Assembly,SR Nagar,0
+07:05:07,Miyapur,Musarambagh,0
+07:05:17,LB Nagar,Begumpet,0
+07:05:19,Tarnaka,Dilsukhnagar,0
+07:05:28,Secunderabad East,HITEC City,0
+07:05:37,Secunderabad East,Victoria Memorial,0
+07:05:45,JNTU College,Victoria Memorial,0
+07:05:51,Nampally,Miyapur,0
+07:06:04,Kukatpally,Assembly,0
+07:06:15,Prakash Nagar,HITEC City,0
+07:06:27,HITEC City,ESI Hospital,0
+07:06:33,Secunderabad East,Raidurg,0
+07:06:36,Secunderabad West,Yusufguda,0
+07:06:48,Uppal,Ameerpet,0
+07:06:51,Kukatpally,HITEC City,0
+07:06:59,Miyapur,Irrum Manzil,0
+07:07:12,Irrum Manzil,JNTU College,0
+07:07:27,MG Bus Station,LB Nagar,0
+07:07:41,Mettuguda,Nampally,0
+07:07:54,Begumpet,MG Bus Station,0
+07:08:08,HITEC City,Gandhi Hospital,0
+07:08:14,Osmania Medical College,Raidurg,0
+07:08:21,RTC X Roads,Durgam Cheruvu,0
+07:08:36,Borabanda,New Market,0
+07:08:39,NGRI,Narayanguda,0
+07:08:48,Gandhi Bhavan,Balanagar,0
+07:08:55,Balanagar,Paradise,0
+07:09:09,Ameerpet,MG Bus Station,0
+07:09:11,Balanagar,Begumpet,0
+07:09:16,Nagole,Peddamma Temple,0
+07:09:19,Yusufguda,Musarambagh,0
+07:09:20,Peddamma Temple,Chikkadpally,0
+07:09:30,Kachiguda,Osmania Medical College,0
+07:09:43,Sanath Nagar,Balanagar,0
+07:09:54,LB Nagar,Habsiguda,0
+07:10:06,Yusufguda,Borabanda,0
+07:10:09,Secunderabad West,Madhura Nagar,0
+07:10:17,Miyapur,Kukatpally,0
+07:10:30,Begumpet,Dilsukhnagar,0
+07:10:40,Miyapur,Ameerpet,0
+07:10:48,Sanath Nagar,Chaitanyapuri,0
+07:11:01,Balanagar,SR Nagar,0
+07:11:07,LB Nagar,Begumpet,0
+07:11:11,Borabanda,Miyapur,0
+07:11:14,NGRI,Victoria Memorial,0
+07:11:23,Erragadda,HITEC City,0
+07:11:35,Nagole,Kachiguda,0
+07:11:40,Road No 5 Jubilee Hills,Kachiguda,0
+07:11:44,Erragadda,Secunderabad West,0
+07:11:52,Ameerpet,Jubilee Hills Check Post,0
+07:11:54,Raidurg,Lalaguda,0
+07:12:00,Madhura Nagar,Jubilee Hills Check Post,0
+07:12:09,Mettuguda,RTC X Roads,0
+07:12:23,Ameerpet,Jubilee Hills Check Post,0
+07:12:35,Begumpet,Raidurg,0
+07:12:44,Lakdikapul,Vidyanagar,0
+07:12:57,SR Nagar,Raidurg,0
+07:12:58,Dilsukhnagar,Parade Grounds,0
+07:13:06,Raidurg,Secunderabad East,0
+07:13:16,Musheerabad,Kukatpally,0
+07:13:23,Kachiguda,Peddamma Temple,0
+07:13:32,LB Nagar,Parade Grounds,0
+07:13:35,Lalaguda,Begumpet,0
+07:13:43,Nagole,Habsiguda,0
+07:13:46,Musheerabad,HITEC City,0
+07:13:57,Parade Grounds,HITEC City,0
+07:14:00,Nagole,Chikkadpally,0
+07:14:01,Secunderabad West,Habsiguda,0
+07:14:06,Ameerpet,Malakpet,0
+07:14:18,Lakdikapul,Sanath Nagar,0
+07:14:27,RTC X Roads,Secunderabad West,0
+07:14:32,Punjagutta,Borabanda,0
+07:14:37,ESI Hospital,MG Bus Station,0
+07:14:46,Moosapet,Begumpet,0
+07:14:56,Sanath Nagar,Ameerpet,0
+07:15:07,Prakash Nagar,Chikkadpally,0
+07:15:13,Secunderabad West,Parade Grounds,0
+07:15:27,Secunderabad West,Balanagar,0
+07:15:38,HITEC City,Gandhi Bhavan,0
+07:15:42,HITEC City,LB Nagar,0
+07:15:53,Miyapur,RTC X Roads,0
+07:16:02,MG Bus Station,Borabanda,0
+07:16:10,Assembly,Raidurg,0
+07:16:17,MG Bus Station,Kukatpally,0
+07:16:18,Ameerpet,LB Nagar,0
+07:16:26,Irrum Manzil,Rasoolpura,0
+07:16:32,Secunderabad West,MG Bus Station,0
+07:16:46,New Market,LB Nagar,0
+07:16:59,Chaitanyapuri,Parade Grounds,0
+07:17:05,Assembly,Erragadda,0
+07:17:13,Nampally,Moosapet,0
+07:17:18,Sanath Nagar,Secunderabad West,0
+07:17:25,Nampally,Gandhi Hospital,0
+07:17:28,Raidurg,Sultan Bazar,0
+07:17:40,MG Bus Station,HITEC City,0
+07:17:48,Kachiguda,Nagole,0
+07:18:03,MG Bus Station,Miyapur,0
+07:18:10,NGRI,Lalaguda,0
+07:18:14,Parade Grounds,JNTU College,0
+07:18:19,NGRI,Musheerabad,0
+07:18:30,Madhura Nagar,MG Bus Station,0
+07:18:31,Secunderabad West,LB Nagar,0
+07:18:46,Gandhi Bhavan,Dilsukhnagar,0
+07:18:53,Dilsukhnagar,LB Nagar,0
+07:19:03,Parade Grounds,Dilsukhnagar,0
+07:19:08,Kukatpally,NGRI,0
+07:19:21,Secunderabad East,Raidurg,0
+07:19:31,Yusufguda,Erragadda,0
+07:19:33,Victoria Memorial,Raidurg,0
+07:19:39,Parade Grounds,Dilsukhnagar,0
+07:19:42,Irrum Manzil,Habsiguda,0
+07:19:51,JNTU College,Jubilee Hills Check Post,0
+07:20:04,Uppal,Nagole,0
+07:20:14,RTC X Roads,SR Nagar,0
+07:20:29,Rasoolpura,Ameerpet,0
+07:20:39,Madhapur,MG Bus Station,0
+07:20:45,Habsiguda,Stadium,0
+07:20:55,MG Bus Station,Raidurg,0
+07:21:01,Malakpet,Bharat Nagar,0
+07:21:08,Parade Grounds,Raidurg,0
+07:21:20,Gandhi Hospital,Prakash Nagar,0
+07:21:30,Uppal,Lalaguda,0
+07:21:43,Lalaguda,Parade Grounds,0
+07:21:47,Peddamma Temple,Parade Grounds,0
+07:21:50,Tarnaka,Peddamma Temple,0
+07:22:03,Secunderabad West,SR Nagar,0
+07:22:14,Assembly,Parade Grounds,0
+07:22:26,Bharat Nagar,Miyapur,0
+07:22:32,LB Nagar,Irrum Manzil,0
+07:22:41,HITEC City,Narayanguda,0
+07:22:55,Secunderabad West,Peddamma Temple,0
+07:23:07,SR Nagar,Irrum Manzil,0
+07:23:13,Kachiguda,Uppal,0
+07:23:20,MG Bus Station,Ameerpet,0
+07:23:35,Mettuguda,Secunderabad East,0
+07:23:46,HITEC City,Peddamma Temple,0
+07:23:57,Raidurg,Gandhi Bhavan,0
+07:24:05,Punjagutta,Assembly,0
+07:24:14,MG Bus Station,Sanath Nagar,0
+07:24:19,HITEC City,Jubilee Hills Check Post,0
+07:24:31,Jubilee Hills Check Post,MG Bus Station,0
+07:24:37,Parade Grounds,Sultan Bazar,0
+07:24:49,Osmania Medical College,Erragadda,0
+07:25:00,Mettuguda,RTC X Roads,0
+07:25:07,Raidurg,Borabanda,0
+07:25:20,SR Nagar,JNTU College,0
+07:25:32,Balanagar,Narayanguda,0
+07:25:43,Nampally,Uppal,0
+07:25:47,Secunderabad West,Gandhi Bhavan,0
+07:25:56,Road No 5 Jubilee Hills,SR Nagar,0
+07:26:06,Durgam Cheruvu,Assembly,0
+07:26:07,Madhura Nagar,Mettuguda,0
+07:26:18,Lakdikapul,Bharat Nagar,0
+07:26:24,Peddamma Temple,Bharat Nagar,0
+07:26:37,SR Nagar,Lalaguda,0
+07:26:52,Ameerpet,Begumpet,0
+07:27:07,Musheerabad,Uppal,0
+07:27:11,HITEC City,MG Bus Station,0
+07:27:16,Begumpet,Chikkadpally,0
+07:27:18,Begumpet,Lakdikapul,0
+07:27:30,Peddamma Temple,Sultan Bazar,0
+07:27:45,Narayanguda,LB Nagar,0
+07:27:59,Ameerpet,Narayanguda,0
+07:28:13,LB Nagar,NGRI,0
+07:28:28,Durgam Cheruvu,Gandhi Hospital,0
+07:28:33,Musheerabad,Miyapur,0
+07:28:43,Paradise,Sultan Bazar,0
+07:28:49,MG Bus Station,Kachiguda,0
+07:28:58,Tarnaka,RTC X Roads,0
+07:29:01,Secunderabad West,Nagole,0
+07:29:05,Raidurg,Malakpet,0
+07:29:17,Nagole,Nampally,0
+07:29:20,Miyapur,New Market,0
+07:29:25,Parade Grounds,HITEC City,0
+07:29:28,Rasoolpura,Begumpet,0
+07:29:35,Raidurg,Habsiguda,0
+07:29:37,LB Nagar,Moosapet,0
+07:29:40,Uppal,Sultan Bazar,0
+07:29:41,Gandhi Bhavan,Assembly,0
+07:29:54,Gandhi Bhavan,Malakpet,0
+07:30:04,Peddamma Temple,Miyapur,0
+07:30:15,Dilsukhnagar,Assembly,0
+07:30:26,Erragadda,MG Bus Station,0
+07:30:33,Yusufguda,Narayanguda,0
+07:30:48,Road No 5 Jubilee Hills,MG Bus Station,0
+07:30:50,Begumpet,Sanath Nagar,0
+07:30:56,Rasoolpura,Khairatabad,0
+07:30:59,Uppal,Nagole,0
+07:31:09,Chaitanyapuri,Road No 5 Jubilee Hills,0
+07:31:24,Uppal,Mettuguda,0
+07:31:35,Raidurg,HITEC City,0
+07:31:46,HITEC City,Gandhi Hospital,0
+07:31:48,Tarnaka,Dilsukhnagar,0
+07:32:03,Parade Grounds,Kukatpally,0
+07:32:12,Chikkadpally,Irrum Manzil,0
+07:32:21,Ameerpet,Malakpet,0
+07:32:30,Nagole,Yusufguda,0
+07:32:42,Parade Grounds,Moosapet,0
+07:32:51,Nagole,KPHB Colony,0
+07:32:54,Habsiguda,Nagole,0
+07:32:55,Parade Grounds,Madhura Nagar,0
+07:33:00,Peddamma Temple,LB Nagar,0
+07:33:14,Miyapur,Khairatabad,0
+07:33:16,JNTU College,New Market,0
+07:33:18,Mettuguda,KPHB Colony,0
+07:33:33,Kukatpally,Sultan Bazar,0
+07:33:34,MG Bus Station,Ameerpet,0
+07:33:37,HITEC City,Vidyanagar,0
+07:33:48,Lalaguda,Chaitanyapuri,0
+07:34:03,Chaitanyapuri,Gandhi Hospital,0
+07:34:18,Chaitanyapuri,Balanagar,0
+07:34:29,Gandhi Hospital,ESI Hospital,0
+07:34:43,Musarambagh,Ameerpet,0
+07:34:52,Victoria Memorial,ESI Hospital,0
+07:34:56,Secunderabad West,HITEC City,0
+07:35:01,Nagole,Peddamma Temple,0
+07:35:08,Mettuguda,Raidurg,0
+07:35:12,Nagole,Ameerpet,0
+07:35:16,Sultan Bazar,Peddamma Temple,0
+07:35:18,Miyapur,Begumpet,0
+07:35:28,HITEC City,Musheerabad,0
+07:35:29,Assembly,Kukatpally,0
+07:35:39,Miyapur,Paradise,0
+07:35:51,Gandhi Hospital,Assembly,0
+07:35:52,LB Nagar,Lakdikapul,0
+07:35:56,HITEC City,SR Nagar,0
+07:36:01,Lakdikapul,Narayanguda,0
+07:36:11,MG Bus Station,Paradise,0
+07:36:22,Raidurg,Assembly,0
+07:36:37,SR Nagar,Begumpet,0
+07:36:41,LB Nagar,Osmania Medical College,0
+07:36:50,Sanath Nagar,Musheerabad,0
+07:37:05,Ameerpet,Madhura Nagar,0
+07:37:14,NGRI,Lalaguda,0
+07:37:25,Madhura Nagar,HITEC City,0
+07:37:31,Road No 5 Jubilee Hills,LB Nagar,0
+07:37:36,Chaitanyapuri,HITEC City,0
+07:37:44,Assembly,Lakdikapul,0
+07:37:58,Jubilee Hills Check Post,Raidurg,0
+07:38:13,KPHB Colony,LB Nagar,0
+07:38:20,Parade Grounds,ESI Hospital,0
+07:38:24,Nampally,Malakpet,0
+07:38:26,Narayanguda,Secunderabad West,0
+07:38:28,Mettuguda,Secunderabad West,0
+07:38:29,Gandhi Bhavan,Madhura Nagar,0
+07:38:39,JNTU College,Kukatpally,0
+07:38:52,HITEC City,Peddamma Temple,0
+07:39:01,Khairatabad,Irrum Manzil,0
+07:39:16,Malakpet,Borabanda,0
+07:39:17,Khairatabad,Punjagutta,0
+07:39:29,Erragadda,Kachiguda,0
+07:39:37,Narayanguda,Road No 5 Jubilee Hills,0
+07:39:49,Irrum Manzil,Narayanguda,0
+07:39:58,Malakpet,Osmania Medical College,0
+07:40:06,Mettuguda,Dilsukhnagar,0
+07:40:11,Dilsukhnagar,Musheerabad,0
+07:40:19,Moosapet,Vidyanagar,0
+07:40:27,HITEC City,MG Bus Station,0
+07:40:31,Chaitanyapuri,LB Nagar,0
+07:40:41,Secunderabad West,Durgam Cheruvu,0
+07:40:42,Gandhi Bhavan,Sultan Bazar,0
+07:40:52,Peddamma Temple,MG Bus Station,0
+07:40:56,Malakpet,Chaitanyapuri,0
+07:41:10,Assembly,Secunderabad East,0
+07:41:21,New Market,HITEC City,0
+07:41:29,Lalaguda,Begumpet,0
+07:41:37,Nagole,Madhapur,0
+07:41:43,Ameerpet,Peddamma Temple,0
+07:41:51,Ameerpet,RTC X Roads,0
+07:42:02,Borabanda,Tarnaka,0
+07:42:16,Secunderabad West,Sanath Nagar,0
+07:42:27,JNTU College,Miyapur,0
+07:42:30,Secunderabad West,Lakdikapul,0
+07:42:42,Ameerpet,Khairatabad,0
+07:42:50,Chaitanyapuri,Prakash Nagar,0
+07:43:01,Sultan Bazar,Chikkadpally,0
+07:43:12,Stadium,Miyapur,0
+07:43:21,LB Nagar,Miyapur,0
+07:43:33,Osmania Medical College,Vidyanagar,0
+07:43:34,NGRI,Road No 5 Jubilee Hills,0
+07:43:41,Raidurg,Chikkadpally,0
+07:43:43,Narayanguda,Tarnaka,0
+07:43:47,Punjagutta,Tarnaka,0
+07:44:01,Musarambagh,Raidurg,0
+07:44:03,Chaitanyapuri,LB Nagar,0
+07:44:13,Assembly,Road No 5 Jubilee Hills,0
+07:44:18,Yusufguda,Secunderabad West,0
+07:44:29,Kachiguda,Begumpet,0
+07:44:30,Moosapet,Chaitanyapuri,0
+07:44:39,Uppal,Begumpet,0
+07:44:51,Ameerpet,NGRI,0
+07:44:58,Begumpet,Malakpet,0
+07:45:12,Lalaguda,RTC X Roads,0
+07:45:27,JNTU College,Khairatabad,0
+07:45:41,Road No 5 Jubilee Hills,Parade Grounds,0
+07:45:46,JNTU College,Balanagar,0
+07:46:01,Osmania Medical College,Mettuguda,0
+07:46:12,Miyapur,Sultan Bazar,0
+07:46:18,Miyapur,Irrum Manzil,0
+07:46:21,Durgam Cheruvu,Jubilee Hills Check Post,0
+07:46:28,Sultan Bazar,MG Bus Station,0
+07:46:38,Assembly,Secunderabad West,0
+07:46:45,Madhura Nagar,Mettuguda,0
+07:46:52,HITEC City,SR Nagar,0
+07:47:04,Peddamma Temple,NGRI,0
+07:47:10,KPHB Colony,Nagole,0
+07:47:24,Balanagar,Rasoolpura,0
+07:47:34,Borabanda,LB Nagar,0
+07:47:47,Malakpet,Begumpet,0
+07:48:00,Kachiguda,Stadium,0
+07:48:06,Secunderabad East,Chaitanyapuri,0
+07:48:09,Yusufguda,Begumpet,0
+07:48:11,HITEC City,MG Bus Station,0
+07:48:15,Jubilee Hills Check Post,Balanagar,0
+07:48:18,Chaitanyapuri,HITEC City,0
+07:48:21,Madhapur,MG Bus Station,0
+07:48:23,Moosapet,Sanath Nagar,0
+07:48:31,Dilsukhnagar,Gandhi Bhavan,0
+07:48:34,Moosapet,LB Nagar,0
+07:48:43,Secunderabad East,LB Nagar,0
+07:48:44,Moosapet,Secunderabad East,0
+07:48:54,Paradise,Malakpet,0
+07:49:01,Miyapur,LB Nagar,0
+07:49:14,Balanagar,RTC X Roads,0
+07:49:29,Kachiguda,Assembly,0
+07:49:38,Ameerpet,Chaitanyapuri,0
+07:49:41,Gandhi Bhavan,SR Nagar,0
+07:49:44,Nagole,LB Nagar,0
+07:49:52,HITEC City,Dilsukhnagar,0
+07:49:56,Peddamma Temple,NGRI,0
+07:50:06,Punjagutta,Bharat Nagar,0
+07:50:11,Miyapur,LB Nagar,0
+07:50:25,Prakash Nagar,Raidurg,0
+07:50:31,Nagole,LB Nagar,0
+07:50:45,Secunderabad West,Lalaguda,0
+07:50:48,MG Bus Station,Paradise,0
+07:51:00,Irrum Manzil,MG Bus Station,0
+07:51:07,Lalaguda,MG Bus Station,0
+07:51:19,Begumpet,Lalaguda,0
+07:51:32,Assembly,Chaitanyapuri,0
+07:51:46,HITEC City,Dilsukhnagar,0
+07:52:01,Parade Grounds,Secunderabad East,0
+07:52:12,HITEC City,Miyapur,0
+07:52:24,Nagole,Jubilee Hills Check Post,0
+07:52:32,Raidurg,Secunderabad West,0
+07:52:34,Raidurg,LB Nagar,0
+07:52:42,SR Nagar,MG Bus Station,0
+07:52:47,Begumpet,Jubilee Hills Check Post,0
+07:53:00,Chaitanyapuri,Nagole,0
+07:53:10,Uppal,LB Nagar,0
+07:53:19,Narayanguda,Gandhi Hospital,0
+07:53:26,Secunderabad East,Raidurg,0
+07:53:32,Road No 5 Jubilee Hills,Raidurg,0
+07:53:42,Begumpet,Balanagar,0
+07:53:55,Nampally,Begumpet,0
+07:53:58,Begumpet,JNTU College,0
+07:54:09,Madhura Nagar,LB Nagar,0
+07:54:22,Malakpet,Raidurg,0
+07:54:24,Miyapur,Nampally,0
+07:54:33,Durgam Cheruvu,Parade Grounds,0
+07:54:45,Parade Grounds,Nagole,0
+07:54:52,Nagole,Yusufguda,0
+07:55:04,NGRI,New Market,0
+07:55:05,Stadium,MG Bus Station,0
+07:55:20,Borabanda,Erragadda,0
+07:55:32,SR Nagar,MG Bus Station,0
+07:55:40,HITEC City,Tarnaka,0
+07:55:46,Uppal,Nagole,0
+07:55:58,Nagole,Kukatpally,0
+07:55:59,Raidurg,Erragadda,0
+07:56:13,New Market,Bharat Nagar,0
+07:56:26,Ameerpet,Vidyanagar,0
+07:56:30,Habsiguda,Secunderabad East,0
+07:56:36,Parade Grounds,Borabanda,0
+07:56:40,Raidurg,Begumpet,0
+07:56:43,Begumpet,Nagole,0
+07:56:44,Madhapur,Musheerabad,0
+07:56:52,Parade Grounds,Victoria Memorial,0
+07:57:04,Khairatabad,Osmania Medical College,0
+07:57:16,Raidurg,Kukatpally,0
+07:57:18,Raidurg,Mettuguda,0
+07:57:24,Malakpet,Nagole,0
+07:57:29,Madhura Nagar,Stadium,0
+07:57:40,MG Bus Station,Victoria Memorial,0
+07:57:47,Parade Grounds,Musarambagh,0
+07:58:01,Nagole,Ameerpet,0
+07:58:12,Jubilee Hills Check Post,MG Bus Station,0
+07:58:22,Parade Grounds,Madhura Nagar,0
+07:58:28,Erragadda,MG Bus Station,0
+07:58:31,Chaitanyapuri,SR Nagar,0
+07:58:38,LB Nagar,SR Nagar,0
+07:58:45,LB Nagar,Stadium,0
+07:58:54,Road No 5 Jubilee Hills,Begumpet,0
+07:58:57,Secunderabad East,Stadium,0
+07:59:00,Punjagutta,Secunderabad West,0
+07:59:10,KPHB Colony,Dilsukhnagar,0
+07:59:11,Stadium,Punjagutta,0
+07:59:18,Lalaguda,NGRI,0
+07:59:26,LB Nagar,Stadium,0
+07:59:38,Secunderabad West,Stadium,0
+07:59:40,Parade Grounds,Raidurg,0
+09:15:10,Miyapur,,0
+07:59:44,MG Bus Station,Osmania Medical College,0
+07:59:53,MG Bus Station,HITEC City,0
+08:00:03,Durgam Cheruvu,HITEC City,1
+08:00:12,Habsiguda,Parade Grounds,1
+08:00:17,HITEC City,Raidurg,1
+08:00:23,Mettuguda,HITEC City,1
+08:00:36,Peddamma Temple,Secunderabad East,1
+08:00:43,Bharat Nagar,Secunderabad West,1
+08:00:56,Nampally,Gandhi Hospital,1
+08:00:57,Nagole,Musarambagh,1
+08:01:11,Moosapet,Gandhi Hospital,1
+08:01:13,HITEC City,Assembly,1
+08:01:26,Madhapur,Yusufguda,1
+08:01:40,Jubilee Hills Check Post,Begumpet,1
+08:01:43,Rasoolpura,HITEC City,1
+08:01:57,Irrum Manzil,KPHB Colony,1
+08:02:03,Mettuguda,Paradise,1
+08:02:06,Malakpet,Jubilee Hills Check Post,1
+08:02:11,Parade Grounds,Borabanda,1
+08:02:20,Vidyanagar,Yusufguda,1
+08:02:22,ESI Hospital,Durgam Cheruvu,1
+08:02:29,Narayanguda,Kachiguda,1
+08:02:43,Begumpet,Road No 5 Jubilee Hills,1
+08:02:46,Nampally,Jubilee Hills Check Post,1
+08:03:00,Nampally,Secunderabad West,1
+08:03:07,Stadium,Parade Grounds,1
+08:03:12,Prakash Nagar,Chaitanyapuri,1
+08:03:14,Begumpet,Musheerabad,1
+08:03:16,LB Nagar,Durgam Cheruvu,1
+08:03:28,Sultan Bazar,Dilsukhnagar,1
+08:03:36,Malakpet,Miyapur,1
+08:03:49,Secunderabad West,Moosapet,1
+08:03:57,Begumpet,Road No 5 Jubilee Hills,1
+08:04:11,Kukatpally,Mettuguda,1
+08:04:15,Lalaguda,Raidurg,1
+08:04:23,Gandhi Bhavan,Secunderabad West,1
+08:04:29,Secunderabad East,ESI Hospital,1
+08:04:43,Stadium,New Market,1
+08:04:54,HITEC City,JNTU College,1
+08:05:05,HITEC City,Nagole,1
+08:05:07,Sultan Bazar,Ameerpet,1
+08:05:15,Miyapur,Borabanda,1
+08:05:19,Kachiguda,Chikkadpally,1
+08:05:34,Begumpet,Ameerpet,1
+08:05:49,Musheerabad,Moosapet,1
+08:05:55,Nampally,Chaitanyapuri,1
+08:06:10,Begumpet,KPHB Colony,1
+08:06:21,MG Bus Station,Road No 5 Jubilee Hills,1
+08:06:25,LB Nagar,Moosapet,1
+08:06:27,Miyapur,Uppal,1
+08:06:30,Paradise,Tarnaka,1
+08:06:38,Miyapur,Road No 5 Jubilee Hills,1
+08:06:52,Erragadda,Secunderabad West,1
+08:07:04,ESI Hospital,Kukatpally,1
+08:07:11,Moosapet,Raidurg,1
+08:07:13,MG Bus Station,Musheerabad,1
+08:07:16,Victoria Memorial,Raidurg,1
+08:07:30,ESI Hospital,Kachiguda,1
+08:07:33,Kukatpally,Parade Grounds,1
+08:07:43,Begumpet,Nagole,1
+08:07:55,Khairatabad,Durgam Cheruvu,1
+08:08:10,LB Nagar,Yusufguda,1
+08:08:24,Khairatabad,RTC X Roads,1
+08:08:27,Durgam Cheruvu,Parade Grounds,1
+08:08:34,Musarambagh,LB Nagar,1
+08:08:47,SR Nagar,Osmania Medical College,1
+08:08:49,Nampally,Paradise,1
+08:09:01,Rasoolpura,HITEC City,1
+08:09:13,Miyapur,Secunderabad West,1
+08:09:28,MG Bus Station,Habsiguda,1
+08:09:37,Punjagutta,Victoria Memorial,1
+08:09:48,KPHB Colony,RTC X Roads,1
+08:09:52,NGRI,Erragadda,1
+08:10:00,Begumpet,Kukatpally,1
+08:10:15,Vidyanagar,Sultan Bazar,1
+08:10:18,Victoria Memorial,Secunderabad West,1
+08:10:25,Dilsukhnagar,Yusufguda,1
+08:10:38,Uppal,Vidyanagar,1
+08:10:40,Miyapur,Kukatpally,1
+08:10:45,Khairatabad,Narayanguda,1
+08:10:58,LB Nagar,MG Bus Station,1
+08:11:10,NGRI,LB Nagar,1
+08:11:22,LB Nagar,Begumpet,1
+08:11:31,Rasoolpura,Osmania Medical College,1
+08:11:36,Balanagar,Narayanguda,1
+08:11:49,Ameerpet,Malakpet,1
+08:11:59,Begumpet,Secunderabad West,1
+08:12:10,Begumpet,MG Bus Station,1
+08:12:17,Madhapur,Secunderabad West,1
+08:12:18,Assembly,Narayanguda,1
+08:12:20,Nagole,Rasoolpura,1
+08:12:25,Begumpet,Ameerpet,1
+08:12:26,Jubilee Hills Check Post,Road No 5 Jubilee Hills,1
+08:12:29,NGRI,Musarambagh,1
+08:12:38,HITEC City,Peddamma Temple,1
+08:12:41,Chaitanyapuri,Durgam Cheruvu,1
+08:12:55,Gandhi Bhavan,Musheerabad,1
+08:13:08,RTC X Roads,New Market,1
+08:13:15,Osmania Medical College,Kukatpally,1
+08:13:27,Lalaguda,Prakash Nagar,1
+08:13:35,Nagole,Dilsukhnagar,1
+08:13:43,Secunderabad West,Ameerpet,1
+08:13:46,Nampally,Bharat Nagar,1
+08:13:56,Madhura Nagar,Erragadda,1
+08:14:08,Habsiguda,JNTU College,1
+08:14:22,Miyapur,JNTU College,1
+08:14:28,Victoria Memorial,Ameerpet,1
+08:14:43,Borabanda,Miyapur,1
+08:14:56,Narayanguda,Madhapur,1
+08:15:03,Lakdikapul,Nampally,1
+08:15:18,Peddamma Temple,Gandhi Bhavan,1
+08:15:20,Parade Grounds,Erragadda,1
+08:15:31,Chikkadpally,Ameerpet,1
+08:15:44,Habsiguda,JNTU College,1
+08:15:51,Kukatpally,Nagole,1
+08:15:56,HITEC City,MG Bus Station,1
+08:15:58,Secunderabad East,Miyapur,1
+08:16:02,MG Bus Station,HITEC City,1
+08:16:14,Prakash Nagar,Nagole,1
+08:16:24,Lalaguda,Kachiguda,1
+08:16:37,Punjagutta,RTC X Roads,1
+08:16:50,Raidurg,Ameerpet,1
+08:17:05,LB Nagar,Lakdikapul,1
+08:17:11,Begumpet,Road No 5 Jubilee Hills,1
+08:17:12,Borabanda,Miyapur,1
+08:17:23,Chaitanyapuri,Madhapur,1
+08:17:28,Bharat Nagar,Tarnaka,1
+08:17:32,LB Nagar,Borabanda,1
+08:17:35,Jubilee Hills Check Post,Moosapet,1
+08:17:50,Lakdikapul,Secunderabad West,1
+08:17:57,Road No 5 Jubilee Hills,Chaitanyapuri,1
+08:18:09,Balanagar,Moosapet,1
+08:18:12,Begumpet,Victoria Memorial,1
+08:18:22,Parade Grounds,Nagole,1
+08:18:25,Assembly,Gandhi Bhavan,1
+08:18:31,Sultan Bazar,Victoria Memorial,1
+08:18:45,Madhapur,MG Bus Station,1
+08:18:50,Lakdikapul,Sanath Nagar,1
+08:18:53,HITEC City,Parade Grounds,1
+08:18:56,Bharat Nagar,Nagole,1
+08:19:02,LB Nagar,Mettuguda,1
+08:19:15,Irrum Manzil,MG Bus Station,1
+08:19:20,Secunderabad West,Moosapet,1
+08:19:33,Yusufguda,Raidurg,1
+08:19:45,Paradise,Khairatabad,1
+08:19:59,Malakpet,Moosapet,1
+08:20:03,Lalaguda,LB Nagar,1
+08:20:04,Madhura Nagar,Gandhi Bhavan,1
+08:20:07,Miyapur,LB Nagar,1
+08:20:15,Parade Grounds,Secunderabad East,1
+08:20:17,Nagole,Raidurg,1
+08:20:20,Erragadda,KPHB Colony,1
+08:20:33,Vidyanagar,ESI Hospital,1
+08:20:47,LB Nagar,Yusufguda,1
+08:20:58,Balanagar,Parade Grounds,1
+08:21:13,Raidurg,Miyapur,1
+08:21:15,Irrum Manzil,Begumpet,1
+08:21:28,ESI Hospital,Chikkadpally,1
+08:21:42,Raidurg,Erragadda,1
+08:21:50,KPHB Colony,Narayanguda,1
+08:21:57,Raidurg,Victoria Memorial,1
+08:21:58,Victoria Memorial,LB Nagar,1
+08:22:04,Khairatabad,Punjagutta,1
+08:22:09,Nagole,Ameerpet,1
+08:22:19,Prakash Nagar,Assembly,1
+08:22:24,NGRI,Musheerabad,1
+08:22:32,KPHB Colony,Osmania Medical College,1
+08:22:35,LB Nagar,Begumpet,1
+08:22:48,Tarnaka,Begumpet,1
+08:23:01,Secunderabad East,Miyapur,1
+08:23:08,HITEC City,Dilsukhnagar,1
+08:23:17,HITEC City,New Market,1
+08:23:27,NGRI,Victoria Memorial,1
+08:23:30,Miyapur,Paradise,1
+08:23:31,RTC X Roads,HITEC City,1
+08:23:32,Raidurg,Uppal,1
+08:23:38,HITEC City,Kachiguda,1
+08:23:41,Bharat Nagar,Begumpet,1
+08:23:46,Mettuguda,Raidurg,1
+08:23:58,KPHB Colony,Kachiguda,1
+08:24:02,Parade Grounds,Vidyanagar,1
+08:24:09,Musarambagh,Secunderabad West,1
+08:24:23,Ameerpet,Assembly,1
+08:24:29,Raidurg,Road No 5 Jubilee Hills,1
+08:24:44,Parade Grounds,Road No 5 Jubilee Hills,1
+08:24:50,Sanath Nagar,Parade Grounds,1
+08:25:00,Sanath Nagar,Secunderabad West,1
+08:25:13,Musheerabad,Stadium,1
+08:25:18,Ameerpet,JNTU College,1
+08:25:19,Lakdikapul,Khairatabad,1
+08:25:28,Uppal,Malakpet,1
+08:25:38,Irrum Manzil,ESI Hospital,1
+08:25:50,Ameerpet,Raidurg,1
+08:26:04,Malakpet,Miyapur,1
+08:26:14,Jubilee Hills Check Post,SR Nagar,1
+08:26:16,Secunderabad West,Borabanda,1
+08:26:22,Jubilee Hills Check Post,Begumpet,1
+08:26:32,Bharat Nagar,MG Bus Station,1
+08:26:35,Vidyanagar,Madhapur,1
+08:26:42,Raidurg,Borabanda,1
+08:26:53,MG Bus Station,Jubilee Hills Check Post,1
+08:27:02,Road No 5 Jubilee Hills,Sultan Bazar,1
+08:27:15,Musarambagh,Begumpet,1
+08:27:29,Ameerpet,MG Bus Station,1
+08:27:41,MG Bus Station,Ameerpet,1
+08:27:42,Sanath Nagar,Victoria Memorial,1
+08:27:55,Lalaguda,Miyapur,1
+08:28:05,MG Bus Station,Raidurg,1
+08:28:15,Khairatabad,Parade Grounds,1
+08:28:30,NGRI,Malakpet,1
+08:28:32,Assembly,Vidyanagar,1
+08:28:35,Begumpet,Lalaguda,1
+08:28:49,Jubilee Hills Check Post,Begumpet,1
+08:29:04,New Market,Miyapur,1
+08:29:08,Nampally,Kukatpally,1
+08:29:13,HITEC City,Peddamma Temple,1
+08:29:14,Victoria Memorial,Madhapur,1
+08:29:17,Musheerabad,Stadium,1
+08:29:24,Musarambagh,Chaitanyapuri,1
+08:29:38,Uppal,Secunderabad West,1
+08:29:49,HITEC City,Lakdikapul,1
+08:29:57,Kukatpally,Secunderabad West,1
+08:30:02,Miyapur,Gandhi Bhavan,1
+08:30:04,Balanagar,Ameerpet,1
+08:30:11,Ameerpet,Balanagar,1
+08:30:26,Vidyanagar,New Market,1
+08:30:36,RTC X Roads,Jubilee Hills Check Post,1
+08:30:43,Sanath Nagar,Ameerpet,1
+08:30:58,Nagole,KPHB Colony,1
+08:31:04,Irrum Manzil,Punjagutta,1
+08:31:16,Secunderabad East,Narayanguda,1
+08:31:25,Gandhi Bhavan,Osmania Medical College,1
+08:31:29,Moosapet,Victoria Memorial,1
+08:31:38,Secunderabad West,Ameerpet,1
+08:31:44,Miyapur,Moosapet,1
+08:31:58,Begumpet,Paradise,1
+08:32:02,Moosapet,Irrum Manzil,1
+08:32:13,MG Bus Station,Balanagar,1
+08:32:27,Erragadda,HITEC City,1
+08:32:35,Stadium,Begumpet,1
+08:32:37,Begumpet,Victoria Memorial,1
+08:32:43,Musheerabad,Dilsukhnagar,1
+08:32:51,JNTU College,Nagole,1
+08:32:56,Lakdikapul,Gandhi Bhavan,1
+08:32:57,Ameerpet,Road No 5 Jubilee Hills,1
+08:32:59,Balanagar,New Market,1
+08:33:08,LB Nagar,HITEC City,1
+08:33:12,Secunderabad East,Secunderabad West,1
+08:33:26,Tarnaka,Lalaguda,1
+08:33:37,Gandhi Hospital,Uppal,1
+08:33:52,Assembly,MG Bus Station,1
+08:33:59,Chikkadpally,Jubilee Hills Check Post,1
+08:34:08,Parade Grounds,Habsiguda,1
+08:34:18,Madhura Nagar,Prakash Nagar,1
+08:34:20,Sanath Nagar,Nagole,1
+08:34:23,Lalaguda,Raidurg,1
+08:34:26,JNTU College,Balanagar,1
+08:34:37,Nagole,Kachiguda,1
+08:34:48,SR Nagar,Paradise,1
+08:34:54,Chikkadpally,Narayanguda,1
+08:34:56,Moosapet,Parade Grounds,1
+08:35:05,Malakpet,Osmania Medical College,1
+08:35:13,Narayanguda,Miyapur,1
+08:35:25,Prakash Nagar,Tarnaka,1
+08:35:32,Erragadda,Ameerpet,1
+08:35:42,Parade Grounds,HITEC City,1
+08:35:44,Narayanguda,Parade Grounds,1
+08:35:46,HITEC City,Gandhi Hospital,1
+08:36:01,New Market,LB Nagar,1
+08:36:08,Begumpet,Parade Grounds,1
+08:36:16,JNTU College,Osmania Medical College,1
+08:36:19,Prakash Nagar,Yusufguda,1
+08:36:26,JNTU College,RTC X Roads,1
+08:36:32,Yusufguda,JNTU College,1
+08:36:40,Narayanguda,RTC X Roads,1
+08:36:41,New Market,Raidurg,1
+08:36:46,Osmania Medical College,Stadium,1
+08:36:58,Yusufguda,Lalaguda,1
+08:37:02,ESI Hospital,Lalaguda,1
+08:37:10,HITEC City,MG Bus Station,1
+08:37:22,LB Nagar,Begumpet,1
+08:37:26,Nagole,Chikkadpally,1
+08:37:33,Durgam Cheruvu,HITEC City,1
+08:37:47,Chaitanyapuri,KPHB Colony,1
+08:38:00,Ameerpet,MG Bus Station,1
+08:38:09,LB Nagar,HITEC City,1
+08:38:18,Musheerabad,Miyapur,1
+08:38:22,Gandhi Hospital,Irrum Manzil,1
+08:38:23,Nampally,Nagole,1
+08:38:38,Dilsukhnagar,Irrum Manzil,1
+08:38:44,Raidurg,NGRI,1
+08:38:55,Narayanguda,Yusufguda,1
+08:38:59,Chaitanyapuri,Paradise,1
+08:39:02,Borabanda,Uppal,1
+08:39:11,Musarambagh,Ameerpet,1
+08:39:26,Nampally,Secunderabad West,1
+08:39:28,MG Bus Station,Victoria Memorial,1
+08:39:31,Secunderabad West,HITEC City,1
+08:39:35,Secunderabad West,Begumpet,1
+08:39:46,Irrum Manzil,Begumpet,1
+08:39:55,Miyapur,HITEC City,1
+08:40:08,Yusufguda,Uppal,1
+08:40:11,Begumpet,Paradise,1
+08:40:12,Lakdikapul,Rasoolpura,1
+08:40:17,Jubilee Hills Check Post,Osmania Medical College,1
+08:40:32,Chaitanyapuri,Musarambagh,1
+08:40:37,Khairatabad,MG Bus Station,1
+08:40:46,Raidurg,LB Nagar,1
+08:40:48,Miyapur,Kachiguda,1
+08:41:02,Secunderabad West,Parade Grounds,1
+08:41:12,Rasoolpura,MG Bus Station,1
+08:41:14,Stadium,New Market,1
+08:41:19,Begumpet,Secunderabad West,1
+08:41:24,Begumpet,Borabanda,1
+08:41:35,MG Bus Station,Ameerpet,1
+08:41:48,Assembly,KPHB Colony,1
+08:42:02,Raidurg,Paradise,1
+08:42:13,MG Bus Station,SR Nagar,1
+08:42:14,Begumpet,Kachiguda,1
+08:42:19,Chikkadpally,LB Nagar,1
+08:42:31,Miyapur,Jubilee Hills Check Post,1
+08:42:41,Raidurg,New Market,1
+08:42:53,Lakdikapul,Mettuguda,1
+08:43:06,Uppal,Sanath Nagar,1
+08:43:12,Habsiguda,Secunderabad West,1
+08:43:26,Begumpet,Parade Grounds,1
+08:43:31,Moosapet,ESI Hospital,1
+08:43:36,Peddamma Temple,Parade Grounds,1
+08:43:51,Ameerpet,Yusufguda,1
+08:43:57,Begumpet,Lakdikapul,1
+08:44:01,Durgam Cheruvu,MG Bus Station,1
+08:44:14,Musheerabad,Chaitanyapuri,1
+08:44:24,MG Bus Station,Secunderabad West,1
+08:44:32,KPHB Colony,Begumpet,1
+08:44:42,Sanath Nagar,Kukatpally,1
+08:44:57,Punjagutta,Erragadda,1
+08:45:08,Chaitanyapuri,MG Bus Station,1
+08:45:09,Gandhi Hospital,Ameerpet,1
+08:45:13,New Market,Vidyanagar,1
+08:45:28,Chikkadpally,Nagole,1
+08:45:34,Secunderabad West,Ameerpet,1
+08:45:36,Stadium,Begumpet,1
+08:45:39,MG Bus Station,KPHB Colony,1
+08:45:47,Osmania Medical College,HITEC City,1
+08:45:50,Parade Grounds,Ameerpet,1
+08:46:03,HITEC City,Moosapet,1
+08:46:13,Nagole,LB Nagar,1
+08:46:20,Lalaguda,Victoria Memorial,1
+08:46:21,Mettuguda,Madhapur,1
+08:46:22,RTC X Roads,HITEC City,1
+08:46:31,Punjagutta,Madhura Nagar,1
+08:46:42,Madhapur,Lakdikapul,1
+08:46:57,New Market,ESI Hospital,1
+08:47:04,NGRI,MG Bus Station,1
+08:47:06,Raidurg,MG Bus Station,1
+08:47:11,Nagole,Tarnaka,1
+08:47:20,New Market,Musheerabad,1
+08:47:23,New Market,Chikkadpally,1
+08:47:29,Durgam Cheruvu,Ameerpet,1
+08:47:44,Narayanguda,LB Nagar,1
+08:47:48,Lakdikapul,Vidyanagar,1
+08:47:52,Madhapur,Parade Grounds,1
+08:47:55,Erragadda,Jubilee Hills Check Post,1
+08:48:08,JNTU College,Musheerabad,1
+08:48:13,HITEC City,Prakash Nagar,1
+08:48:23,Kachiguda,Begumpet,1
+08:48:34,Secunderabad West,JNTU College,1
+08:48:36,LB Nagar,Chaitanyapuri,1
+08:48:45,Nampally,Road No 5 Jubilee Hills,1
+08:48:49,Road No 5 Jubilee Hills,Begumpet,1
+08:48:54,LB Nagar,Bharat Nagar,1
+08:49:03,Gandhi Bhavan,Rasoolpura,1
+08:49:06,LB Nagar,RTC X Roads,1
+08:49:15,Peddamma Temple,Erragadda,1
+08:49:17,HITEC City,NGRI,1
+08:49:27,Irrum Manzil,Gandhi Bhavan,1
+08:49:36,Lalaguda,Musarambagh,1
+08:49:43,MG Bus Station,JNTU College,1
+08:49:51,Chikkadpally,Yusufguda,1
+08:49:59,Malakpet,Miyapur,1
+08:50:10,Moosapet,Bharat Nagar,1
+08:50:20,Madhura Nagar,Ameerpet,1
+08:50:22,HITEC City,Balanagar,1
+08:50:34,Bharat Nagar,Nampally,1
+08:50:38,Nagole,Vidyanagar,1
+08:50:43,Nagole,Bharat Nagar,1
+08:50:46,Gandhi Hospital,Secunderabad West,1
+08:50:52,Raidurg,MG Bus Station,1
+08:51:04,Erragadda,Secunderabad West,1
+08:51:19,JNTU College,Secunderabad West,1
+08:51:30,Begumpet,Malakpet,1
+08:51:45,Nagole,Prakash Nagar,1
+08:52:00,Madhapur,Chaitanyapuri,1
+08:52:06,Ameerpet,LB Nagar,1
+08:52:14,Osmania Medical College,Victoria Memorial,1
+08:52:28,Uppal,LB Nagar,1
+08:52:43,Raidurg,Erragadda,1
+08:52:55,Peddamma Temple,Vidyanagar,1
+08:53:09,Ameerpet,LB Nagar,1
+08:53:19,Stadium,Parade Grounds,1
+08:53:27,Ameerpet,Chaitanyapuri,1
+08:53:33,Rasoolpura,Secunderabad West,1
+08:53:48,Secunderabad West,Lalaguda,1
+08:53:51,Stadium,Musheerabad,1
+08:53:59,JNTU College,Gandhi Bhavan,1
+08:54:05,Miyapur,Gandhi Hospital,1
+08:54:14,HITEC City,Parade Grounds,1
+08:54:24,Lakdikapul,Borabanda,1
+08:54:38,New Market,Tarnaka,1
+08:54:50,Prakash Nagar,Nagole,1
+08:55:02,Nampally,Musarambagh,1
+08:55:13,Begumpet,Ameerpet,1
+08:55:27,Parade Grounds,Kachiguda,1
+08:55:28,Miyapur,Sultan Bazar,1
+08:55:37,Secunderabad West,Gandhi Hospital,1
+08:55:39,Durgam Cheruvu,MG Bus Station,1
+08:55:45,Lalaguda,KPHB Colony,1
+08:55:49,Secunderabad East,Chaitanyapuri,1
+08:56:03,Assembly,Nagole,1
+08:56:16,Parade Grounds,Moosapet,1
+08:56:24,Nagole,Erragadda,1
+08:56:32,Durgam Cheruvu,Miyapur,1
+08:56:39,LB Nagar,Parade Grounds,1
+08:56:40,Raidurg,Lalaguda,1
+08:56:51,MG Bus Station,Habsiguda,1
+08:56:55,Begumpet,Nagole,1
+08:57:01,Dilsukhnagar,KPHB Colony,1
+08:57:05,Secunderabad West,Malakpet,1
+08:57:18,Prakash Nagar,Uppal,1
+08:57:29,Dilsukhnagar,Nagole,1
+08:57:31,HITEC City,Khairatabad,1
+08:57:37,Musarambagh,Begumpet,1
+08:57:50,MG Bus Station,Tarnaka,1
+08:58:02,Bharat Nagar,RTC X Roads,1
+08:58:10,SR Nagar,Peddamma Temple,1
+08:58:22,LB Nagar,Nampally,1
+08:58:26,Punjagutta,Sultan Bazar,1
+08:58:33,Khairatabad,Raidurg,1
+08:58:37,Peddamma Temple,Bharat Nagar,1
+08:58:44,JNTU College,Begumpet,1
+08:58:55,Parade Grounds,HITEC City,1
+08:59:03,Nagole,Parade Grounds,1
+08:59:12,ESI Hospital,NGRI,1
+08:59:21,Madhapur,Secunderabad East,1
+08:59:28,Secunderabad West,Stadium,1
+08:59:37,HITEC City,Chikkadpally,1
+08:59:49,Parade Grounds,Madhapur,1
+08:59:52,Bharat Nagar,Begumpet,1
+09:00:02,Musheerabad,NGRI,1
+09:00:09,LB Nagar,Rasoolpura,1
+09:00:21,HITEC City,Osmania Medical College,1
+09:00:27,Lalaguda,Nagole,1
+09:00:30,SR Nagar,Paradise,1
+09:00:45,Durgam Cheruvu,MG Bus Station,1
+09:00:57,Secunderabad East,MG Bus Station,1
+09:01:09,Sultan Bazar,Begumpet,1
+09:01:13,Irrum Manzil,Jubilee Hills Check Post,1
+09:01:24,New Market,Madhura Nagar,1
+09:01:36,Begumpet,Borabanda,1
+09:01:45,Mettuguda,Begumpet,1
+09:01:57,Erragadda,Musarambagh,1
+09:02:05,Parade Grounds,Sanath Nagar,1
+09:02:17,LB Nagar,Durgam Cheruvu,1
+09:02:31,Mettuguda,Musheerabad,1
+09:02:38,Raidurg,Tarnaka,1
+09:02:39,Chaitanyapuri,KPHB Colony,1
+09:02:40,Irrum Manzil,Durgam Cheruvu,1
+09:02:43,Vidyanagar,Yusufguda,1
+09:02:46,Secunderabad West,Yusufguda,1
+09:02:51,Irrum Manzil,Mettuguda,1
+09:02:57,Raidurg,Bharat Nagar,1
+09:03:11,Madhura Nagar,Parade Grounds,1
+09:03:15,Durgam Cheruvu,Parade Grounds,1
+09:03:19,Habsiguda,Raidurg,1
+09:03:31,MG Bus Station,Begumpet,1
+09:03:46,Chaitanyapuri,LB Nagar,1
+09:03:59,Vidyanagar,MG Bus Station,1
+09:04:08,KPHB Colony,Durgam Cheruvu,1
+09:04:12,Prakash Nagar,HITEC City,1
+09:04:26,Nagole,Lakdikapul,1
+09:04:37,Jubilee Hills Check Post,Begumpet,1
+09:04:50,Parade Grounds,Madhapur,1
+09:04:54,HITEC City,Lalaguda,1
+09:04:59,Nagole,Vidyanagar,1
+09:05:01,Punjagutta,Ameerpet,1
+09:05:10,Erragadda,JNTU College,1
+09:05:15,Parade Grounds,ESI Hospital,1
+09:05:25,Secunderabad West,Miyapur,1
+09:05:33,Jubilee Hills Check Post,Ameerpet,1
+09:05:36,Sultan Bazar,Paradise,1
+09:05:49,Sultan Bazar,Rasoolpura,1
+09:06:00,MG Bus Station,HITEC City,1
+09:06:09,Dilsukhnagar,HITEC City,1
+09:06:15,Tarnaka,Borabanda,1
+09:06:24,Kukatpally,NGRI,1
+09:06:31,Mettuguda,LB Nagar,1
+09:06:37,Khairatabad,Malakpet,1
+09:06:43,MG Bus Station,Sanath Nagar,1
+09:06:53,Tarnaka,Kachiguda,1
+09:07:07,Durgam Cheruvu,Begumpet,1
+09:07:09,Madhura Nagar,Nagole,1
+09:07:24,Begumpet,Narayanguda,1
+09:07:28,Borabanda,Yusufguda,1
+09:07:34,Chaitanyapuri,Raidurg,1
+09:07:36,Victoria Memorial,Mettuguda,1
+09:07:41,Miyapur,Habsiguda,1
+09:07:54,Chaitanyapuri,Raidurg,1
+09:08:02,Stadium,MG Bus Station,1
+09:08:13,Punjagutta,Habsiguda,1
+09:08:15,Ameerpet,Borabanda,1
+09:08:24,Mettuguda,Prakash Nagar,1
+09:08:28,Madhura Nagar,HITEC City,1
+09:08:42,Yusufguda,Secunderabad West,1
+09:08:46,Mettuguda,Road No 5 Jubilee Hills,1
+09:08:58,HITEC City,Begumpet,1
+09:09:00,Durgam Cheruvu,Ameerpet,1
+09:09:08,Peddamma Temple,JNTU College,1
+09:09:10,KPHB Colony,Raidurg,1
+09:09:19,Kukatpally,Raidurg,1
+09:09:34,Nampally,Victoria Memorial,1
+09:09:45,LB Nagar,MG Bus Station,1
+09:09:52,Madhura Nagar,Mettuguda,1
+09:10:03,Peddamma Temple,Kukatpally,1
+09:10:15,Parade Grounds,Road No 5 Jubilee Hills,1
+09:10:17,Musarambagh,NGRI,1
+09:10:22,HITEC City,MG Bus Station,1
+09:10:24,Osmania Medical College,Sultan Bazar,1
+09:10:31,LB Nagar,Begumpet,1
+09:10:39,Ameerpet,Khairatabad,1
+09:10:51,Victoria Memorial,Raidurg,1
+09:11:00,MG Bus Station,Begumpet,1
+09:11:05,Madhura Nagar,Narayanguda,1
+09:11:18,Gandhi Hospital,Begumpet,1
+09:11:19,Secunderabad East,Erragadda,1
+09:11:20,Parade Grounds,Victoria Memorial,1
+09:11:29,Sanath Nagar,MG Bus Station,1
+09:11:41,Durgam Cheruvu,Peddamma Temple,1
+09:11:45,LB Nagar,Begumpet,1
+09:11:54,SR Nagar,Ameerpet,1
+09:12:04,Secunderabad West,Punjagutta,1
+09:12:07,Madhura Nagar,Parade Grounds,1
+09:12:08,Secunderabad West,Sultan Bazar,1
+09:12:17,Nagole,Secunderabad East,1
+09:12:22,Madhura Nagar,Nampally,1
+09:12:26,Peddamma Temple,Stadium,1
+09:12:32,Musarambagh,Madhura Nagar,1
+09:12:36,Bharat Nagar,Prakash Nagar,1
+09:12:51,Punjagutta,Stadium,1
+09:12:57,Rasoolpura,MG Bus Station,1
+09:13:07,Ameerpet,Parade Grounds,1
+09:13:20,MG Bus Station,LB Nagar,1
+09:13:21,MG Bus Station,HITEC City,1
+09:13:33,Madhapur,Nagole,1
+09:13:47,Dilsukhnagar,Yusufguda,1
+09:13:53,Musheerabad,Nagole,1
+09:13:59,HITEC City,Stadium,1
+09:14:01,Ameerpet,Rasoolpura,1
+09:14:15,Osmania Medical College,Raidurg,1
+09:14:30,Mettuguda,Gandhi Bhavan,1
+09:14:45,Prakash Nagar,Peddamma Temple,1
+09:15:00,Miyapur,Habsiguda,1
+09:15:01,Raidurg,Parade Grounds,1
+09:15:14,Parade Grounds,Chikkadpally,1
+09:15:23,Gandhi Bhavan,RTC X Roads,1
+09:15:32,Uppal,HITEC City,1
+09:15:38,Victoria Memorial,RTC X Roads,1
+09:15:48,Madhapur,MG Bus Station,1
+09:15:56,NGRI,Moosapet,1
+09:16:02,NGRI,Begumpet,1
+09:16:16,Lalaguda,Vidyanagar,1
+09:16:27,Ameerpet,Habsiguda,1
+09:16:35,Ameerpet,Parade Grounds,1
+09:16:45,Begumpet,Lalaguda,1
+09:16:57,Madhapur,Sanath Nagar,1
+09:16:58,Khairatabad,Stadium,1
+09:17:00,Gandhi Bhavan,Lakdikapul,1
+09:17:11,Irrum Manzil,Chikkadpally,1
+09:17:17,Victoria Memorial,Narayanguda,1
+09:17:32,JNTU College,Vidyanagar,1
+09:17:38,Bharat Nagar,Lalaguda,1
+09:17:49,Secunderabad West,Gandhi Bhavan,1
+09:17:58,Parade Grounds,Chaitanyapuri,1
+09:18:05,Dilsukhnagar,Begumpet,1
+09:18:19,Balanagar,Nampally,1
+09:18:34,Lakdikapul,LB Nagar,1
+09:18:48,Gandhi Hospital,Stadium,1
+09:18:56,Musheerabad,Miyapur,1
+09:19:11,SR Nagar,Ameerpet,1
+09:19:13,Habsiguda,Osmania Medical College,1
+09:19:16,Punjagutta,Dilsukhnagar,1
+09:19:28,Raidurg,Begumpet,1
+09:19:35,Raidurg,Peddamma Temple,1
+09:19:43,Madhura Nagar,Uppal,1
+09:19:53,Ameerpet,Secunderabad West,1
+09:19:54,Assembly,ESI Hospital,1
+09:20:04,Ameerpet,Prakash Nagar,1
+09:20:05,RTC X Roads,SR Nagar,1
+09:20:08,Nampally,Ameerpet,1
+09:20:15,Paradise,Parade Grounds,1
+09:20:16,Musheerabad,Peddamma Temple,1
+09:20:30,Osmania Medical College,Balanagar,1
+09:20:38,Rasoolpura,Uppal,1
+09:20:46,Ameerpet,Secunderabad West,1
+09:20:56,SR Nagar,Parade Grounds,1
+09:21:09,Ameerpet,Begumpet,1
+09:21:14,Ameerpet,Yusufguda,1
+09:21:29,Nagole,Parade Grounds,1
+09:21:33,Chaitanyapuri,ESI Hospital,1
+09:21:34,Irrum Manzil,Secunderabad West,1
+09:21:43,Yusufguda,Raidurg,1
+09:21:53,Moosapet,Uppal,1
+09:22:03,Paradise,Musheerabad,1
+09:22:12,NGRI,Erragadda,1
+09:22:20,Begumpet,Chikkadpally,1
+09:22:29,Secunderabad West,RTC X Roads,1
+09:22:42,Madhura Nagar,LB Nagar,1
+09:22:49,Chaitanyapuri,JNTU College,1
+09:22:58,LB Nagar,Sanath Nagar,1
+09:23:06,HITEC City,Chaitanyapuri,1
+09:23:16,Raidurg,Chikkadpally,1
+09:23:30,Road No 5 Jubilee Hills,Moosapet,1
+09:23:33,Nampally,HITEC City,1
+09:23:48,Secunderabad West,Osmania Medical College,1
+09:24:03,Secunderabad East,Nampally,1
+09:24:04,Jubilee Hills Check Post,HITEC City,1
+09:24:14,Tarnaka,Chaitanyapuri,1
+09:24:18,Yusufguda,MG Bus Station,1
+09:24:24,Bharat Nagar,LB Nagar,1
+09:24:34,Nampally,Secunderabad West,1
+09:24:41,Parade Grounds,Rasoolpura,1
+09:24:52,LB Nagar,Irrum Manzil,1
+09:25:01,HITEC City,Stadium,1
+09:25:07,Parade Grounds,Stadium,1
+09:25:12,Parade Grounds,HITEC City,1
+09:25:19,Madhapur,Secunderabad West,1
+09:25:30,Erragadda,Lakdikapul,1
+09:25:43,Road No 5 Jubilee Hills,Ameerpet,1
+09:25:47,Habsiguda,HITEC City,1
+09:26:00,Secunderabad East,Road No 5 Jubilee Hills,1
+09:26:12,KPHB Colony,Victoria Memorial,1
+09:26:23,Miyapur,Moosapet,1
+09:26:26,Uppal,Paradise,1
+09:26:28,Kukatpally,Khairatabad,1
+09:26:30,Rasoolpura,Peddamma Temple,1
+09:26:45,Vidyanagar,Rasoolpura,1
+09:26:54,MG Bus Station,Lalaguda,1
+09:26:55,Sanath Nagar,Raidurg,1
+09:27:06,NGRI,Miyapur,1
+09:27:20,Begumpet,Raidurg,1
+09:27:25,Punjagutta,HITEC City,1
+09:27:34,Habsiguda,Lakdikapul,1
+09:27:37,Madhura Nagar,Dilsukhnagar,1
+09:27:48,Miyapur,Ameerpet,1
+09:27:53,HITEC City,Musarambagh,1
+09:28:00,LB Nagar,Irrum Manzil,1
+09:28:01,Madhapur,Kukatpally,1
+09:28:03,Secunderabad East,Peddamma Temple,1
+09:28:12,Narayanguda,Musarambagh,1
+09:28:26,Osmania Medical College,Rasoolpura,1
+09:28:30,Nagole,LB Nagar,1
+09:28:31,Gandhi Bhavan,LB Nagar,1
+09:28:33,Parade Grounds,NGRI,1
+09:28:39,Sanath Nagar,Raidurg,1
+09:28:44,Gandhi Hospital,Raidurg,1
+09:28:54,Nampally,Nagole,1
+09:29:01,Parade Grounds,HITEC City,1
+09:29:14,New Market,HITEC City,1
+09:29:25,Nagole,Parade Grounds,1
+09:29:26,Stadium,Nampally,1
+09:29:33,Begumpet,Kachiguda,1
+09:29:44,Road No 5 Jubilee Hills,Raidurg,1
+09:29:51,Borabanda,Habsiguda,1
+09:29:52,Road No 5 Jubilee Hills,Gandhi Bhavan,1
+09:29:57,Moosapet,Madhura Nagar,1
+09:30:11,New Market,Secunderabad East,1
+09:30:14,Uppal,Musarambagh,1
+09:30:29,Parade Grounds,Ameerpet,1
+09:30:41,Yusufguda,Chikkadpally,1
+09:30:49,Madhapur,Assembly,1
+09:30:53,Gandhi Hospital,Irrum Manzil,1
+09:30:57,Secunderabad West,Musarambagh,1
+09:31:10,Bharat Nagar,Narayanguda,1
+09:31:21,Borabanda,Stadium,1
+09:31:22,HITEC City,Mettuguda,1
+09:31:23,Secunderabad West,Chaitanyapuri,1
+09:31:29,Stadium,Vidyanagar,1
+09:31:44,Parade Grounds,Osmania Medical College,1
+09:31:47,Vidyanagar,Narayanguda,1
+09:31:52,LB Nagar,Durgam Cheruvu,1
+09:31:55,KPHB Colony,Raidurg,1
+09:32:03,Sanath Nagar,Miyapur,1
+09:32:09,Victoria Memorial,Yusufguda,1
+09:32:12,Nagole,Erragadda,1
+09:32:21,Nagole,Yusufguda,1
+09:32:22,Madhura Nagar,Chaitanyapuri,1
+09:32:24,Malakpet,Rasoolpura,1
+09:32:29,Punjagutta,Gandhi Bhavan,1
+09:32:34,Uppal,Rasoolpura,1
+09:32:40,Ameerpet,LB Nagar,1
+09:32:47,Road No 5 Jubilee Hills,Chaitanyapuri,1
+09:33:01,LB Nagar,Nagole,1
+09:33:11,ESI Hospital,Parade Grounds,1
+09:33:15,Raidurg,Peddamma Temple,1
+09:33:28,Assembly,Nagole,1
+09:33:35,Punjagutta,Raidurg,1
+09:33:47,Ameerpet,Raidurg,1
+09:33:50,LB Nagar,ESI Hospital,1
+09:34:05,Secunderabad West,Habsiguda,1
+09:34:17,MG Bus Station,Stadium,1
+09:34:22,Parade Grounds,LB Nagar,1
+09:34:34,Ameerpet,Khairatabad,1
+09:34:39,Uppal,Begumpet,1
+09:34:47,Durgam Cheruvu,Gandhi Bhavan,1
+09:34:53,Parade Grounds,Sultan Bazar,1
+09:34:58,New Market,LB Nagar,1
+09:35:04,Gandhi Hospital,Lalaguda,1
+09:35:08,Parade Grounds,Begumpet,1
+09:35:17,Ameerpet,HITEC City,1
+09:35:23,Malakpet,Habsiguda,1
+09:35:36,Madhapur,RTC X Roads,1
+09:35:43,Rasoolpura,Nagole,1
+09:35:46,Gandhi Hospital,Begumpet,1
+09:36:01,New Market,Begumpet,1
+09:36:11,LB Nagar,Chikkadpally,1
+09:36:13,Ameerpet,Lakdikapul,1
+09:36:19,Begumpet,Jubilee Hills Check Post,1
+09:36:29,Begumpet,Gandhi Bhavan,1
+09:36:37,HITEC City,Sanath Nagar,1
+09:36:49,Parade Grounds,Lalaguda,1
+09:36:56,Ameerpet,Secunderabad West,1
+09:36:59,Peddamma Temple,Begumpet,1
+09:37:11,Road No 5 Jubilee Hills,Balanagar,1
+09:37:14,LB Nagar,Moosapet,1
+09:37:29,Musheerabad,Secunderabad East,1
+09:37:30,HITEC City,Tarnaka,1
+09:37:32,Bharat Nagar,Prakash Nagar,1
+09:37:34,Begumpet,Musheerabad,1
+09:37:39,Lakdikapul,Madhapur,1
+09:37:47,Prakash Nagar,ESI Hospital,1
+09:38:01,Ameerpet,Miyapur,1
+09:38:07,Secunderabad West,Malakpet,1
+09:38:15,Nagole,Gandhi Hospital,1
+09:38:30,Osmania Medical College,Nagole,1
+09:38:42,Mettuguda,Parade Grounds,1
+09:38:50,Begumpet,Parade Grounds,1
+09:38:59,Begumpet,Mettuguda,1
+09:39:14,Musarambagh,Mettuguda,1
+09:39:27,Moosapet,MG Bus Station,1
+09:39:34,Gandhi Bhavan,MG Bus Station,1
+09:39:35,Tarnaka,HITEC City,1
+09:39:38,New Market,Uppal,1
+09:39:39,Yusufguda,Stadium,1
+09:39:52,Uppal,Miyapur,1
+09:39:59,Raidurg,Paradise,1
+09:40:12,Miyapur,Chaitanyapuri,1
+09:40:19,Musheerabad,Nagole,1
+09:40:23,Ameerpet,Madhapur,1
+09:40:30,Secunderabad West,Khairatabad,1
+09:40:32,LB Nagar,Assembly,1
+09:40:45,Raidurg,Rasoolpura,1
+09:40:57,Yusufguda,MG Bus Station,1
+09:41:09,Mettuguda,Gandhi Bhavan,1
+09:41:13,Secunderabad West,Ameerpet,1
+09:41:18,Bharat Nagar,Nagole,1
+09:41:26,Osmania Medical College,Prakash Nagar,1
+09:41:30,MG Bus Station,Ameerpet,1
+09:41:39,Miyapur,Lalaguda,1
+09:41:44,Gandhi Bhavan,Jubilee Hills Check Post,1
+09:41:56,Miyapur,Moosapet,1
+09:41:57,Stadium,New Market,1
+09:42:02,HITEC City,NGRI,1
+09:42:08,Nagole,Raidurg,1
+09:42:14,Balanagar,Durgam Cheruvu,1
+09:42:17,KPHB Colony,HITEC City,1
+09:42:19,Mettuguda,Ameerpet,1
+09:42:34,Secunderabad West,Raidurg,1
+09:42:48,Miyapur,Lalaguda,1
+09:43:00,Nampally,HITEC City,1
+09:43:08,Nampally,Kachiguda,1
+09:43:12,Nagole,HITEC City,1
+09:43:21,Begumpet,Irrum Manzil,1
+09:43:28,Yusufguda,MG Bus Station,1
+09:43:34,Ameerpet,Peddamma Temple,1
+09:43:46,Sultan Bazar,Tarnaka,1
+09:43:51,Uppal,MG Bus Station,1
+09:43:57,Musheerabad,Secunderabad West,1
+09:44:01,Lalaguda,Assembly,1
+09:44:08,Malakpet,Ameerpet,1
+09:44:13,Parade Grounds,LB Nagar,1
+09:44:17,Miyapur,JNTU College,1
+09:44:30,Yusufguda,Ameerpet,1
+09:44:43,Moosapet,Ameerpet,1
+09:44:45,Yusufguda,New Market,1
+09:44:58,Prakash Nagar,KPHB Colony,1
+09:45:09,Ameerpet,Mettuguda,1
+09:45:11,ESI Hospital,Lakdikapul,1
+09:45:20,HITEC City,Raidurg,1
+09:45:28,Madhapur,Miyapur,1
+09:45:35,Dilsukhnagar,ESI Hospital,1
+not a valid line
+09:45:50,JNTU College,Jubilee Hills Check Post,1
+09:45:59,MG Bus Station,Road No 5 Jubilee Hills,1
+09:46:03,Parade Grounds,Secunderabad East,1
+09:46:09,Madhapur,Osmania Medical College,1
+09:46:23,Paradise,Secunderabad West,1
+09:46:26,Kukatpally,Ameerpet,1
+09:46:31,Raidurg,Mettuguda,1
+09:46:39,Miyapur,Begumpet,1
+09:46:46,Madhapur,Musheerabad,1
+09:46:56,Secunderabad West,HITEC City,1
+09:47:00,MG Bus Station,Kukatpally,1
+09:47:09,Raidurg,Punjagutta,1
+09:47:20,NGRI,Secunderabad East,1
+09:47:30,Osmania Medical College,LB Nagar,1
+09:47:36,Bharat Nagar,Tarnaka,1
+09:47:38,JNTU College,Sultan Bazar,1
+09:47:41,Gandhi Hospital,Irrum Manzil,1
+09:47:49,Punjagutta,Miyapur,1
+09:48:00,Secunderabad West,Begumpet,1
+09:48:09,Prakash Nagar,Parade Grounds,1
+09:48:10,Dilsukhnagar,Rasoolpura,1
+09:48:12,Miyapur,Narayanguda,1
+09:48:23,Stadium,RTC X Roads,1
+09:48:25,Nagole,Begumpet,1
+09:48:31,Parade Grounds,Sultan Bazar,1
+09:48:38,Raidurg,KPHB Colony,1
+09:48:48,Gandhi Bhavan,JNTU College,1
+09:48:50,Secunderabad West,Balanagar,1
+09:48:54,Borabanda,Moosapet,1
+09:49:06,Lakdikapul,Victoria Memorial,1
+09:49:10,Tarnaka,Nampally,1
+09:49:21,Sanath Nagar,Parade Grounds,1
+09:49:30,LB Nagar,Bharat Nagar,1
+09:49:41,Parade Grounds,Madhura Nagar,1
+09:49:53,Begumpet,Musheerabad,1
+09:49:56,Raidurg,Secunderabad East,1
+09:50:05,New Market,Ameerpet,1
+09:50:15,Nagole,Musarambagh,1
+09:50:21,Secunderabad East,Kachiguda,1
+09:50:35,Chaitanyapuri,HITEC City,1
+09:50:42,Raidurg,Malakpet,1
+09:50:46,Parade Grounds,Khairatabad,1
+09:50:59,Secunderabad East,Durgam Cheruvu,1
+09:51:05,Borabanda,Nagole,1
+09:51:12,Miyapur,MG Bus Station,1
+09:51:13,Habsiguda,Kachiguda,1
+09:51:18,Miyapur,Vidyanagar,1
+09:51:22,Secunderabad West,Miyapur,1
+09:51:36,Sanath Nagar,Raidurg,1
+09:51:51,Secunderabad East,Parade Grounds,1
+09:52:06,Parade Grounds,Moosapet,1
+09:52:14,Musarambagh,SR Nagar,1
+09:52:20,RTC X Roads,Nampally,1
+09:52:25,Raidurg,Moosapet,1
+09:52:32,Parade Grounds,Khairatabad,1
+09:52:34,Peddamma Temple,Raidurg,1
+09:52:37,Stadium,RTC X Roads,1
+09:52:49,Parade Grounds,Chikkadpally,1
+09:52:59,Begumpet,JNTU College,1
+09:53:12,Parade Grounds,Balanagar,1
+09:53:13,Narayanguda,New Market,1
+09:53:28,Raidurg,LB Nagar,1
+09:53:42,Erragadda,HITEC City,1
+09:53:54,Begumpet,Paradise,1
+09:53:55,Begumpet,KPHB Colony,1
+09:54:04,JNTU College,Mettuguda,1
+09:54:07,Malakpet,Road No 5 Jubilee Hills,1
+09:54:10,KPHB Colony,Madhapur,1
+09:54:17,Lalaguda,Durgam Cheruvu,1
+09:54:27,NGRI,Khairatabad,1
+09:54:32,HITEC City,SR Nagar,1
+09:54:38,Balanagar,Parade Grounds,1
+09:54:39,Secunderabad East,Gandhi Bhavan,1
+09:54:46,NGRI,HITEC City,1
+09:54:49,HITEC City,Uppal,1
+09:54:53,Stadium,Begumpet,1
+09:54:57,Parade Grounds,Kachiguda,1
+09:55:06,Assembly,Kukatpally,1
+09:55:19,LB Nagar,Yusufguda,1
+09:55:29,Moosapet,Madhura Nagar,1
+09:55:36,Dilsukhnagar,Punjagutta,1
+09:55:42,Paradise,Miyapur,1
+09:55:47,Ameerpet,Musarambagh,1
+09:56:01,Kachiguda,Nagole,1
+09:56:04,Nagole,Narayanguda,1
+09:56:08,Irrum Manzil,Chaitanyapuri,1
+09:56:21,Madhapur,Balanagar,1
+09:56:33,KPHB Colony,Sanath Nagar,1
+09:56:48,SR Nagar,Secunderabad West,1
+09:56:53,Miyapur,Road No 5 Jubilee Hills,1
+09:56:55,MG Bus Station,Uppal,1
+09:57:01,Irrum Manzil,Mettuguda,1
+09:57:05,Secunderabad East,Durgam Cheruvu,1
+09:57:14,Stadium,Madhapur,1
+09:57:17,Road No 5 Jubilee Hills,Madhura Nagar,1
+09:57:24,Parade Grounds,Begumpet,1
+09:57:25,Nampally,KPHB Colony,1
+09:57:29,HITEC City,Prakash Nagar,1
+09:57:30,Nagole,Sanath Nagar,1
+09:57:32,Victoria Memorial,Gandhi Bhavan,1
+09:57:46,Chikkadpally,Dilsukhnagar,1
+09:57:48,Miyapur,Gandhi Hospital,1
+09:57:59,Victoria Memorial,Vidyanagar,1
+09:58:08,Vidyanagar,Bharat Nagar,1
+09:58:14,Stadium,Paradise,1
+09:58:16,Punjagutta,NGRI,1
+09:58:24,Parade Grounds,Jubilee Hills Check Post,1
+09:58:25,Nampally,Tarnaka,1
+09:58:31,Stadium,Durgam Cheruvu,1
+09:58:32,Musarambagh,Prakash Nagar,1
+09:58:36,Kachiguda,Vidyanagar,1
+09:58:41,Raidurg,Prakash Nagar,1
+09:58:56,Victoria Memorial,Kachiguda,1
+09:58:57,Sanath Nagar,Lakdikapul,1
+09:59:03,RTC X Roads,Begumpet,1
+09:59:05,Madhapur,Tarnaka,1
+09:59:16,Rasoolpura,Prakash Nagar,1
+09:59:20,LB Nagar,Parade Grounds,1
+09:59:27,Lalaguda,Chikkadpally,1
+09:59:33,Nagole,ESI Hospital,1
+09:59:44,SR Nagar,Mettuguda,1
+09:59:57,Irrum Manzil,SR Nagar,1
+10:00:09,Jubilee Hills Check Post,Tarnaka,0
+10:00:12,LB Nagar,Chikkadpally,0
+10:00:25,SR Nagar,Sultan Bazar,0
+10:00:40,Ameerpet,Kukatpally,0
+10:00:49,Sanath Nagar,Erragadda,0
+10:00:55,Secunderabad West,SR Nagar,0
+10:00:56,HITEC City,Musheerabad,0
+10:01:03,Borabanda,MG Bus Station,0
+10:01:15,Sultan Bazar,RTC X Roads,0
+10:01:30,Madhapur,Ameerpet,0
+10:01:34,Bharat Nagar,Ameerpet,0
+10:01:47,Vidyanagar,Rasoolpura,0
+10:01:57,Parade Grounds,Lakdikapul,0
+10:02:01,Lakdikapul,Miyapur,0
+10:02:03,Yusufguda,Uppal,0
+10:02:12,Secunderabad West,Nagole,0
+10:02:23,Chaitanyapuri,Secunderabad West,0
+10:02:31,Uppal,Ameerpet,0
+10:02:35,Miyapur,HITEC City,0
+10:02:36,Narayanguda,Sanath Nagar,0
+10:02:40,Durgam Cheruvu,Kachiguda,0
+10:02:53,Irrum Manzil,Ameerpet,0
+10:03:01,Gandhi Hospital,Stadium,0
+10:03:07,Gandhi Hospital,Musheerabad,0
+10:03:14,LB Nagar,JNTU College,0
+10:03:26,Raidurg,Peddamma Temple,0
+10:03:33,Rasoolpura,Durgam Cheruvu,0
+10:03:43,Mettuguda,Begumpet,0
+10:03:55,HITEC City,Tarnaka,0
+10:04:03,Nagole,Musheerabad,0
+10:04:18,Kachiguda,Tarnaka,0
+10:04:25,Vidyanagar,JNTU College,0
+10:04:32,Habsiguda,Begumpet,0
+10:04:33,Punjagutta,Nagole,0
+10:04:48,MG Bus Station,Secunderabad West,0
+10:04:56,Ameerpet,MG Bus Station,0
+10:05:11,KPHB Colony,Habsiguda,0
+10:05:14,Nagole,Begumpet,0
+10:05:16,Peddamma Temple,Erragadda,0
+10:05:29,Parade Grounds,RTC X Roads,0
+10:05:38,ESI Hospital,LB Nagar,0
+10:05:46,Miyapur,Nagole,0
+10:06:01,Jubilee Hills Check Post,Irrum Manzil,0
+10:06:09,Moosapet,Malakpet,0
+10:06:20,Chikkadpally,Raidurg,0
+10:06:32,Madhapur,Moosapet,0
+10:06:44,Nagole,Dilsukhnagar,0
+10:06:53,Jubilee Hills Check Post,Peddamma Temple,0
+10:07:02,Rasoolpura,Ameerpet,0
+10:07:11,Chaitanyapuri,HITEC City,0
+10:07:26,New Market,Gandhi Hospital,0
+10:07:40,Ameerpet,Gandhi Hospital,0
+10:07:43,HITEC City,KPHB Colony,0
+10:07:48,MG Bus Station,HITEC City,0
+10:07:56,MG Bus Station,Ameerpet,0
+10:08:11,ESI Hospital,Irrum Manzil,0
+10:08:21,HITEC City,Miyapur,0
+10:08:29,Secunderabad West,Secunderabad East,0
+10:08:30,Rasoolpura,Stadium,0
+10:08:34,Parade Grounds,Uppal,0
+10:08:41,Nagole,Paradise,0
+10:08:42,Assembly,Secunderabad East,0
+10:08:52,Prakash Nagar,Raidurg,0
+10:08:56,JNTU College,Ameerpet,0
+10:09:07,Musarambagh,SR Nagar,0
+10:09:08,Madhura Nagar,Secunderabad West,0
+10:09:13,Malakpet,Moosapet,0
+10:09:15,LB Nagar,Ameerpet,0
+10:09:26,MG Bus Station,Begumpet,0
+10:09:38,Paradise,HITEC City,0
+10:09:41,Lalaguda,Durgam Cheruvu,0
+10:09:47,Sultan Bazar,Moosapet,0
+10:09:52,Malakpet,RTC X Roads,0
+10:10:06,Kukatpally,LB Nagar,0
+10:10:15,Kukatpally,Uppal,0
+10:10:17,Road No 5 Jubilee Hills,Osmania Medical College,0
+10:10:26,LB Nagar,Irrum Manzil,0
+10:10:30,Rasoolpura,Bharat Nagar,0
+10:10:42,Vidyanagar,Tarnaka,0
+10:10:44,Stadium,Yusufguda,0
+10:10:59,HITEC City,Jubilee Hills Check Post,0
+10:11:06,Rasoolpura,MG Bus Station,0
+10:11:15,Parade Grounds,Prakash Nagar,0
+10:11:30,ESI Hospital,Parade Grounds,0
+10:11:39,Madhapur,NGRI,0
+10:11:52,Ameerpet,Rasoolpura,0
+10:12:04,MG Bus Station,Punjagutta,0
+10:12:06,Miyapur,Prakash Nagar,0
+10:12:08,Madhapur,Irrum Manzil,0
+10:12:18,Kachiguda,LB Nagar,0
+10:12:24,Musarambagh,Raidurg,0
+10:12:28,Miyapur,Irrum Manzil,0
+10:12:33,Nampally,Kukatpally,0
+10:12:38,Habsiguda,Malakpet,0
+10:12:39,Erragadda,Malakpet,0
+10:12:46,Peddamma Temple,Rasoolpura,0
+10:12:47,Secunderabad West,Punjagutta,0
+10:13:01,New Market,Madhura Nagar,0
+10:13:16,Uppal,Miyapur,0
+10:13:19,Stadium,Prakash Nagar,0
+10:13:34,Gandhi Hospital,RTC X Roads,0
+10:13:42,HITEC City,LB Nagar,0
+10:13:54,KPHB Colony,Tarnaka,0
+10:14:04,Peddamma Temple,MG Bus Station,0
+10:14:13,Miyapur,Parade Grounds,0
+10:14:19,Raidurg,Musheerabad,0
+10:14:25,Kukatpally,Ameerpet,0
+10:14:39,Miyapur,Vidyanagar,0
+10:14:50,Mettuguda,Ameerpet,0
+10:15:00,Victoria Memorial,Paradise,0
+10:15:14,HITEC City,MG Bus Station,0
+10:15:28,MG Bus Station,Miyapur,0
+10:15:35,Moosapet,Musheerabad,0
+10:15:41,Nagole,Borabanda,0
+10:15:45,Tarnaka,Ameerpet,0
+10:15:51,HITEC City,Chikkadpally,0
+10:15:59,NGRI,Raidurg,0
+10:16:14,NGRI,Punjagutta,0
+10:16:29,Stadium,Gandhi Hospital,0
+10:16:34,HITEC City,SR Nagar,0
+10:16:48,Moosapet,Vidyanagar,0
+10:16:57,Madhura Nagar,ESI Hospital,0
+10:17:09,Miyapur,Victoria Memorial,0
+10:17:23,Tarnaka,Miyapur,0
+10:17:38,JNTU College,Secunderabad West,0
+10:17:52,Moosapet,Nagole,0
+10:17:53,Bharat Nagar,HITEC City,0
+10:18:05,MG Bus Station,Parade Grounds,0
+10:18:10,Begumpet,Irrum Manzil,0
+10:18:14,Punjagutta,Osmania Medical College,0
+10:18:20,HITEC City,Madhura Nagar,0
+10:18:25,Ameerpet,Osmania Medical College,0
+10:18:26,Borabanda,Parade Grounds,0
+10:18:28,Irrum Manzil,Musarambagh,0
+10:18:34,Gandhi Bhavan,Sanath Nagar,0
+10:18:47,Osmania Medical College,Assembly,0
+10:18:49,MG Bus Station,RTC X Roads,0
+10:18:58,Nagole,ESI Hospital,0
+10:19:06,Chikkadpally,KPHB Colony,0
+10:19:13,KPHB Colony,LB Nagar,0
+10:19:16,Jubilee Hills Check Post,RTC X Roads,0
+10:19:27,Secunderabad West,Road No 5 Jubilee Hills,0
+10:19:37,Musarambagh,Malakpet,0
+10:19:41,Jubilee Hills Check Post,Madhura Nagar,0
+10:19:50,Balanagar,Narayanguda,0
+10:20:03,Nagole,ESI Hospital,0
+10:20:17,Raidurg,Road No 5 Jubilee Hills,0
+10:20:19,Nagole,Yusufguda,0
+10:20:31,HITEC City,Uppal,0
+10:20:35,SR Nagar,RTC X Roads,0
+10:20:40,Chikkadpally,Victoria Memorial,0
+10:20:52,Narayanguda,Malakpet,0
+10:21:06,Musheerabad,Nagole,0
+10:21:07,Kukatpally,Erragadda,0
+10:21:15,Nagole,Ameerpet,0
+10:21:28,Musarambagh,Parade Grounds,0
+10:21:37,Bharat Nagar,Raidurg,0
+10:21:50,Bharat Nagar,Parade Grounds,0
+10:21:52,Raidurg,Mettuguda,0
+10:21:59,Parade Grounds,Assembly,0
+10:22:03,Secunderabad East,Lalaguda,0
+10:22:10,Kukatpally,Irrum Manzil,0
+10:22:22,Parade Grounds,HITEC City,0
+10:22:29,Parade Grounds,New Market,0
+10:22:41,Assembly,Begumpet,0
+10:22:43,Madhapur,Jubilee Hills Check Post,0
+10:22:57,Stadium,Parade Grounds,0
+10:23:05,Malakpet,Moosapet,0
+10:23:13,Ameerpet,Borabanda,0
+10:23:15,Paradise,Yusufguda,0
+10:23:25,HITEC City,Chaitanyapuri,0
+10:23:33,Begumpet,KPHB Colony,0
+10:23:37,Raidurg,Musheerabad,0
+10:23:52,HITEC City,Raidurg,0
+10:24:05,SR Nagar,Ameerpet,0
+10:24:14,MG Bus Station,Rasoolpura,0
+10:24:22,Punjagutta,Yusufguda,0
+10:24:28,MG Bus Station,Raidurg,0
+10:24:39,MG Bus Station,Sanath Nagar,0
+10:24:46,Peddamma Temple,Narayanguda,0
+10:24:48,Parade Grounds,Rasoolpura,0
+10:24:57,LB Nagar,ESI Hospital,0
+10:25:02,Kukatpally,RTC X Roads,0
+10:25:03,Miyapur,Parade Grounds,0
+10:25:09,Bharat Nagar,Osmania Medical College,0
+10:25:10,Assembly,Road No 5 Jubilee Hills,0
+10:25:17,Prakash Nagar,Jubilee Hills Check Post,0
+10:25:24,Chaitanyapuri,Secunderabad East,0
+10:25:35,Ameerpet,SR Nagar,0
+10:25:44,Victoria Memorial,Narayanguda,0
+10:25:58,LB Nagar,MG Bus Station,0
+10:26:12,Madhura Nagar,ESI Hospital,0
+10:26:14,Begumpet,SR Nagar,0
+10:26:29,Stadium,Nagole,0
+10:26:32,Balanagar,Begumpet,0
+10:26:39,Secunderabad West,RTC X Roads,0
+10:26:51,Paradise,LB Nagar,0
+10:26:54,Nagole,LB Nagar,0
+10:27:08,Nagole,Musarambagh,0
+10:27:11,LB Nagar,Miyapur,0
+10:27:19,Secunderabad West,Assembly,0
+10:27:28,Gandhi Bhavan,Sultan Bazar,0
+10:27:38,Dilsukhnagar,Vidyanagar,0
+10:27:48,Stadium,Dilsukhnagar,0
+10:27:58,Stadium,Yusufguda,0
+10:28:01,Madhapur,Tarnaka,0
+10:28:15,Vidyanagar,HITEC City,0
+10:28:23,Habsiguda,Tarnaka,0
+10:28:33,Moosapet,Uppal,0
+10:28:45,Begumpet,Madhura Nagar,0
+10:28:56,Begumpet,Raidurg,0
+10:29:01,Rasoolpura,Chikkadpally,0
+10:29:10,HITEC City,Nagole,0
+10:29:19,Chikkadpally,Parade Grounds,0
+10:29:25,LB Nagar,Borabanda,0
+10:29:38,MG Bus Station,Ameerpet,0
+10:29:50,Narayanguda,Durgam Cheruvu,0
+10:30:02,HITEC City,Gandhi Bhavan,0
+10:30:13,Uppal,Ameerpet,0
+10:30:14,Begumpet,MG Bus Station,0
+10:30:26,Prakash Nagar,MG Bus Station,0
+10:30:28,ESI Hospital,Balanagar,0
+10:30:41,Osmania Medical College,ESI Hospital,0
+10:30:46,Osmania Medical College,Nampally,0
+10:30:58,Erragadda,Ameerpet,0
+10:31:08,Madhapur,Begumpet,0
+10:31:14,Raidurg,Gandhi Bhavan,0
+10:31:26,Assembly,Ameerpet,0
+10:31:35,Secunderabad West,New Market,0
+10:31:37,Lalaguda,Paradise,0
+10:31:51,Ameerpet,NGRI,0
+10:31:58,HITEC City,Assembly,0
+10:32:06,Peddamma Temple,Ameerpet,0
+10:32:16,Madhapur,New Market,0
+10:32:27,Gandhi Bhavan,Raidurg,0
+10:32:28,Ameerpet,LB Nagar,0
+10:32:33,Uppal,Sanath Nagar,0
+10:32:48,Mettuguda,Chaitanyapuri,0
+10:33:00,Victoria Memorial,Gandhi Bhavan,0
+10:33:09,Gandhi Hospital,Miyapur,0
+10:33:24,Raidurg,Chaitanyapuri,0
+10:33:30,Borabanda,Yusufguda,0
+10:33:31,Moosapet,Mettuguda,0
+10:33:37,Borabanda,LB Nagar,0
+10:33:52,Begumpet,Osmania Medical College,0
+10:33:57,Gandhi Bhavan,Moosapet,0
+10:34:08,Parade Grounds,Nagole,0
+10:34:19,Durgam Cheruvu,Madhapur,0
+10:34:29,HITEC City,Tarnaka,0
+10:34:40,Yusufguda,Ameerpet,0
+10:34:49,Miyapur,Kukatpally,0
+10:34:56,Moosapet,Bharat Nagar,0
+10:35:04,Musarambagh,Peddamma Temple,0
+10:35:09,Punjagutta,Miyapur,0
+10:35:11,KPHB Colony,Paradise,0
+10:35:26,Secunderabad West,Sanath Nagar,0
+10:35:37,Erragadda,Borabanda,0
+10:35:39,Secunderabad West,ESI Hospital,0
+10:35:50,HITEC City,Begumpet,0
+10:36:03,Lalaguda,RTC X Roads,0
+10:36:15,Ameerpet,MG Bus Station,0
+10:36:26,Sultan Bazar,Begumpet,0
+10:36:41,Kachiguda,HITEC City,0
+10:36:53,Chikkadpally,HITEC City,0
+10:36:59,Nampally,HITEC City,0
+10:37:04,HITEC City,Victoria Memorial,0
+10:37:10,Kachiguda,Nampally,0
+10:37:24,Gandhi Bhavan,Nagole,0
+10:37:32,Vidyanagar,Irrum Manzil,0
+10:37:39,Ameerpet,Stadium,0
+10:37:42,Mettuguda,LB Nagar,0
+10:37:52,Begumpet,Chikkadpally,0
+10:38:04,Nampally,Miyapur,0
+10:38:06,Parade Grounds,Nampally,0
+10:38:14,Miyapur,NGRI,0
+10:38:25,Begumpet,Sultan Bazar,0
+10:38:36,Victoria Memorial,Ameerpet,0
+10:38:42,Chikkadpally,Parade Grounds,0
+10:38:51,Jubilee Hills Check Post,HITEC City,0
+10:38:59,Nagole,Secunderabad West,0
+10:39:12,Raidurg,Kukatpally,0
+10:39:16,Miyapur,Borabanda,0
+10:39:30,HITEC City,Erragadda,0
+10:39:39,Sultan Bazar,Dilsukhnagar,0
+10:39:50,MG Bus Station,KPHB Colony,0
+10:40:01,Moosapet,Mettuguda,0
+10:40:07,Balanagar,Nagole,0
+10:40:20,MG Bus Station,Irrum Manzil,0
+10:40:29,JNTU College,Victoria Memorial,0
+10:40:33,MG Bus Station,Victoria Memorial,0
+10:40:35,Begumpet,Dilsukhnagar,0
+10:40:37,Musheerabad,Nagole,0
+10:40:41,SR Nagar,Punjagutta,0
+10:40:53,Kachiguda,Assembly,0
+10:41:00,Kukatpally,Mettuguda,0
+10:41:05,NGRI,Lalaguda,0
+10:41:18,Nagole,Kachiguda,0
+10:41:19,New Market,Peddamma Temple,0
+10:41:26,Erragadda,Raidurg,0
+10:41:37,Tarnaka,Sanath Nagar,0
+10:41:51,Gandhi Hospital,Ameerpet,0
+10:42:01,Lakdikapul,Kukatpally,0
+10:42:13,SR Nagar,Begumpet,0
+10:42:21,Chikkadpally,Prakash Nagar,0
+10:42:25,Road No 5 Jubilee Hills,ESI Hospital,0
+10:42:28,Begumpet,Chikkadpally,0
+10:42:42,Raidurg,Nagole,0
+10:42:45,Secunderabad West,Kukatpally,0
+10:42:59,Bharat Nagar,NGRI,0
+10:43:12,Rasoolpura,Kukatpally,0
+10:43:16,LB Nagar,Raidurg,0
+10:43:28,Madhura Nagar,Malakpet,0
+10:43:39,Parade Grounds,SR Nagar,0
+10:43:53,Lalaguda,Khairatabad,0
+10:43:54,Paradise,New Market,0
+10:43:56,Osmania Medical College,HITEC City,0
+10:43:59,Road No 5 Jubilee Hills,Secunderabad East,0
+10:44:07,Assembly,Parade Grounds,0
+10:44:10,Bharat Nagar,Secunderabad West,0
+10:44:20,Chaitanyapuri,Ameerpet,0
+10:44:35,Stadium,Miyapur,0
+10:44:38,Sultan Bazar,Jubilee Hills Check Post,0
+10:44:48,Musheerabad,LB Nagar,0
+10:45:01,Raidurg,Uppal,0
+10:45:04,Irrum Manzil,Begumpet,0
+10:45:13,Nagole,Assembly,0
+10:45:16,Rasoolpura,JNTU College,0
+10:45:19,Peddamma Temple,Rasoolpura,0
+10:45:21,Prakash Nagar,HITEC City,0
+10:45:27,LB Nagar,Parade Grounds,0
+10:45:31,Erragadda,Tarnaka,0
+10:45:33,Prakash Nagar,Secunderabad West,0
+10:45:42,Habsiguda,Nagole,0
+10:45:53,Begumpet,Osmania Medical College,0
+10:45:57,Erragadda,Ameerpet,0
+10:46:11,Lalaguda,Uppal,0
+10:46:14,Ameerpet,Narayanguda,0
+10:46:15,Begumpet,MG Bus Station,0
+10:46:22,Nampally,Rasoolpura,0
+10:46:37,HITEC City,JNTU College,0
+10:46:49,KPHB Colony,Mettuguda,0
+10:46:52,HITEC City,Stadium,0
+10:46:54,Kukatpally,Assembly,0
+10:47:02,Paradise,Malakpet,0
+10:47:06,Durgam Cheruvu,RTC X Roads,0
+10:47:10,HITEC City,Malakpet,0
+10:47:12,Assembly,LB Nagar,0
+10:47:16,Chaitanyapuri,Khairatabad,0
+10:47:24,Parade Grounds,KPHB Colony,0
+10:47:31,SR Nagar,Sultan Bazar,0
+10:47:39,Ameerpet,Chaitanyapuri,0
+10:47:47,Peddamma Temple,Begumpet,0
+10:47:52,Irrum Manzil,ESI Hospital,0
+10:48:04,Parade Grounds,Osmania Medical College,0
+10:48:06,Secunderabad West,Nagole,0
+10:48:09,HITEC City,Khairatabad,0
+10:48:14,Paradise,HITEC City,0
+10:48:25,Borabanda,Chikkadpally,0
+10:48:35,Lalaguda,Secunderabad West,0
+10:48:37,LB Nagar,Tarnaka,0
+10:48:51,Kachiguda,Parade Grounds,0
+10:49:05,Nagole,Miyapur,0
+10:49:12,Madhapur,Assembly,0
+10:49:18,Nagole,Lakdikapul,0
+10:49:33,Parade Grounds,Ameerpet,0
+10:49:43,RTC X Roads,LB Nagar,0
+10:49:44,JNTU College,Uppal,0
+10:49:57,NGRI,LB Nagar,0
+10:50:04,Uppal,Raidurg,0
+10:50:18,Moosapet,NGRI,0
+10:50:20,Parade Grounds,Miyapur,0
+10:50:32,LB Nagar,Khairatabad,0
+10:50:38,MG Bus Station,Begumpet,0
+10:50:40,Miyapur,Madhura Nagar,0
+10:50:43,Road No 5 Jubilee Hills,Secunderabad West,0
+10:50:55,Parade Grounds,Vidyanagar,0
+10:51:03,HITEC City,Gandhi Hospital,0
+10:51:10,Ameerpet,Gandhi Hospital,0
+10:51:21,Nagole,Begumpet,0
+10:51:35,Prakash Nagar,Victoria Memorial,0
+10:51:47,Malakpet,Miyapur,0
+10:51:54,Durgam Cheruvu,Road No 5 Jubilee Hills,0
+10:52:04,Mettuguda,Raidurg,0
+10:52:17,Yusufguda,Prakash Nagar,0
+10:52:23,Madhapur,KPHB Colony,0
+10:52:38,Madhura Nagar,Musheerabad,0
+10:52:40,Victoria Memorial,Nagole,0
+10:52:41,Dilsukhnagar,Ameerpet,0
+10:52:50,Jubilee Hills Check Post,Parade Grounds,0
+10:53:03,Irrum Manzil,Vidyanagar,0
+10:53:07,Mettuguda,Begumpet,0
+10:53:19,Sanath Nagar,Parade Grounds,0
+10:53:31,Irrum Manzil,Durgam Cheruvu,0
+10:53:35,MG Bus Station,RTC X Roads,0
+10:53:44,Yusufguda,Osmania Medical College,0
+10:53:46,Chaitanyapuri,Nagole,0
+10:53:55,Tarnaka,Erragadda,0
+10:54:07,Mettuguda,Raidurg,0
+10:54:22,MG Bus Station,Prakash Nagar,0
+10:54:35,Madhura Nagar,Road No 5 Jubilee Hills,0
+10:54:50,Kukatpally,RTC X Roads,0
+10:54:58,Moosapet,Victoria Memorial,0
+10:55:01,MG Bus Station,Borabanda,0
+10:55:03,Ameerpet,Erragadda,0
+10:55:06,NGRI,Gandhi Hospital,0
+10:55:15,Borabanda,Miyapur,0
+10:55:22,Lalaguda,Mettuguda,0
+10:55:25,Uppal,LB Nagar,0
+10:55:37,Begumpet,MG Bus Station,0
+10:55:39,Miyapur,Raidurg,0
+10:55:53,Sanath Nagar,Begumpet,0
+10:56:00,Parade Grounds,Begumpet,0
+10:56:13,Malakpet,Paradise,0
+10:56:25,Tarnaka,Secunderabad East,0
+10:56:33,MG Bus Station,ESI Hospital,0
+10:56:46,MG Bus Station,HITEC City,0
+10:56:50,Stadium,Lalaguda,0
+10:57:03,Secunderabad West,Ameerpet,0
+10:57:08,Nagole,Ameerpet,0
+10:57:23,Ameerpet,Mettuguda,0
+10:57:26,Lalaguda,Secunderabad West,0
+10:57:38,Chikkadpally,Raidurg,0
+10:57:41,Assembly,JNTU College,0
+10:57:47,Parade Grounds,Nagole,0
+10:57:53,Ameerpet,Parade Grounds,0
+10:57:54,Begumpet,Vidyanagar,0
+10:57:57,Chaitanyapuri,Mettuguda,0
+10:58:00,Mettuguda,Erragadda,0
+10:58:01,LB Nagar,NGRI,0
+10:58:04,Sanath Nagar,Sultan Bazar,0
+10:58:07,Miyapur,Madhapur,0
+10:58:16,Malakpet,Jubilee Hills Check Post,0
+10:58:24,RTC X Roads,Lalaguda,0
+10:58:37,Vidyanagar,Parade Grounds,0
+10:58:40,Raidurg,Madhapur,0
+10:58:55,Nagole,Yusufguda,0
+10:59:07,Uppal,JNTU College,0
+10:59:18,Secunderabad East,MG Bus Station,0
+10:59:25,Prakash Nagar,Khairatabad,0
+10:59:31,Moosapet,KPHB Colony,0
+10:59:42,Punjagutta,Tarnaka,0
+10:59:55,Sultan Bazar,Osmania Medical College,0
+10:59:56,Balanagar,Secunderabad West,0
+11:00:07,Madhura Nagar,Moosapet,0
+11:00:16,Victoria Memorial,Stadium,0
+11:00:26,Rasoolpura,Sanath Nagar,0
+11:00:41,Madhura Nagar,LB Nagar,0
+11:00:53,Secunderabad West,Dilsukhnagar,0
+11:00:59,Miyapur,New Market,0
+11:01:04,Vidyanagar,Gandhi Hospital,0
+11:01:06,Khairatabad,Musheerabad,0
+11:01:18,Kachiguda,Raidurg,0
+11:01:23,Ameerpet,Peddamma Temple,0
+11:01:38,LB Nagar,RTC X Roads,0
+11:01:41,Secunderabad West,Paradise,0
+11:01:44,Irrum Manzil,Uppal,0
+11:01:58,Tarnaka,New Market,0
+11:02:13,Borabanda,HITEC City,0
+11:02:15,Miyapur,Begumpet,0
+11:02:20,LB Nagar,Parade Grounds,0
+11:02:32,Parade Grounds,Narayanguda,0
+11:02:36,Punjagutta,Chaitanyapuri,0
+11:02:45,Stadium,Raidurg,0
+11:02:50,Secunderabad West,MG Bus Station,0
+11:02:59,Madhapur,Lakdikapul,0
+11:03:12,Miyapur,Gandhi Bhavan,0
+11:03:23,Secunderabad West,Uppal,0
+11:03:34,Begumpet,MG Bus Station,0
+11:03:37,Stadium,Yusufguda,0
+11:03:41,Miyapur,HITEC City,0
+11:03:49,Kachiguda,Kukatpally,0
+11:04:01,Dilsukhnagar,Uppal,0
+11:04:08,Gandhi Hospital,Prakash Nagar,0
+11:04:16,Lalaguda,Raidurg,0
+11:04:22,Habsiguda,Parade Grounds,0
+11:04:36,Gandhi Bhavan,Parade Grounds,0
+11:04:39,MG Bus Station,Musheerabad,0
+11:04:42,Musarambagh,KPHB Colony,0
+11:04:48,LB Nagar,Chikkadpally,0
+11:04:54,JNTU College,MG Bus Station,0
+11:05:05,Sultan Bazar,Habsiguda,0
+11:05:18,Prakash Nagar,HITEC City,0
+11:05:28,Durgam Cheruvu,Secunderabad East,0
+11:05:42,MG Bus Station,Secunderabad West,0
+11:05:55,MG Bus Station,Yusufguda,0
+11:06:07,Dilsukhnagar,Mettuguda,0
+11:06:13,Raidurg,Miyapur,0
+11:06:22,Osmania Medical College,HITEC City,0
+11:06:29,New Market,Chikkadpally,0
+11:06:31,Khairatabad,NGRI,0
+11:06:45,Punjagutta,RTC X Roads,0
+11:06:55,Yusufguda,Borabanda,0
+11:07:09,Mettuguda,Secunderabad East,0
+11:07:22,Raidurg,LB Nagar,0
+11:07:37,Balanagar,Raidurg,0
+11:07:52,Miyapur,Musarambagh,0
+11:08:04,Dilsukhnagar,Raidurg,0
+11:08:19,Vidyanagar,Tarnaka,0
+11:08:25,Ameerpet,MG Bus Station,0
+11:08:37,Raidurg,Lakdikapul,0
+11:08:51,Road No 5 Jubilee Hills,Yusufguda,0
+11:08:56,ESI Hospital,Balanagar,0
+11:09:08,HITEC City,Erragadda,0
+11:09:09,HITEC City,JNTU College,0
+11:09:11,Miyapur,Begumpet,0
+11:09:21,KPHB Colony,Erragadda,0
+11:09:26,JNTU College,MG Bus Station,0
+11:09:27,HITEC City,Narayanguda,0
+11:09:31,Parade Grounds,Irrum Manzil,0
+11:09:42,Musarambagh,Moosapet,0
+11:09:56,Durgam Cheruvu,Osmania Medical College,0
+11:10:06,Musarambagh,Ameerpet,0
+11:10:15,HITEC City,Rasoolpura,0
+11:10:24,Parade Grounds,Bharat Nagar,0
+11:10:34,HITEC City,Tarnaka,0
+11:10:46,Punjagutta,Osmania Medical College,0
+11:11:01,HITEC City,Miyapur,0
+11:11:13,Moosapet,Khairatabad,0
+11:11:22,Secunderabad West,Uppal,0
+11:11:34,Parade Grounds,Nagole,0
+11:11:36,Ameerpet,Musarambagh,0
+11:11:43,LB Nagar,Habsiguda,0
+11:11:50,Erragadda,Vidyanagar,0
+11:11:52,Nagole,Tarnaka,0
+11:12:00,HITEC City,Jubilee Hills Check Post,0
+11:12:09,Peddamma Temple,Balanagar,0
+11:12:17,Erragadda,Osmania Medical College,0
+11:12:27,Madhapur,Yusufguda,0
+11:12:41,Nagole,Secunderabad East,0
+11:12:46,Vidyanagar,LB Nagar,0
+11:13:00,Kukatpally,Secunderabad West,0
+11:13:08,Sanath Nagar,Dilsukhnagar,0
+11:13:09,Kachiguda,Stadium,0
+11:13:11,LB Nagar,Tarnaka,0
+11:13:22,Balanagar,SR Nagar,0
+11:13:29,Road No 5 Jubilee Hills,Vidyanagar,0
+11:13:41,Narayanguda,Vidyanagar,0
+11:13:43,Dilsukhnagar,Irrum Manzil,0
+11:13:47,Paradise,Kachiguda,0
+11:13:49,Lakdikapul,LB Nagar,0
+11:13:57,Osmania Medical College,Jubilee Hills Check Post,0
+11:14:07,Paradise,HITEC City,0
+11:14:20,Begumpet,LB Nagar,0
+11:14:28,Madhura Nagar,Sanath Nagar,0
+11:14:36,Habsiguda,SR Nagar,0
+11:14:44,Bharat Nagar,Nampally,0
+11:14:52,Lakdikapul,Sanath Nagar,0
+11:14:53,Bharat Nagar,KPHB Colony,0
+11:14:55,NGRI,Miyapur,0
+11:14:58,Chaitanyapuri,Yusufguda,0
+11:15:01,MG Bus Station,Prakash Nagar,0
+11:15:14,Balanagar,Durgam Cheruvu,0
+11:15:27,Stadium,Nagole,0
+11:15:32,Begumpet,Stadium,0
+11:15:37,Mettuguda,Raidurg,0
+11:15:46,Secunderabad East,Borabanda,0
+11:15:47,Kachiguda,Musheerabad,0
+11:15:49,Victoria Memorial,MG Bus Station,0
+11:15:56,Nagole,Miyapur,0
+11:15:59,Parade Grounds,Secunderabad West,0
+11:16:04,Musheerabad,Ameerpet,0
+11:16:11,ESI Hospital,Jubilee Hills Check Post,0
+11:16:19,HITEC City,Parade Grounds,0
+11:16:27,Begumpet,Yusufguda,0
+11:16:37,Uppal,Parade Grounds,0
+11:16:40,Habsiguda,Victoria Memorial,0
+11:16:48,Parade Grounds,Chaitanyapuri,0
+11:16:59,Musarambagh,Vidyanagar,0
+11:17:05,KPHB Colony,Parade Grounds,0
+11:17:08,Secunderabad West,Musarambagh,0
+11:17:20,Parade Grounds,HITEC City,0
+11:17:31,New Market,Moosapet,0
+11:17:37,Kachiguda,LB Nagar,0
+11:17:38,Begumpet,Nampally,0
+11:17:49,MG Bus Station,Balanagar,0
+11:18:01,Kukatpally,MG Bus Station,0
+11:18:07,Ameerpet,Mettuguda,0
+11:18:08,Nagole,Secunderabad West,0
+11:18:18,Habsiguda,LB Nagar,0
+11:18:19,Road No 5 Jubilee Hills,Parade Grounds,0
+11:18:25,Chaitanyapuri,Victoria Memorial,0
+11:18:35,Moosapet,Stadium,0
+11:18:47,Madhura Nagar,New Market,0
+11:18:56,Raidurg,Madhura Nagar,0
+11:18:59,Rasoolpura,Dilsukhnagar,0
+11:19:06,Irrum Manzil,Begumpet,0
+11:19:19,Balanagar,Secunderabad West,0
+11:19:23,MG Bus Station,JNTU College,0
+11:19:33,LB Nagar,Lakdikapul,0
+11:19:45,Borabanda,Peddamma Temple,0
+11:19:55,Moosapet,New Market,0
+11:19:57,Parade Grounds,Mettuguda,0
+11:20:04,Irrum Manzil,Raidurg,0
+11:20:15,Raidurg,NGRI,0
+11:20:20,Nagole,Mettuguda,0
+11:20:24,LB Nagar,Nampally,0
+11:20:33,Nagole,HITEC City,0
+11:20:36,Musheerabad,Prakash Nagar,0
+11:20:45,Secunderabad West,Parade Grounds,0
+11:20:49,Begumpet,Raidurg,0
+11:20:57,Gandhi Bhavan,Begumpet,0
+11:21:10,Rasoolpura,HITEC City,0
+11:21:17,Sultan Bazar,Peddamma Temple,0
+11:21:18,Tarnaka,Dilsukhnagar,0
+11:21:21,Assembly,Durgam Cheruvu,0
+11:21:34,MG Bus Station,Nagole,0
+11:21:40,Secunderabad West,Chikkadpally,0
+11:21:51,Irrum Manzil,LB Nagar,0
+11:22:05,MG Bus Station,Ameerpet,0
+11:22:16,Paradise,LB Nagar,0
+11:22:18,Ameerpet,Miyapur,0
+11:22:31,Secunderabad West,Nagole,0
+11:22:40,Kachiguda,LB Nagar,0
+11:22:55,Miyapur,Ameerpet,0
+11:22:58,Miyapur,HITEC City,0
+11:23:03,Begumpet,Ameerpet,0
+11:23:17,JNTU College,Peddamma Temple,0
+11:23:30,Miyapur,Secunderabad West,0
+11:23:32,MG Bus Station,Kukatpally,0
+11:23:39,RTC X Roads,Madhura Nagar,0
+11:23:54,Moosapet,Sanath Nagar,0
+11:24:06,Secunderabad West,Assembly,0
+11:24:16,Madhapur,Sultan Bazar,0
+11:24:25,Begumpet,Parade Grounds,0
+11:24:38,Sultan Bazar,Nampally,0
+11:24:53,Moosapet,Paradise,0
+11:25:06,Raidurg,Malakpet,0
+11:25:16,Madhapur,Raidurg,0
+11:25:28,Assembly,LB Nagar,0
+11:25:31,Bharat Nagar,Khairatabad,0
+11:25:36,Nagole,Nampally,0
+11:25:46,KPHB Colony,Mettuguda,0
+11:25:58,Sanath Nagar,MG Bus Station,0
+11:26:05,Uppal,Assembly,0
+11:26:10,Musheerabad,Sultan Bazar,0
+11:26:16,Uppal,Dilsukhnagar,0
+11:26:21,Miyapur,Lalaguda,0
+11:26:31,Miyapur,Madhapur,0
+11:26:44,Sanath Nagar,Yusufguda,0
+11:26:57,Madhura Nagar,Nampally,0
+11:27:04,MG Bus Station,Borabanda,0
+11:27:10,Chikkadpally,Yusufguda,0
+11:27:19,Gandhi Hospital,Secunderabad West,0
+11:27:26,Miyapur,Borabanda,0
+11:27:41,Vidyanagar,Nampally,0
+11:27:43,Sultan Bazar,HITEC City,0
+11:27:48,Khairatabad,RTC X Roads,0
+11:28:03,Nagole,MG Bus Station,0
+11:28:16,HITEC City,LB Nagar,0
+11:28:17,Osmania Medical College,Balanagar,0
+11:28:30,Sanath Nagar,Uppal,0
+11:28:37,Sultan Bazar,Malakpet,0
+11:28:44,Musheerabad,Raidurg,0
+11:28:58,Ameerpet,Gandhi Bhavan,0
+11:29:00,Musarambagh,Paradise,0
+11:29:14,Secunderabad East,Malakpet,0
+11:29:26,Miyapur,KPHB Colony,0
+11:29:37,Ameerpet,Nagole,0
+11:29:48,SR Nagar,LB Nagar,0
+11:29:59,MG Bus Station,Parade Grounds,0
+11:30:01,Ameerpet,Habsiguda,0
+11:30:14,Secunderabad West,HITEC City,0
+11:30:28,Paradise,LB Nagar,0
+11:30:34,Nagole,Gandhi Hospital,0
+11:30:37,Gandhi Bhavan,Yusufguda,0
+11:30:51,Malakpet,Osmania Medical College,0
+11:30:53,LB Nagar,Ameerpet,0
+11:31:08,Chaitanyapuri,Secunderabad West,0
+11:31:18,Lakdikapul,Sanath Nagar,0
+11:31:33,Parade Grounds,Rasoolpura,0
+11:31:37,Chikkadpally,Lalaguda,0
+11:31:41,Gandhi Bhavan,Secunderabad West,0
+11:31:42,LB Nagar,Gandhi Bhavan,0
+11:31:44,Borabanda,Ameerpet,0
+11:31:54,Erragadda,Peddamma Temple,0
+11:32:01,HITEC City,Sultan Bazar,0
+11:32:15,Madhura Nagar,Erragadda,0
+09:16:00,Ameerpet,Ameerpet,1
+11:32:27,Irrum Manzil,Sanath Nagar,0
+11:32:41,HITEC City,MG Bus Station,0
+11:32:49,Chaitanyapuri,LB Nagar,0
+11:32:53,Paradise,Kachiguda,0
+11:32:58,Peddamma Temple,Punjagutta,0
+11:33:01,LB Nagar,SR Nagar,0
+11:33:06,Vidyanagar,Assembly,0
+11:33:14,Chikkadpally,Dilsukhnagar,0
+11:33:25,Begumpet,Balanagar,0
+11:33:33,ESI Hospital,Malakpet,0
+11:33:45,LB Nagar,Khairatabad,0
+11:33:52,Jubilee Hills Check Post,Madhapur,0
+11:33:57,Kukatpally,Parade Grounds,0
+11:33:58,Malakpet,Assembly,0
+11:34:13,Musarambagh,Rasoolpura,0
+11:34:24,Lalaguda,Paradise,0
+11:34:36,Raidurg,Miyapur,0
+11:34:45,Prakash Nagar,MG Bus Station,0
+11:34:52,Madhura Nagar,ESI Hospital,0
+11:35:07,Parade Grounds,Gandhi Bhavan,0
+11:35:16,Stadium,New Market,0
+11:35:24,ESI Hospital,MG Bus Station,0
+11:35:33,Nagole,Gandhi Bhavan,0
+11:35:39,JNTU College,ESI Hospital,0
+11:35:53,Lalaguda,Osmania Medical College,0
+11:35:59,Sultan Bazar,Osmania Medical College,0
+11:36:14,Gandhi Bhavan,Secunderabad West,0
+11:36:29,Gandhi Bhavan,MG Bus Station,0
+11:36:44,Ameerpet,Madhapur,0
+11:36:52,HITEC City,Ameerpet,0
+11:37:06,Narayanguda,Begumpet,0
+11:37:14,KPHB Colony,Ameerpet,0
+11:37:18,Ameerpet,Uppal,0
+11:37:21,Jubilee Hills Check Post,Nagole,0
+11:37:36,Sultan Bazar,JNTU College,0
+11:37:42,Kachiguda,Parade Grounds,0
+11:37:50,Stadium,Secunderabad West,0
+11:38:04,SR Nagar,Musarambagh,0
+11:38:08,Gandhi Hospital,Ameerpet,0
+11:38:11,Durgam Cheruvu,Raidurg,0
+11:38:21,RTC X Roads,Parade Grounds,0
+11:38:31,Kachiguda,Miyapur,0
+11:38:44,Parade Grounds,LB Nagar,0
+11:38:46,Assembly,NGRI,0
+11:38:48,Musheerabad,Miyapur,0
+11:38:59,Vidyanagar,Erragadda,0
+11:39:05,Parade Grounds,Borabanda,0
+11:39:19,Malakpet,Miyapur,0
+11:39:27,Secunderabad West,Begumpet,0
+11:39:35,Prakash Nagar,Gandhi Bhavan,0
+11:39:46,Miyapur,Lalaguda,0
+11:39:57,Prakash Nagar,Nagole,0
+11:40:09,Kachiguda,Chikkadpally,0
+11:40:22,Parade Grounds,Khairatabad,0
+11:40:23,Raidurg,Osmania Medical College,0
+11:40:36,KPHB Colony,Kukatpally,0
+11:40:46,Chaitanyapuri,LB Nagar,0
+11:40:49,Assembly,HITEC City,0
+11:40:56,Moosapet,Secunderabad West,0
+11:40:59,Victoria Memorial,LB Nagar,0
+11:41:10,Durgam Cheruvu,Begumpet,0
+11:41:12,MG Bus Station,Raidurg,0
+11:41:24,Raidurg,MG Bus Station,0
+11:41:35,Paradise,Dilsukhnagar,0
+11:41:37,Secunderabad West,Habsiguda,0
+11:41:45,Nagole,Victoria Memorial,0
+11:41:50,Parade Grounds,LB Nagar,0
+11:42:03,LB Nagar,Dilsukhnagar,0
+11:42:06,Nagole,LB Nagar,0
+11:42:07,Habsiguda,Lalaguda,0
+11:42:18,Lakdikapul,Yusufguda,0
+11:42:21,Sultan Bazar,Tarnaka,0
+11:42:32,Tarnaka,MG Bus Station,0
+11:42:39,Balanagar,Raidurg,0
+11:42:44,Ameerpet,ESI Hospital,0
+11:42:59,MG Bus Station,Nampally,0
+11:43:06,MG Bus Station,JNTU College,0
+11:43:08,Narayanguda,Habsiguda,0
+11:43:17,LB Nagar,Moosapet,0
+11:43:28,Peddamma Temple,Raidurg,0
+11:43:34,Nampally,Balanagar,0
+11:43:43,Miyapur,Madhapur,0
+11:43:51,Ameerpet,Victoria Memorial,0
+11:43:53,LB Nagar,Jubilee Hills Check Post,0
+11:43:59,Parade Grounds,Nagole,0
+11:44:10,Nagole,Raidurg,0
+11:44:16,Lalaguda,Gandhi Hospital,0
+11:44:19,Khairatabad,Balanagar,0
+11:44:29,Gandhi Bhavan,Madhura Nagar,0
+11:44:36,Mettuguda,Miyapur,0
+11:44:38,Miyapur,Begumpet,0
+11:44:46,Road No 5 Jubilee Hills,Gandhi Hospital,0
+11:44:58,Paradise,Stadium,0
+11:45:08,Raidurg,Rasoolpura,0
+11:45:20,Madhura Nagar,Yusufguda,0
+11:45:27,Raidurg,Moosapet,0
+11:45:30,Miyapur,Erragadda,0
+11:45:31,Road No 5 Jubilee Hills,Punjagutta,0
+11:45:32,Irrum Manzil,Begumpet,0
+11:45:43,Assembly,Secunderabad West,0
+11:45:57,HITEC City,Punjagutta,0
+11:46:02,HITEC City,Ameerpet,0
+11:46:09,Miyapur,Ameerpet,0
+11:46:12,Madhapur,Nagole,0
+11:46:20,Uppal,Secunderabad West,0
+11:46:30,Assembly,MG Bus Station,0
+11:46:44,Secunderabad West,KPHB Colony,0
+11:46:45,Bharat Nagar,Secunderabad West,0
+11:46:52,Vidyanagar,Secunderabad West,0
+11:47:04,Parade Grounds,Madhapur,0
+11:47:09,Miyapur,LB Nagar,0
+11:47:18,Parade Grounds,Rasoolpura,0
+11:47:29,Chikkadpally,Gandhi Hospital,0
+11:47:33,Jubilee Hills Check Post,Tarnaka,0
+11:47:40,Parade Grounds,Secunderabad East,0
+11:47:45,RTC X Roads,LB Nagar,0
+11:47:53,Erragadda,Prakash Nagar,0
+11:48:04,Musarambagh,Road No 5 Jubilee Hills,0
+11:48:05,Ameerpet,Peddamma Temple,0
+11:48:13,New Market,Lakdikapul,0
+11:48:17,Parade Grounds,Yusufguda,0
+11:48:32,Paradise,Secunderabad West,0
+11:48:43,Nagole,Musheerabad,0
+11:48:55,Jubilee Hills Check Post,Borabanda,0
+11:49:09,Sanath Nagar,Begumpet,0
+11:49:15,Raidurg,Secunderabad West,0
+11:49:25,Irrum Manzil,Yusufguda,0
+11:49:27,Madhura Nagar,ESI Hospital,0
+11:49:31,Ameerpet,Stadium,0
+11:49:44,LB Nagar,Kachiguda,0
+11:49:49,Assembly,Parade Grounds,0
+11:49:50,Dilsukhnagar,Gandhi Bhavan,0
+11:50:01,Ameerpet,Secunderabad West,0
+11:50:16,NGRI,Raidurg,0
+11:50:22,LB Nagar,Prakash Nagar,0
+11:50:24,Parade Grounds,Stadium,0
+11:50:30,HITEC City,Parade Grounds,0
+11:50:45,Ameerpet,Yusufguda,0
+11:50:54,Paradise,Bharat Nagar,0
+11:50:55,Sultan Bazar,Nagole,0
+11:51:03,Borabanda,HITEC City,0
+11:51:05,HITEC City,Rasoolpura,0
+11:51:19,Sanath Nagar,Raidurg,0
+11:51:20,Habsiguda,Ameerpet,0
+11:51:22,Gandhi Hospital,Chikkadpally,0
+11:51:25,Peddamma Temple,Jubilee Hills Check Post,0
+11:51:38,NGRI,Madhapur,0
+11:51:40,Ameerpet,Dilsukhnagar,0
+11:51:54,SR Nagar,Secunderabad West,0
+11:52:02,Lalaguda,HITEC City,0
+11:52:03,Assembly,Raidurg,0
+11:52:09,MG Bus Station,Ameerpet,0
+11:52:14,Chaitanyapuri,HITEC City,0
+11:52:20,Prakash Nagar,Assembly,0
+11:52:33,HITEC City,LB Nagar,0
+11:52:37,SR Nagar,LB Nagar,0
+11:52:52,LB Nagar,Nagole,0
+11:53:06,Habsiguda,Yusufguda,0
+11:53:07,Nagole,HITEC City,0
+11:53:19,Raidurg,Sanath Nagar,0
+11:53:21,New Market,LB Nagar,0
+11:53:34,Ameerpet,KPHB Colony,0
+11:53:47,JNTU College,Narayanguda,0
+11:53:50,Chikkadpally,KPHB Colony,0
+11:54:01,Vidyanagar,Raidurg,0
+11:54:16,Tarnaka,MG Bus Station,0
+11:54:23,Musheerabad,Road No 5 Jubilee Hills,0
+11:54:37,MG Bus Station,Durgam Cheruvu,0
+11:54:52,New Market,Raidurg,0
+11:55:07,Tarnaka,Narayanguda,0
+11:55:19,LB Nagar,Begumpet,0
+11:55:34,Secunderabad East,HITEC City,0
+11:55:45,Nagole,New Market,0
+11:55:58,HITEC City,LB Nagar,0
+11:56:02,Musheerabad,Balanagar,0
+11:56:11,New Market,Peddamma Temple,0
+11:56:23,Musheerabad,Tarnaka,0
+11:56:32,Osmania Medical College,Moosapet,0
+11:56:41,MG Bus Station,New Market,0
+11:56:52,Ameerpet,Miyapur,0
+11:57:05,Mettuguda,Nampally,0
+11:57:19,HITEC City,Peddamma Temple,0
+11:57:28,Bharat Nagar,KPHB Colony,0
+11:57:34,Gandhi Bhavan,Habsiguda,0
+11:57:36,JNTU College,Begumpet,0
+11:57:38,Nagole,Parade Grounds,0
+11:57:39,Nagole,Vidyanagar,0
+11:57:52,Durgam Cheruvu,Parade Grounds,0
+11:58:04,RTC X Roads,Prakash Nagar,0
+11:58:13,Secunderabad West,Lakdikapul,0
+11:58:18,MG Bus Station,HITEC City,0
+11:58:30,Parade Grounds,SR Nagar,0
+11:58:37,Tarnaka,Nampally,0
+11:58:43,Habsiguda,Punjagutta,0
+11:58:56,Dilsukhnagar,Moosapet,0
+11:59:08,LB Nagar,Moosapet,0
+11:59:15,Musheerabad,Uppal,0
+11:59:23,Balanagar,Madhura Nagar,0
+11:59:30,Parade Grounds,Tarnaka,0
+11:59:37,Gandhi Hospital,Parade Grounds,0
+11:59:48,LB Nagar,Nagole,0
+12:00:03,Sanath Nagar,Madhapur,0
+12:00:10,Raidurg,SR Nagar,0
+12:00:13,Stadium,Nagole,0
+12:00:25,Habsiguda,Tarnaka,0
+12:00:37,Khairatabad,Uppal,0
+12:00:49,Ameerpet,Parade Grounds,0
+12:01:04,Borabanda,Paradise,0
+12:01:11,Bharat Nagar,Dilsukhnagar,0
+12:01:16,JNTU College,Ameerpet,0
+12:01:22,MG Bus Station,Chaitanyapuri,0
+12:01:27,Stadium,Raidurg,0
+12:01:30,HITEC City,LB Nagar,0
+12:01:45,RTC X Roads,Khairatabad,0
+12:01:59,Madhapur,Miyapur,0
+12:02:08,Musarambagh,Gandhi Hospital,0
+12:02:15,Uppal,MG Bus Station,0
+12:02:23,RTC X Roads,HITEC City,0
+12:02:31,Secunderabad West,ESI Hospital,0
+12:02:34,NGRI,Nagole,0
+12:02:42,Madhura Nagar,Ameerpet,0
+12:02:54,Malakpet,Raidurg,0
+12:03:05,Prakash Nagar,Victoria Memorial,0
+12:03:20,LB Nagar,Mettuguda,0
+12:03:31,RTC X Roads,Madhapur,0
+12:03:42,Moosapet,Ameerpet,0
+12:03:43,Parade Grounds,Raidurg,0
+12:03:55,MG Bus Station,Begumpet,0
+12:04:06,Parade Grounds,Punjagutta,0
+12:04:16,Mettuguda,HITEC City,0
+12:04:26,Tarnaka,Durgam Cheruvu,0
+12:04:35,RTC X Roads,Erragadda,0
+12:04:50,Mettuguda,Borabanda,0
+12:04:55,HITEC City,Assembly,0
+12:05:07,Secunderabad West,Parade Grounds,0
+12:05:09,Raidurg,Rasoolpura,0
+12:05:16,Parade Grounds,Stadium,0
+12:05:31,Miyapur,Nagole,0
+12:05:38,Miyapur,Tarnaka,0
+12:05:45,Nampally,Erragadda,0
+12:05:47,Mettuguda,MG Bus Station,0
+12:05:50,Nampally,Moosapet,0
+12:05:55,Borabanda,Madhura Nagar,0
+12:05:56,Rasoolpura,Malakpet,0
+12:05:57,Jubilee Hills Check Post,MG Bus Station,0
+12:05:59,MG Bus Station,LB Nagar,0
+12:06:05,Nampally,Sanath Nagar,0
+12:06:20,Erragadda,Irrum Manzil,0
+12:06:33,Paradise,Assembly,0
+12:06:42,Durgam Cheruvu,Victoria Memorial,0
+12:06:44,Gandhi Bhavan,MG Bus Station,0
+12:06:53,LB Nagar,Stadium,0
+12:07:00,Begumpet,Narayanguda,0
+12:07:01,Gandhi Bhavan,Lalaguda,0
+12:07:12,Bharat Nagar,HITEC City,0
+12:07:23,HITEC City,MG Bus Station,0
+12:07:30,Nagole,Secunderabad West,0
+12:07:39,Irrum Manzil,Lalaguda,0
+12:07:45,Mettuguda,Ameerpet,0
+12:07:49,Mettuguda,LB Nagar,0
+12:08:04,Secunderabad East,JNTU College,0
+12:08:18,Nagole,Secunderabad West,0
+12:08:23,Begumpet,Ameerpet,0
+12:08:24,Sultan Bazar,Stadium,0
+12:08:34,Nampally,Yusufguda,0
+12:08:40,Secunderabad West,Khairatabad,0
+12:08:54,Habsiguda,JNTU College,0
+12:09:06,Mettuguda,Kukatpally,0
+12:09:08,LB Nagar,Erragadda,0
+12:09:11,Peddamma Temple,Kachiguda,0
+12:09:26,LB Nagar,Rasoolpura,0
+12:09:39,MG Bus Station,Yusufguda,0
+12:09:45,Begumpet,Vidyanagar,0
+12:09:57,Nagole,Assembly,0
+12:10:03,New Market,Nagole,0
+12:10:13,Malakpet,Narayanguda,0
+12:10:16,Begumpet,Miyapur,0
+12:10:24,Miyapur,Ameerpet,0
+12:10:33,RTC X Roads,Road No 5 Jubilee Hills,0
+12:10:46,Victoria Memorial,Balanagar,0
+12:11:01,Begumpet,Balanagar,0
+12:11:02,RTC X Roads,Raidurg,0
+12:11:10,Madhura Nagar,Musarambagh,0
+12:11:24,Chaitanyapuri,Paradise,0
+12:11:31,Ameerpet,HITEC City,0
+12:11:43,Vidyanagar,ESI Hospital,0
+12:11:49,Sultan Bazar,Nagole,0
+12:11:53,Durgam Cheruvu,HITEC City,0
+12:12:04,Narayanguda,Musarambagh,0
+12:12:06,Raidurg,Prakash Nagar,0
+12:12:19,Peddamma Temple,Lakdikapul,0
+12:12:27,Lalaguda,Miyapur,0
+12:12:35,Chikkadpally,Jubilee Hills Check Post,0
+12:12:39,Miyapur,Vidyanagar,0
+12:12:50,LB Nagar,Gandhi Hospital,0
+12:13:00,NGRI,Ameerpet,0
+12:13:04,Begumpet,Parade Grounds,0
+12:13:15,Paradise,Ameerpet,0
+12:13:25,ESI Hospital,Kukatpally,0
+12:13:30,Sultan Bazar,Secunderabad West,0
+12:13:45,Tarnaka,HITEC City,0
+12:13:49,Secunderabad West,Miyapur,0
+12:14:01,Madhura Nagar,Rasoolpura,0
+12:14:12,Parade Grounds,Nagole,0
+12:14:19,Begumpet,Sanath Nagar,0
+12:14:20,Secunderabad West,Malakpet,0
+12:14:34,Kachiguda,Osmania Medical College,0
+12:14:45,Habsiguda,NGRI,0
+12:14:54,HITEC City,Musheerabad,0
+12:14:58,JNTU College,Narayanguda,0
+12:15:07,Nagole,Miyapur,0
+12:15:11,New Market,Musheerabad,0
+12:15:24,Miyapur,Madhapur,0
+12:15:36,LB Nagar,Balanagar,0
+12:15:40,Punjagutta,Malakpet,0
+12:15:42,Prakash Nagar,Moosapet,0
+12:15:50,LB Nagar,Miyapur,0
+12:16:03,Prakash Nagar,New Market,0
+12:16:08,Nampally,Uppal,0
+12:16:14,Secunderabad West,Raidurg,0
+12:16:23,Raidurg,Sanath Nagar,0
+12:16:36,Paradise,Nagole,0
+12:16:38,Prakash Nagar,Parade Grounds,0
+12:16:40,Lalaguda,Narayanguda,0
+12:16:47,MG Bus Station,Secunderabad West,0
+12:16:49,HITEC City,Kukatpally,0
+12:17:02,Nagole,MG Bus Station,0
+12:17:13,LB Nagar,Bharat Nagar,0
+12:17:14,Parade Grounds,MG Bus Station,0
+12:17:21,LB Nagar,Prakash Nagar,0
+12:17:28,Lakdikapul,Paradise,0
+12:17:39,Prakash Nagar,Nagole,0
+12:17:47,Raidurg,Musheerabad,0
+12:17:57,Bharat Nagar,Begumpet,0
+12:18:08,HITEC City,Nagole,0
+12:18:14,Parade Grounds,Bharat Nagar,0
+12:18:15,Paradise,Kukatpally,0
+12:18:28,Secunderabad West,Chikkadpally,0
+12:18:31,Begumpet,Nampally,0
+12:18:38,Uppal,Prakash Nagar,0
+12:18:41,Assembly,Raidurg,0
+12:18:42,ESI Hospital,Parade Grounds,0
+12:18:51,Borabanda,HITEC City,0
+12:18:56,Parade Grounds,Mettuguda,0
+12:18:59,SR Nagar,MG Bus Station,0
+12:19:05,MG Bus Station,Lalaguda,0
+12:19:14,Parade Grounds,Madhura Nagar,0
+12:19:15,Assembly,Raidurg,0
+12:19:24,Secunderabad West,LB Nagar,0
+12:19:28,Vidyanagar,Begumpet,0
+12:19:32,HITEC City,New Market,0
+12:19:43,Uppal,Road No 5 Jubilee Hills,0
+12:19:51,Paradise,Malakpet,0
+12:20:01,Parade Grounds,New Market,0
+12:20:06,LB Nagar,Ameerpet,0
+12:20:14,Gandhi Hospital,Chikkadpally,0
+12:20:22,Khairatabad,Miyapur,0
+12:20:26,Road No 5 Jubilee Hills,Nagole,0
+12:20:30,Assembly,Madhapur,0
+12:20:44,Malakpet,Madhapur,0
+12:20:48,LB Nagar,Raidurg,0
+12:20:49,Dilsukhnagar,Kukatpally,0
+12:20:50,Secunderabad East,SR Nagar,0
+12:20:58,Punjagutta,Parade Grounds,0
+12:21:11,Dilsukhnagar,Vidyanagar,0
+12:21:15,Irrum Manzil,Ameerpet,0
+12:21:30,Gandhi Bhavan,Ameerpet,0
+12:21:44,Secunderabad East,Ameerpet,0
+12:21:45,Ameerpet,Gandhi Bhavan,0
+12:21:47,Miyapur,Madhura Nagar,0
+12:21:54,Begumpet,Musheerabad,0
+12:22:00,Sultan Bazar,MG Bus Station,0
+12:22:04,Dilsukhnagar,Chaitanyapuri,0
+12:22:07,Sanath Nagar,Vidyanagar,0
+12:22:17,Musheerabad,Kukatpally,0
+12:22:20,Musheerabad,ESI Hospital,0
+12:22:24,Punjagutta,Chaitanyapuri,0
+12:22:30,MG Bus Station,LB Nagar,0
+12:22:41,Assembly,JNTU College,0
+12:22:51,Parade Grounds,Secunderabad West,0
+12:22:56,HITEC City,Malakpet,0
+12:22:57,Prakash Nagar,Osmania Medical College,0
+12:23:00,Secunderabad West,Lalaguda,0
+12:23:15,Stadium,Peddamma Temple,0
+12:23:28,Uppal,Begumpet,0
+12:23:30,Ameerpet,Victoria Memorial,0
+12:23:45,Begumpet,Habsiguda,0
+12:23:53,Tarnaka,Ameerpet,0
+12:24:05,Chaitanyapuri,Road No 5 Jubilee Hills,0
+12:24:17,Borabanda,Uppal,0
+12:24:27,LB Nagar,Narayanguda,0
+12:24:37,Begumpet,Irrum Manzil,0
+12:24:52,Irrum Manzil,Secunderabad West,0
+12:24:59,Khairatabad,LB Nagar,0
+12:25:06,Parade Grounds,Sultan Bazar,0
+12:25:12,Nampally,Balanagar,0
+12:25:25,Balanagar,Nagole,0
+12:25:31,Lakdikapul,JNTU College,0
+12:25:40,Prakash Nagar,LB Nagar,0
+12:25:48,Nagole,Dilsukhnagar,0
+12:25:56,MG Bus Station,Chaitanyapuri,0
+12:25:59,Nagole,Gandhi Bhavan,0
+12:26:01,Dilsukhnagar,Balanagar,0
+12:26:15,NGRI,Secunderabad East,0
+12:26:17,HITEC City,Sultan Bazar,0
+12:26:19,Erragadda,Dilsukhnagar,0
+12:26:28,Irrum Manzil,Punjagutta,0
+12:26:34,Nampally,Durgam Cheruvu,0
+12:26:47,Yusufguda,Osmania Medical College,0
+12:26:59,Paradise,SR Nagar,0
+12:27:13,Durgam Cheruvu,Madhapur,0
+12:27:28,Gandhi Bhavan,HITEC City,0
+12:27:33,Raidurg,HITEC City,0
+12:27:40,Sanath Nagar,Raidurg,0
+12:27:53,Begumpet,Uppal,0
+12:28:02,Kachiguda,Borabanda,0
+12:28:16,LB Nagar,Lakdikapul,0
+12:28:28,Irrum Manzil,Lakdikapul,0
+12:28:38,HITEC City,Peddamma Temple,0
+12:28:46,New Market,Balanagar,0
+12:29:00,Punjagutta,HITEC City,0
+12:29:12,LB Nagar,Nagole,0
+12:29:26,Parade Grounds,Chaitanyapuri,0
+12:29:36,Gandhi Hospital,MG Bus Station,0
+12:29:48,Miyapur,Raidurg,0
+12:30:02,Musarambagh,Lakdikapul,0
+12:30:09,Yusufguda,LB Nagar,0
+12:30:22,Yusufguda,MG Bus Station,0
+12:30:32,Miyapur,HITEC City,0
+12:30:47,SR Nagar,Vidyanagar,0
+12:30:53,Parade Grounds,Raidurg,0
+12:31:08,Rasoolpura,Gandhi Hospital,0
+12:31:15,Irrum Manzil,Victoria Memorial,0
+12:31:24,Victoria Memorial,Uppal,0
+12:31:30,Parade Grounds,Nagole,0
+12:31:45,MG Bus Station,Ameerpet,0
+12:31:56,Secunderabad East,Miyapur,0
+12:32:08,Paradise,Miyapur,0
+12:32:12,Kukatpally,Lalaguda,0
+12:32:17,Irrum Manzil,MG Bus Station,0
+12:32:26,Kukatpally,KPHB Colony,0
+12:32:35,Miyapur,Malakpet,0
+12:32:50,LB Nagar,Ameerpet,0
+12:32:52,ESI Hospital,LB Nagar,0
+12:33:04,Kukatpally,Borabanda,0
+12:33:18,Irrum Manzil,Gandhi Hospital,0
+12:33:23,Nagole,Jubilee Hills Check Post,0
+12:33:31,Ameerpet,Parade Grounds,0
+12:33:36,Parade Grounds,NGRI,0
+12:33:47,Nagole,Irrum Manzil,0
+12:33:50,Nagole,Raidurg,0
+12:34:00,Raidurg,Tarnaka,0
+12:34:15,Parade Grounds,Stadium,0
+12:34:23,Parade Grounds,Madhapur,0
+12:34:28,Begumpet,Narayanguda,0
+12:34:34,Road No 5 Jubilee Hills,Jubilee Hills Check Post,0
+12:34:39,Victoria Memorial,Raidurg,0
+12:34:53,Ameerpet,Nampally,0
+12:35:08,Prakash Nagar,LB Nagar,0
+12:35:15,Chikkadpally,Ameerpet,0
+12:35:25,Moosapet,Road No 5 Jubilee Hills,0
+12:35:26,Assembly,Gandhi Hospital,0
+12:35:31,Musheerabad,Mettuguda,0
+12:35:42,Narayanguda,Road No 5 Jubilee Hills,0
+12:35:54,Chikkadpally,LB Nagar,0
+12:36:07,Secunderabad East,Kachiguda,0
+12:36:09,HITEC City,NGRI,0
+12:36:22,Malakpet,Nagole,0
+12:36:27,Irrum Manzil,JNTU College,0
+12:36:28,Kukatpally,Road No 5 Jubilee Hills,0
+12:36:40,Nagole,New Market,0
+12:36:47,Secunderabad West,LB Nagar,0
+12:36:48,Nampally,Jubilee Hills Check Post,0
+12:36:51,Malakpet,Durgam Cheruvu,0
+12:36:59,Nagole,Balanagar,0
+12:37:10,Assembly,Sanath Nagar,0
+12:37:13,Uppal,Osmania Medical College,0
+12:37:16,Ameerpet,Miyapur,0
+12:37:18,Ameerpet,ESI Hospital,0
+12:37:30,Victoria Memorial,Balanagar,0
+12:37:43,Miyapur,Osmania Medical College,0
+12:37:51,Dilsukhnagar,Khairatabad,0
+12:37:52,RTC X Roads,Mettuguda,0
+12:38:00,Road No 5 Jubilee Hills,Secunderabad West,0
+12:38:13,Tarnaka,Begumpet,0
+12:38:24,RTC X Roads,Victoria Memorial,0
+12:38:29,Nagole,Paradise,0
+12:38:30,HITEC City,Sultan Bazar,0
+12:38:36,Chikkadpally,Irrum Manzil,0
+12:38:37,LB Nagar,Kachiguda,0
+12:38:43,Raidurg,Yusufguda,0
+12:38:45,Khairatabad,Musheerabad,0
+12:38:58,Secunderabad West,Begumpet,0
+12:39:10,Ameerpet,LB Nagar,0
+12:39:12,Raidurg,Malakpet,0
+12:39:23,Punjagutta,Irrum Manzil,0
+12:39:32,LB Nagar,Lakdikapul,0
+12:39:34,Musarambagh,Ameerpet,0
+12:39:41,Begumpet,Miyapur,0
+12:39:45,Nagole,Kukatpally,0
+12:39:59,Osmania Medical College,Prakash Nagar,0
+12:40:00,Kukatpally,Khairatabad,0
+12:40:05,HITEC City,NGRI,0
+12:40:07,Jubilee Hills Check Post,Raidurg,0
+12:40:22,Secunderabad West,Ameerpet,0
+12:40:24,Paradise,Vidyanagar,0
+12:40:36,Victoria Memorial,Narayanguda,0
+12:40:49,Road No 5 Jubilee Hills,Malakpet,0
+12:41:00,HITEC City,Yusufguda,0
+12:41:14,Begumpet,Kukatpally,0
+12:41:15,Rasoolpura,Parade Grounds,0
+12:41:22,Habsiguda,Durgam Cheruvu,0
+12:41:31,Parade Grounds,Kachiguda,0
+12:41:35,Miyapur,HITEC City,0
+12:41:37,MG Bus Station,Madhapur,0
+12:41:50,Assembly,Balanagar,0
+12:41:53,Chaitanyapuri,MG Bus Station,0
+12:41:56,Chaitanyapuri,Begumpet,0
+12:42:00,Narayanguda,Paradise,0
+12:42:08,Madhapur,Malakpet,0
+12:42:13,MG Bus Station,HITEC City,0
+12:42:14,Tarnaka,Vidyanagar,0
+12:42:25,Raidurg,Durgam Cheruvu,0
+12:42:29,Secunderabad West,Malakpet,0
+12:42:33,Irrum Manzil,KPHB Colony,0
+12:42:48,Begumpet,Nampally,0
+12:42:59,Road No 5 Jubilee Hills,Lakdikapul,0
+12:43:13,Chaitanyapuri,Malakpet,0
+12:43:21,Begumpet,Kukatpally,0
+12:43:29,Kukatpally,Punjagutta,0
+12:43:40,Kachiguda,Sanath Nagar,0
+12:43:43,Moosapet,Paradise,0
+12:43:57,Raidurg,Irrum Manzil,0
+12:44:06,Balanagar,Peddamma Temple,0
+12:44:11,Ameerpet,Irrum Manzil,0
+12:44:18,Ameerpet,Nampally,0
+12:44:23,Parade Grounds,Lalaguda,0
+12:44:27,Osmania Medical College,HITEC City,0
+12:44:29,Borabanda,Dilsukhnagar,0
+12:44:36,Ameerpet,Nagole,0
+12:44:45,Rasoolpura,Nagole,0
+12:44:48,Raidurg,Miyapur,0
+12:44:55,LB Nagar,Balanagar,0
+12:45:10,Narayanguda,Paradise,0
+12:45:13,Secunderabad East,Ameerpet,0
+12:45:20,Nagole,Chaitanyapuri,0
+12:45:30,Uppal,Malakpet,0
+12:45:42,Uppal,Ameerpet,0
+12:45:46,Miyapur,Secunderabad West,0
+12:45:58,Peddamma Temple,Stadium,0
+12:46:13,LB Nagar,Victoria Memorial,0
+12:46:25,Chaitanyapuri,Stadium,0
+12:46:36,Vidyanagar,Kukatpally,0
+12:46:51,JNTU College,Narayanguda,0
+12:46:58,Sultan Bazar,Ameerpet,0
+12:47:11,Nagole,Nampally,0
+12:47:26,Durgam Cheruvu,Musarambagh,0
+12:47:38,Stadium,Yusufguda,0
+12:47:50,KPHB Colony,Victoria Memorial,0
+12:47:57,Madhapur,Assembly,0
+12:47:58,Narayanguda,Dilsukhnagar,0
+12:48:10,Madhura Nagar,Road No 5 Jubilee Hills,0
+12:48:21,SR Nagar,Rasoolpura,0
+12:48:32,SR Nagar,Nampally,0
+12:48:42,Borabanda,Secunderabad West,0
+12:48:43,Erragadda,Moosapet,0
+12:48:55,Narayanguda,LB Nagar,0
+12:49:05,Lalaguda,Balanagar,0
+12:49:20,Punjagutta,LB Nagar,0
+12:49:34,LB Nagar,Road No 5 Jubilee Hills,0
+12:49:43,Lalaguda,Begumpet,0
+12:49:50,Parade Grounds,Madhapur,0
+12:50:03,Gandhi Hospital,Peddamma Temple,0
+12:50:05,Bharat Nagar,Parade Grounds,0
+12:50:18,New Market,SR Nagar,0
+12:50:30,Irrum Manzil,Durgam Cheruvu,0
+12:50:42,MG Bus Station,Vidyanagar,0
+12:50:56,Stadium,Moosapet,0
+12:51:09,Road No 5 Jubilee Hills,Tarnaka,0
+12:51:20,MG Bus Station,LB Nagar,0
+12:51:23,Chaitanyapuri,Jubilee Hills Check Post,0
+12:51:27,Stadium,NGRI,0
+12:51:29,Nagole,Raidurg,0
+12:51:32,Irrum Manzil,Durgam Cheruvu,0
+12:51:45,HITEC City,Gandhi Bhavan,0
+12:52:00,Gandhi Hospital,Nagole,0
+12:52:15,Prakash Nagar,Gandhi Hospital,0
+12:52:18,Balanagar,ESI Hospital,0
+12:52:20,New Market,Parade Grounds,0
+12:52:28,Stadium,HITEC City,0
+12:52:29,KPHB Colony,Durgam Cheruvu,0
+12:52:30,Begumpet,HITEC City,0
+12:52:31,Moosapet,Tarnaka,0
+12:52:32,Chaitanyapuri,Tarnaka,0
+12:52:45,Gandhi Bhavan,Stadium,0
+12:52:58,New Market,LB Nagar,0
+12:53:04,Yusufguda,New Market,0
+12:53:10,Raidurg,Sanath Nagar,0
+12:53:21,LB Nagar,Rasoolpura,0
+12:53:27,Gandhi Hospital,Raidurg,0
+12:53:28,Nagole,Road No 5 Jubilee Hills,0
+12:53:40,Secunderabad West,Narayanguda,0
+12:53:41,Paradise,Gandhi Hospital,0
+12:53:46,Borabanda,Durgam Cheruvu,0
+12:53:50,Dilsukhnagar,Prakash Nagar,0
+12:54:01,Gandhi Hospital,Habsiguda,0
+12:54:12,Punjagutta,Vidyanagar,0
+12:54:26,Malakpet,Begumpet,0
+12:54:40,JNTU College,Raidurg,0
+12:54:46,Madhura Nagar,Lakdikapul,0
+12:54:54,LB Nagar,Rasoolpura,0
+12:54:56,Musarambagh,Sanath Nagar,0
+12:55:11,Uppal,Begumpet,0
+12:55:23,Chikkadpally,Madhapur,0
+12:55:28,Rasoolpura,Jubilee Hills Check Post,0
+12:55:42,Tarnaka,Parade Grounds,0
+12:55:56,Peddamma Temple,Miyapur,0
+12:56:04,Raidurg,MG Bus Station,0
+12:56:15,Kachiguda,Vidyanagar,0
+12:56:23,Ameerpet,Nagole,0
+12:56:25,Stadium,Mettuguda,0
+12:56:29,Khairatabad,HITEC City,0
+12:56:40,Road No 5 Jubilee Hills,Bharat Nagar,0
+12:56:52,Miyapur,Sultan Bazar,0
+12:56:58,Chikkadpally,HITEC City,0
+12:57:02,Peddamma Temple,Begumpet,0
+12:57:17,Madhura Nagar,Begumpet,0
+12:57:32,Mettuguda,Peddamma Temple,0
+12:57:34,Raidurg,Malakpet,0
+12:57:38,Sultan Bazar,HITEC City,0
+12:57:48,Kukatpally,New Market,0
+12:58:03,Peddamma Temple,Madhapur,0
+12:58:10,Begumpet,HITEC City,0
+12:58:24,Nagole,Lakdikapul,0
+12:58:29,Erragadda,Moosapet,0
+12:58:31,New Market,Parade Grounds,0
+12:58:35,Durgam Cheruvu,Erragadda,0
+12:58:41,ESI Hospital,MG Bus Station,0
+12:58:48,Parade Grounds,Miyapur,0
+12:58:49,Parade Grounds,Punjagutta,0
+12:58:56,Vidyanagar,MG Bus Station,0
+12:59:02,Raidurg,Sultan Bazar,0
+12:59:05,Tarnaka,Paradise,0
+12:59:09,Bharat Nagar,Miyapur,0
+12:59:23,Nagole,SR Nagar,0
+12:59:28,Secunderabad West,NGRI,0
+12:59:36,SR Nagar,Osmania Medical College,0
+12:59:48,Begumpet,Raidurg,0
+13:00:00,Miyapur,MG Bus Station,0
+13:00:09,Kachiguda,ESI Hospital,0
+13:00:23,Jubilee Hills Check Post,Uppal,0
+13:00:37,Khairatabad,MG Bus Station,0
+13:00:44,KPHB Colony,Raidurg,0
+13:00:47,Secunderabad West,Khairatabad,0
+13:00:59,Sultan Bazar,Lakdikapul,0
+13:01:11,KPHB Colony,Gandhi Hospital,0
+13:01:14,Secunderabad West,Peddamma Temple,0
+13:01:19,Vidyanagar,Begumpet,0
+13:01:33,Ameerpet,Miyapur,0
+13:01:40,New Market,Madhura Nagar,0
+13:01:46,HITEC City,Victoria Memorial,0
+13:01:55,Peddamma Temple,Osmania Medical College,0
+13:02:10,Punjagutta,Secunderabad West,0
+13:02:17,Moosapet,Malakpet,0
+13:02:30,Parade Grounds,Raidurg,0
+13:02:44,Sultan Bazar,MG Bus Station,0
+13:02:55,Ameerpet,SR Nagar,0
+13:03:07,Stadium,RTC X Roads,0
+13:03:11,Khairatabad,Durgam Cheruvu,0
+13:03:23,Begumpet,Dilsukhnagar,0
+13:03:37,Parade Grounds,Madhura Nagar,0
+13:03:51,SR Nagar,Sanath Nagar,0
+13:03:58,Yusufguda,Ameerpet,0
+13:03:59,Moosapet,Lalaguda,0
+13:04:02,Sanath Nagar,Erragadda,0
+13:04:11,Begumpet,Paradise,0
+13:04:14,Prakash Nagar,LB Nagar,0
+13:04:15,Erragadda,LB Nagar,0
+13:04:20,Yusufguda,Borabanda,0
+13:04:31,Durgam Cheruvu,HITEC City,0
+13:04:44,Madhura Nagar,Moosapet,0
+13:04:52,Gandhi Hospital,Begumpet,0
+13:04:57,Begumpet,Nagole,0
+13:04:58,Erragadda,Balanagar,0
+13:05:06,Begumpet,Chikkadpally,0
+13:05:10,Miyapur,Parade Grounds,0
+13:05:20,Uppal,Road No 5 Jubilee Hills,0
+13:05:22,Raidurg,Ameerpet,0
+13:05:30,Kachiguda,Road No 5 Jubilee Hills,0
+13:05:35,Parade Grounds,Bharat Nagar,0
+13:05:37,Jubilee Hills Check Post,Secunderabad West,0
+13:05:46,Ameerpet,Raidurg,0
+13:05:47,Victoria Memorial,Raidurg,0
+13:06:00,Raidurg,Stadium,0
+13:06:09,Secunderabad West,Mettuguda,0
+13:06:23,HITEC City,ESI Hospital,0
+13:06:36,Irrum Manzil,Begumpet,0
+13:06:38,Ameerpet,Paradise,0
+13:06:41,Miyapur,Nagole,0
+13:06:47,Erragadda,ESI Hospital,0
+13:06:51,Begumpet,Moosapet,0
+13:06:56,Secunderabad West,Miyapur,0
+13:06:58,NGRI,Dilsukhnagar,0
+13:07:07,Ameerpet,Vidyanagar,0
+13:07:18,Miyapur,MG Bus Station,0
+13:07:27,Chikkadpally,MG Bus Station,0
+13:07:36,Nagole,Parade Grounds,0
+13:07:48,MG Bus Station,Chikkadpally,0
+13:07:54,Rasoolpura,Habsiguda,0
+13:08:06,Bharat Nagar,Raidurg,0
+13:08:10,Miyapur,SR Nagar,0
+13:08:24,Secunderabad West,Borabanda,0
+13:08:34,Secunderabad East,Parade Grounds,0
+13:08:39,ESI Hospital,Prakash Nagar,0
+13:08:41,Secunderabad East,Gandhi Bhavan,0
+13:08:52,Chikkadpally,LB Nagar,0
+13:08:54,Sanath Nagar,Madhura Nagar,0
+13:09:06,SR Nagar,Irrum Manzil,0
+13:09:17,Madhapur,Kachiguda,0
+13:09:29,Begumpet,Jubilee Hills Check Post,0
+13:09:39,Begumpet,Raidurg,0
+13:09:49,Ameerpet,Raidurg,0
+13:09:55,Kachiguda,Nagole,0
+13:09:56,Lalaguda,Nampally,0
+13:10:01,ESI Hospital,Bharat Nagar,0
+13:10:10,LB Nagar,Malakpet,0
+13:10:12,Dilsukhnagar,New Market,0
+13:10:17,SR Nagar,Raidurg,0
+13:10:22,Miyapur,Chaitanyapuri,0
+13:10:26,Chaitanyapuri,Bharat Nagar,0
+13:10:41,ESI Hospital,Tarnaka,0
+13:10:56,MG Bus Station,Raidurg,0
+13:11:04,Moosapet,Musarambagh,0
+13:11:14,Gandhi Hospital,Secunderabad East,0
+13:11:24,Bharat Nagar,JNTU College,0
+13:11:30,Sanath Nagar,Victoria Memorial,0
+13:11:36,Raidurg,Madhura Nagar,0
+13:11:49,Mettuguda,Paradise,0
+13:12:03,LB Nagar,Parade Grounds,0
+13:12:08,Miyapur,Habsiguda,0
+13:12:11,Begumpet,SR Nagar,0
+13:12:21,Madhapur,KPHB Colony,0
+13:12:33,Begumpet,Dilsukhnagar,0
+13:12:46,Nampally,Rasoolpura,0
+13:12:58,Nagole,Musarambagh,0
+13:13:06,NGRI,Osmania Medical College,0
+13:13:13,Tarnaka,Peddamma Temple,0
+13:13:28,Raidurg,MG Bus Station,0
+13:13:42,Moosapet,MG Bus Station,0
+13:13:55,MG Bus Station,Moosapet,0
+13:13:57,Balanagar,Assembly,0
+13:13:59,Ameerpet,KPHB Colony,0
+13:14:11,MG Bus Station,Sultan Bazar,0
+13:14:24,Gandhi Hospital,Borabanda,0
+13:14:31,Madhura Nagar,Sultan Bazar,0
+13:14:34,Uppal,Habsiguda,0
+13:14:45,Musheerabad,Road No 5 Jubilee Hills,0
+13:14:52,Miyapur,Punjagutta,0
+13:15:06,Durgam Cheruvu,Jubilee Hills Check Post,0
+13:15:18,Mettuguda,New Market,0
+13:15:30,Begumpet,Narayanguda,0
+13:15:45,Sanath Nagar,Yusufguda,0
+13:15:46,Rasoolpura,Lalaguda,0
+13:15:57,Sultan Bazar,HITEC City,0
+13:16:12,Lakdikapul,Balanagar,0
+13:16:26,ESI Hospital,Musarambagh,0
+13:16:27,LB Nagar,Chaitanyapuri,0
+13:16:33,Lalaguda,New Market,0
+13:16:44,Nampally,Mettuguda,0
+13:16:57,Secunderabad West,MG Bus Station,0
+13:17:05,MG Bus Station,Khairatabad,0
+13:17:17,Begumpet,Victoria Memorial,0
+13:17:32,MG Bus Station,Sultan Bazar,0
+13:17:43,Habsiguda,RTC X Roads,0
+13:17:58,Nagole,Prakash Nagar,0
+13:18:06,KPHB Colony,Miyapur,0
+13:18:14,Malakpet,Musarambagh,0
+13:18:15,Musarambagh,Peddamma Temple,0
+13:18:22,Musarambagh,Bharat Nagar,0
+13:18:30,Irrum Manzil,Tarnaka,0
+13:18:45,Ameerpet,ESI Hospital,0
+13:18:53,Miyapur,HITEC City,0
+13:18:58,Lakdikapul,LB Nagar,0
+13:19:03,Dilsukhnagar,RTC X Roads,0
+13:19:12,Raidurg,Bharat Nagar,0
+13:19:20,Begumpet,Nagole,0
+13:19:23,Musarambagh,Nagole,0
+13:19:29,Musheerabad,Jubilee Hills Check Post,0
+13:19:31,Punjagutta,JNTU College,0
+13:19:38,LB Nagar,Malakpet,0
+13:19:39,Ameerpet,Irrum Manzil,0
+13:19:47,Borabanda,Vidyanagar,0
+13:19:49,LB Nagar,Secunderabad East,0
+13:20:02,Yusufguda,ESI Hospital,0
+13:20:15,HITEC City,Musheerabad,0
+13:20:24,Peddamma Temple,Durgam Cheruvu,0
+13:20:38,Victoria Memorial,Bharat Nagar,0
+13:20:40,Raidurg,ESI Hospital,0
+13:20:46,NGRI,HITEC City,0
+10:01:00,miyapur,Ameerpet,0
+13:20:50,KPHB Colony,Secunderabad West,0
+13:20:57,Vidyanagar,Madhapur,0
+13:21:04,Uppal,Osmania Medical College,0
+13:21:06,HITEC City,Nampally,0
+13:21:09,Madhapur,Punjagutta,0
+13:21:14,HITEC City,Secunderabad West,0
+13:21:26,Nampally,Raidurg,0
+13:21:30,Uppal,HITEC City,0
+13:21:32,Road No 5 Jubilee Hills,NGRI,0
+13:21:35,Punjagutta,Secunderabad West,0
+13:21:46,Begumpet,Lakdikapul,0
+13:21:49,LB Nagar,Osmania Medical College,0
+13:21:53,Sultan Bazar,LB Nagar,0
+13:22:03,Irrum Manzil,Gandhi Hospital,0
+13:22:10,LB Nagar,MG Bus Station,0
+13:22:21,Vidyanagar,Khairatabad,0
+13:22:28,Uppal,Habsiguda,0
+13:22:39,KPHB Colony,Bharat Nagar,0
+13:22:45,Osmania Medical College,Musarambagh,0
+13:22:52,Nampally,RTC X Roads,0
+13:22:55,JNTU College,KPHB Colony,0
+13:23:07,Malakpet,MG Bus Station,0
+13:23:12,Chikkadpally,Bharat Nagar,0
+13:23:15,Nampally,Stadium,0
+13:23:21,MG Bus Station,Moosapet,0
+13:23:22,Yusufguda,HITEC City,0
+13:23:25,Malakpet,Durgam Cheruvu,0
+13:23:31,Durgam Cheruvu,Parade Grounds,0
+13:23:41,Chaitanyapuri,Begumpet,0
+13:23:45,Parade Grounds,Moosapet,0
+13:23:47,ESI Hospital,Durgam Cheruvu,0
+13:23:49,JNTU College,Lalaguda,0
+13:24:04,Begumpet,Punjagutta,0
+13:24:16,Nagole,Moosapet,0
+13:24:25,Prakash Nagar,MG Bus Station,0
+13:24:33,Kachiguda,Irrum Manzil,0
+13:24:45,Ameerpet,ESI Hospital,0
+13:24:52,Secunderabad East,Nampally,0
+13:25:07,HITEC City,Secunderabad West,0
+13:25:16,Lalaguda,RTC X Roads,0
+13:25:24,Begumpet,Erragadda,0
+13:25:31,Kukatpally,LB Nagar,0
+13:25:46,Borabanda,Raidurg,0
+13:25:49,Paradise,Road No 5 Jubilee Hills,0
+13:25:52,MG Bus Station,Borabanda,0
+13:25:53,Raidurg,Road No 5 Jubilee Hills,0
+13:26:05,Raidurg,NGRI,0
+13:26:14,Gandhi Hospital,Lalaguda,0
+13:26:17,Nagole,Habsiguda,0
+13:26:26,HITEC City,LB Nagar,0
+13:26:31,Irrum Manzil,Miyapur,0
+13:26:41,Khairatabad,Road No 5 Jubilee Hills,0
+13:26:56,Sultan Bazar,Habsiguda,0
+13:27:05,Jubilee Hills Check Post,Tarnaka,0
+13:27:10,Secunderabad West,MG Bus Station,0
+13:27:15,Secunderabad East,Ameerpet,0
+13:27:16,Mettuguda,MG Bus Station,0
+13:27:27,SR Nagar,Musheerabad,0
+13:27:42,ESI Hospital,Gandhi Hospital,0
+13:27:43,Begumpet,Nampally,0
+13:27:57,Khairatabad,Erragadda,0
+13:28:08,Musarambagh,Rasoolpura,0
+13:28:14,Malakpet,Sanath Nagar,0
+13:28:29,Secunderabad East,Peddamma Temple,0
+13:28:36,RTC X Roads,MG Bus Station,0
+13:28:37,Prakash Nagar,Miyapur,0
+13:28:43,Khairatabad,Lalaguda,0
+13:28:46,Nampally,Miyapur,0
+13:28:57,Vidyanagar,HITEC City,0
+13:29:10,Parade Grounds,Peddamma Temple,0
+13:29:22,Chaitanyapuri,Begumpet,0
+13:29:36,Prakash Nagar,Paradise,0
+13:29:40,Raidurg,Khairatabad,0
+13:29:45,Irrum Manzil,Begumpet,0
+13:29:59,Durgam Cheruvu,Ameerpet,0
+13:30:03,Madhapur,Nagole,0
+13:30:06,Chikkadpally,Moosapet,0
+13:30:09,Nagole,Raidurg,0
+13:30:12,Punjagutta,Stadium,0
+13:30:24,Ameerpet,Osmania Medical College,0
+13:30:29,Ameerpet,Victoria Memorial,0
+13:30:39,Punjagutta,SR Nagar,0
+13:30:46,Assembly,Chikkadpally,0
+13:30:53,Bharat Nagar,Tarnaka,0
+13:31:05,Durgam Cheruvu,Miyapur,0
+13:31:07,Chaitanyapuri,Miyapur,0
+13:31:21,Miyapur,Secunderabad West,0
+13:31:36,JNTU College,Nampally,0
+13:31:38,Gandhi Bhavan,Sanath Nagar,0
+13:31:48,Miyapur,Lalaguda,0
+13:32:01,Bharat Nagar,Madhapur,0
+13:32:07,Secunderabad West,Balanagar,0
+13:32:10,Uppal,Parade Grounds,0
+13:32:18,Raidurg,MG Bus Station,0
+13:32:26,Ameerpet,KPHB Colony,0
+13:32:38,Gandhi Bhavan,Secunderabad East,0
+13:32:39,Raidurg,Bharat Nagar,0
+13:32:44,Bharat Nagar,Musheerabad,0
+13:32:51,SR Nagar,Chikkadpally,0
+13:32:52,Lakdikapul,Victoria Memorial,0
+13:32:58,Begumpet,Lakdikapul,0
+13:33:13,Yusufguda,Jubilee Hills Check Post,0
+13:33:28,Erragadda,Ameerpet,0
+13:33:30,Lakdikapul,Borabanda,0
+13:33:35,Musarambagh,Rasoolpura,0
+13:33:37,Dilsukhnagar,Narayanguda,0
+13:33:39,RTC X Roads,Paradise,0
+13:33:42,LB Nagar,New Market,0
+13:33:45,Yusufguda,Ameerpet,0
+13:33:56,Yusufguda,Prakash Nagar,0
+13:34:01,Musarambagh,Bharat Nagar,0
+13:34:16,NGRI,Dilsukhnagar,0
+13:34:21,Raidurg,Jubilee Hills Check Post,0
+13:34:23,HITEC City,Secunderabad West,0
+13:34:26,HITEC City,SR Nagar,0
+13:34:29,Victoria Memorial,Peddamma Temple,0
+13:34:42,Vidyanagar,Raidurg,0
+13:34:44,Parade Grounds,Borabanda,0
+13:34:49,SR Nagar,Malakpet,0
+13:34:52,Ameerpet,Victoria Memorial,0
+13:34:58,NGRI,Uppal,0
+13:35:05,Paradise,Begumpet,0
+13:35:08,Raidurg,Begumpet,0
+13:35:12,Victoria Memorial,Secunderabad East,0
+13:35:21,Mettuguda,Raidurg,0
+13:35:28,Balanagar,Jubilee Hills Check Post,0
+13:35:37,Parade Grounds,Road No 5 Jubilee Hills,0
+13:35:49,Khairatabad,Moosapet,0
+13:35:55,Miyapur,Kachiguda,0
+13:35:56,Dilsukhnagar,Uppal,0
+13:35:59,Narayanguda,KPHB Colony,0
+13:36:05,Dilsukhnagar,Secunderabad West,0
+13:36:18,Raidurg,MG Bus Station,0
+13:36:21,Secunderabad West,Secunderabad East,0
+13:36:36,Chikkadpally,Assembly,0
+13:36:50,Lakdikapul,Durgam Cheruvu,0
+13:36:52,Borabanda,Jubilee Hills Check Post,0
+13:36:59,Madhapur,Road No 5 Jubilee Hills,0
+13:37:06,Chaitanyapuri,Road No 5 Jubilee Hills,0
+13:37:17,Parade Grounds,Uppal,0
+13:37:27,Gandhi Hospital,Miyapur,0
+13:37:33,SR Nagar,Assembly,0
+13:37:34,Parade Grounds,Raidurg,0
+13:37:37,HITEC City,Uppal,0
+13:37:40,Durgam Cheruvu,Road No 5 Jubilee Hills,0
+13:37:45,Uppal,Peddamma Temple,0
+13:37:53,HITEC City,Road No 5 Jubilee Hills,0
+13:37:58,Erragadda,KPHB Colony,0
+13:38:09,Miyapur,Durgam Cheruvu,0
+13:38:18,Ameerpet,LB Nagar,0
+13:38:25,Yusufguda,Gandhi Hospital,0
+13:38:34,Jubilee Hills Check Post,Nampally,0
+13:38:44,NGRI,Jubilee Hills Check Post,0
+13:38:51,Sultan Bazar,Osmania Medical College,0
+13:38:53,Tarnaka,Vidyanagar,0
+13:38:56,Durgam Cheruvu,LB Nagar,0
+13:38:57,Khairatabad,Ameerpet,0
+13:39:09,Vidyanagar,Rasoolpura,0
+13:39:11,Raidurg,Nagole,0
+13:39:17,Begumpet,LB Nagar,0
+13:39:24,Ameerpet,Raidurg,0
+13:39:35,LB Nagar,Gandhi Bhavan,0
+13:39:37,Balanagar,Paradise,0
+13:39:51,New Market,Assembly,0
+13:39:54,Mettuguda,Kukatpally,0
+13:40:04,Miyapur,Chikkadpally,0
+13:40:08,Secunderabad East,Begumpet,0
+13:40:09,Assembly,Balanagar,0
+13:40:19,Parade Grounds,Raidurg,0
+13:40:20,JNTU College,Moosapet,0
+13:40:25,Miyapur,Musarambagh,0
+13:40:30,Borabanda,NGRI,0
+13:40:36,Durgam Cheruvu,Peddamma Temple,0
+13:40:39,Road No 5 Jubilee Hills,Moosapet,0
+13:40:46,RTC X Roads,NGRI,0
+13:40:55,Raidurg,Ameerpet,0
+13:41:05,Raidurg,Uppal,0
+13:41:19,Secunderabad West,MG Bus Station,0
+13:41:22,Yusufguda,Balanagar,0
+13:41:33,Moosapet,Peddamma Temple,0
+13:41:48,Khairatabad,Yusufguda,0
+13:41:51,HITEC City,Ameerpet,0
+13:42:00,Habsiguda,Madhapur,0
+13:42:11,Tarnaka,HITEC City,0
+13:42:19,HITEC City,New Market,0
+13:42:25,Prakash Nagar,Sanath Nagar,0
+13:42:26,RTC X Roads,HITEC City,0
+13:42:33,Assembly,Kachiguda,0
+13:42:43,Balanagar,Ameerpet,0
+13:42:54,Kachiguda,Moosapet,0
+13:42:55,SR Nagar,Gandhi Hospital,0
+13:43:04,Gandhi Hospital,Raidurg,0
+13:43:19,Moosapet,MG Bus Station,0
+13:43:34,MG Bus Station,Kukatpally,0
+13:43:44,Dilsukhnagar,Moosapet,0
+13:43:47,Jubilee Hills Check Post,Nagole,0
+13:43:55,Vidyanagar,HITEC City,0
+13:44:03,Begumpet,SR Nagar,0
+13:44:05,Lalaguda,Stadium,0
+13:44:11,Secunderabad West,LB Nagar,0
+13:44:25,Prakash Nagar,Yusufguda,0
+13:44:33,Dilsukhnagar,Secunderabad West,0
+13:44:39,Chaitanyapuri,Yusufguda,0
+13:44:48,Nagole,Musheerabad,0
+13:44:59,JNTU College,Vidyanagar,0
+13:45:00,Durgam Cheruvu,Assembly,0
+13:45:14,Parade Grounds,Ameerpet,0
+13:45:16,MG Bus Station,Ameerpet,0
+13:45:23,Secunderabad West,Lakdikapul,0
+13:45:37,Nagole,Moosapet,0
+13:45:45,Nagole,Mettuguda,0
+13:45:59,Nagole,Balanagar,0
+13:46:11,Bharat Nagar,Borabanda,0
+13:46:18,HITEC City,Irrum Manzil,0
+13:46:24,Kukatpally,New Market,0
+13:46:34,Stadium,Road No 5 Jubilee Hills,0
+13:46:42,Erragadda,Nagole,0
+13:46:51,Ameerpet,Uppal,0
+13:47:02,Khairatabad,Parade Grounds,0
+13:47:12,HITEC City,Kukatpally,0
+13:47:25,Dilsukhnagar,LB Nagar,0
+13:47:33,Khairatabad,Miyapur,0
+13:47:46,Yusufguda,Gandhi Bhavan,0
+13:47:57,Ameerpet,SR Nagar,0
+13:48:02,LB Nagar,MG Bus Station,0
+13:48:14,Nagole,LB Nagar,0
+13:48:18,Madhura Nagar,Gandhi Bhavan,0
+13:48:32,KPHB Colony,RTC X Roads,0
+13:48:39,New Market,HITEC City,0
+13:48:42,Irrum Manzil,Sanath Nagar,0
+13:48:50,Uppal,Yusufguda,0
+13:48:53,Lalaguda,Nagole,0
+13:49:08,Road No 5 Jubilee Hills,Victoria Memorial,0
+13:49:09,Parade Grounds,RTC X Roads,0
+13:49:13,Balanagar,Madhura Nagar,0
+13:49:23,SR Nagar,Begumpet,0
+13:49:37,Sanath Nagar,Durgam Cheruvu,0
+13:49:49,Madhapur,Miyapur,0
+13:50:04,Nagole,SR Nagar,0
+13:50:18,MG Bus Station,Raidurg,0
+13:50:29,LB Nagar,Tarnaka,0
+13:50:30,Kachiguda,Sanath Nagar,0
+13:50:44,ESI Hospital,Nagole,0
+13:50:54,Moosapet,Khairatabad,0
+13:50:58,LB Nagar,Secunderabad East,0
+13:51:01,Paradise,Khairatabad,0
+13:51:05,Borabanda,Lalaguda,0
+13:51:15,Borabanda,Dilsukhnagar,0
+13:51:21,Miyapur,RTC X Roads,0
+13:51:30,Raidurg,ESI Hospital,0
+13:51:38,Begumpet,Nagole,0
+13:51:45,Musarambagh,Secunderabad West,0
+13:51:52,Tarnaka,HITEC City,0
+13:51:54,Sultan Bazar,Nagole,0
+13:52:00,Ameerpet,Paradise,0
+13:52:09,Nagole,MG Bus Station,0
+13:52:20,Yusufguda,Nagole,0
+13:52:25,Road No 5 Jubilee Hills,Sultan Bazar,0
+13:52:40,Secunderabad West,Kachiguda,0
+13:52:53,Secunderabad West,Moosapet,0
+13:52:54,Rasoolpura,LB Nagar,0
+13:53:02,Durgam Cheruvu,Prakash Nagar,0
+13:53:11,Bharat Nagar,Nagole,0
+13:53:21,Raidurg,Madhura Nagar,0
+13:53:35,LB Nagar,Lakdikapul,0
+13:53:43,Secunderabad East,Erragadda,0
+13:53:57,Uppal,ESI Hospital,0
+13:54:10,Narayanguda,LB Nagar,0
+13:54:24,Begumpet,HITEC City,0
+13:54:31,Miyapur,Chaitanyapuri,0
+13:54:35,Habsiguda,Gandhi Bhavan,0
+13:54:46,Gandhi Bhavan,Secunderabad West,0
+13:54:59,Chikkadpally,Madhura Nagar,0
+13:55:00,RTC X Roads,LB Nagar,0
+13:55:01,Miyapur,Raidurg,0
+13:55:15,Raidurg,Paradise,0
+13:55:21,Ameerpet,Parade Grounds,0
+13:55:28,Assembly,Lalaguda,0
+13:55:32,Rasoolpura,Victoria Memorial,0
+13:55:33,Raidurg,Parade Grounds,0
+13:55:36,Sanath Nagar,Victoria Memorial,0
+13:55:48,Ameerpet,Chikkadpally,0
+13:55:57,Ameerpet,Lakdikapul,0
+13:56:09,Raidurg,NGRI,0
+13:56:20,Parade Grounds,Victoria Memorial,0
+13:56:33,Prakash Nagar,Gandhi Bhavan,0
+13:56:42,Ameerpet,Malakpet,0
+13:56:44,Moosapet,Nagole,0
+13:56:55,HITEC City,Ameerpet,0
+13:57:05,Jubilee Hills Check Post,Narayanguda,0
+13:57:07,Parade Grounds,Miyapur,0
+13:57:19,ESI Hospital,Nagole,0
+13:57:30,HITEC City,Punjagutta,0
+13:57:41,RTC X Roads,MG Bus Station,0
+13:57:50,Secunderabad West,Peddamma Temple,0
+13:58:03,HITEC City,Begumpet,0
+13:58:08,Balanagar,SR Nagar,0
+13:58:09,Begumpet,Parade Grounds,0
+13:58:11,Bharat Nagar,Sultan Bazar,0
+13:58:13,Bharat Nagar,Osmania Medical College,0
+13:58:28,Ameerpet,Balanagar,0
+13:58:42,Dilsukhnagar,Secunderabad West,0
+13:58:49,Bharat Nagar,Raidurg,0
+13:58:56,Kukatpally,Borabanda,0
+13:58:58,Khairatabad,LB Nagar,0
+13:59:13,MG Bus Station,Chikkadpally,0
+13:59:26,Ameerpet,MG Bus Station,0
+13:59:41,Ameerpet,Parade Grounds,0
+13:59:51,Secunderabad West,Erragadda,0
+13:59:57,Kachiguda,Stadium,0
+14:00:07,Paradise,Miyapur,0
+14:00:16,Durgam Cheruvu,Sultan Bazar,0
+14:00:20,Rasoolpura,Mettuguda,0
+14:00:29,Habsiguda,Ameerpet,0
+14:00:43,Dilsukhnagar,RTC X Roads,0
+14:00:44,Malakpet,Khairatabad,0
+14:00:56,Road No 5 Jubilee Hills,ESI Hospital,0
+14:01:01,Stadium,Borabanda,0
+14:01:07,Jubilee Hills Check Post,Begumpet,0
+14:01:15,Durgam Cheruvu,NGRI,0
+14:01:24,Sanath Nagar,Narayanguda,0
+14:01:29,Ameerpet,Yusufguda,0
+14:01:44,Peddamma Temple,Borabanda,0
+14:01:46,Parade Grounds,HITEC City,0
+14:01:51,Ameerpet,Irrum Manzil,0
+14:02:03,Stadium,Musheerabad,0
+14:02:10,Paradise,Osmania Medical College,0
+14:02:16,Prakash Nagar,Rasoolpura,0
+14:02:23,Irrum Manzil,Musarambagh,0
+14:02:38,Begumpet,Kukatpally,0
+14:02:41,RTC X Roads,Borabanda,0
+14:02:46,Parade Grounds,MG Bus Station,0
+14:03:00,Musheerabad,Sanath Nagar,0
+14:03:09,Musarambagh,Miyapur,0
+14:03:12,Raidurg,LB Nagar,0
+14:03:15,Musarambagh,Kukatpally,0
+14:03:26,Chaitanyapuri,SR Nagar,0
+14:03:32,Erragadda,MG Bus Station,0
+14:03:33,Peddamma Temple,Khairatabad,0
+14:03:43,Raidurg,RTC X Roads,0
+14:03:52,Kukatpally,Osmania Medical College,0
+14:03:56,Tarnaka,Bharat Nagar,0
+14:04:01,Peddamma Temple,Sanath Nagar,0
+14:04:14,Secunderabad West,Balanagar,0
+14:04:29,Begumpet,Yusufguda,0
+14:04:36,MG Bus Station,Punjagutta,0
+14:04:49,NGRI,JNTU College,0
+14:04:54,LB Nagar,ESI Hospital,0
+14:04:57,Paradise,Parade Grounds,0
+14:05:01,Parade Grounds,MG Bus Station,0
+14:05:12,HITEC City,Parade Grounds,0
+14:05:13,Chikkadpally,MG Bus Station,0
+14:05:27,Lalaguda,Miyapur,0
+14:05:36,Narayanguda,JNTU College,0
+14:05:47,Miyapur,Uppal,0
+14:06:01,Raidurg,Peddamma Temple,0
+14:06:06,MG Bus Station,Musarambagh,0
+14:06:08,Parade Grounds,MG Bus Station,0
+14:06:18,JNTU College,MG Bus Station,0
+14:06:26,Stadium,Begumpet,0
+14:06:41,Erragadda,Chaitanyapuri,0
+14:06:51,Bharat Nagar,Lakdikapul,0
+14:07:05,Miyapur,Bharat Nagar,0
+14:07:11,Secunderabad West,Peddamma Temple,0
+14:07:15,Ameerpet,Punjagutta,0
+14:07:30,Raidurg,Mettuguda,0
+14:07:31,Sultan Bazar,Gandhi Hospital,0
+14:07:36,Musheerabad,JNTU College,0
+14:07:37,Sanath Nagar,Balanagar,0
+14:07:43,Yusufguda,Raidurg,0
+14:07:50,Gandhi Bhavan,Ameerpet,0
+14:07:53,Parade Grounds,Erragadda,0
+14:07:59,Secunderabad West,Durgam Cheruvu,0
+14:08:14,Secunderabad West,RTC X Roads,0
+14:08:25,Nagole,Erragadda,0
+14:08:34,Assembly,Uppal,0
+14:08:42,Vidyanagar,Malakpet,0
+14:08:54,Stadium,Moosapet,0
+14:09:07,MG Bus Station,Balanagar,0
+14:09:16,Secunderabad West,Assembly,0
+14:09:27,Madhapur,Irrum Manzil,0
+14:09:29,Balanagar,NGRI,0
+14:09:33,Miyapur,Khairatabad,0
+14:09:47,Victoria Memorial,Stadium,0
+14:09:53,Irrum Manzil,Parade Grounds,0
+14:10:02,Habsiguda,MG Bus Station,0
+14:10:07,Jubilee Hills Check Post,Begumpet,0
+14:10:21,NGRI,Narayanguda,0
+14:10:25,Narayanguda,Victoria Memorial,0
+14:10:33,Gandhi Hospital,Habsiguda,0
+14:10:46,LB Nagar,Kukatpally,0
+14:10:53,Ameerpet,MG Bus Station,0
+14:11:07,Parade Grounds,Bharat Nagar,0
+14:11:15,Gandhi Hospital,Durgam Cheruvu,0
+14:11:19,Miyapur,Nagole,0
+14:11:24,Miyapur,Begumpet,0
+14:11:32,Musarambagh,Erragadda,0
+14:11:41,Balanagar,LB Nagar,0
+14:11:44,LB Nagar,New Market,0
+14:11:52,Osmania Medical College,Moosapet,0
+14:12:03,Chaitanyapuri,Sultan Bazar,0
+14:12:07,MG Bus Station,LB Nagar,0
+14:12:17,Osmania Medical College,Rasoolpura,0
+14:12:26,Nagole,Yusufguda,0
+14:12:37,Nampally,Bharat Nagar,0
+14:12:39,KPHB Colony,Miyapur,0
+14:12:44,Assembly,Mettuguda,0
+14:12:49,Lakdikapul,Prakash Nagar,0
+14:13:01,LB Nagar,Victoria Memorial,0
+14:13:05,Madhapur,Musheerabad,0
+14:13:10,NGRI,Ameerpet,0
+14:13:14,Musarambagh,MG Bus Station,0
+14:13:24,MG Bus Station,Miyapur,0
+14:13:27,NGRI,Road No 5 Jubilee Hills,0
+14:13:35,Madhapur,Secunderabad West,0
+14:13:47,Assembly,MG Bus Station,0
+14:13:49,Ameerpet,Malakpet,0
+14:13:57,SR Nagar,Miyapur,0
+14:14:05,LB Nagar,Miyapur,0
+14:14:10,Musheerabad,Ameerpet,0
+14:14:23,Secunderabad West,Paradise,0
+14:14:31,Parade Grounds,Stadium,0
+14:14:35,Uppal,JNTU College,0
+14:14:36,Parade Grounds,Kachiguda,0
+14:14:50,Lakdikapul,NGRI,0
+14:15:03,SR Nagar,Moosapet,0
+14:15:08,Raidurg,New Market,0
+14:15:16,Madhapur,Kachiguda,0
+14:15:21,Begumpet,Nampally,0
+14:15:29,Miyapur,Musarambagh,0
+14:15:41,New Market,Habsiguda,0
+14:15:52,Secunderabad West,Chikkadpally,0
+14:16:02,Stadium,Gandhi Bhavan,0
+14:16:11,Peddamma Temple,Miyapur,0
+14:16:18,Secunderabad West,Begumpet,0
+14:16:21,Musarambagh,Miyapur,0
+14:16:31,Durgam Cheruvu,Lalaguda,0
+14:16:37,Irrum Manzil,Moosapet,0
+14:16:52,Borabanda,Begumpet,0
+14:16:57,Musheerabad,Madhura Nagar,0
+14:17:12,Chikkadpally,Vidyanagar,0
+14:17:27,Tarnaka,Gandhi Bhavan,0
+14:17:38,Musarambagh,Malakpet,0
+14:17:48,LB Nagar,Kachiguda,0
+14:17:53,Punjagutta,Parade Grounds,0
+14:18:05,New Market,Rasoolpura,0
+14:18:12,Raidurg,Parade Grounds,0
+14:18:25,Raidurg,MG Bus Station,0
+14:18:26,NGRI,Yusufguda,0
+14:18:34,Yusufguda,Tarnaka,0
+14:18:39,Prakash Nagar,Begumpet,0
+14:18:44,Stadium,Kukatpally,0
+14:18:49,Miyapur,JNTU College,0
+14:18:54,Raidurg,Erragadda,0
+14:19:02,MG Bus Station,LB Nagar,0
+14:19:13,Secunderabad West,KPHB Colony,0
+14:19:16,Musarambagh,Osmania Medical College,0
+14:19:30,NGRI,Borabanda,0
+14:19:39,Ameerpet,Balanagar,0
+14:19:44,SR Nagar,Madhapur,0
+14:19:51,Parade Grounds,Balanagar,0
+14:19:55,Miyapur,Sultan Bazar,0
+14:19:59,Raidurg,Begumpet,0
+14:20:06,LB Nagar,Chikkadpally,0
+14:20:21,Gandhi Bhavan,MG Bus Station,0
+14:20:26,Ameerpet,Nagole,0
+14:20:41,Malakpet,Parade Grounds,0
+14:20:52,HITEC City,Nampally,0
+14:20:59,Secunderabad East,MG Bus Station,0
+14:21:01,MG Bus Station,Sultan Bazar,0
+14:21:09,Secunderabad East,Chaitanyapuri,0
+14:21:24,Secunderabad West,Moosapet,0
+14:21:33,Nagole,MG Bus Station,0
+14:21:48,Yusufguda,Musarambagh,0
+14:21:54,LB Nagar,Miyapur,0
+14:22:03,Miyapur,HITEC City,0
+14:22:05,HITEC City,Rasoolpura,0
+14:22:10,HITEC City,Parade Grounds,0
+14:22:16,ESI Hospital,Secunderabad East,0
+14:22:26,Musheerabad,KPHB Colony,0
+14:22:40,Victoria Memorial,LB Nagar,0
+14:22:41,Nagole,HITEC City,0
+14:22:50,Nagole,KPHB Colony,0
+14:22:51,Gandhi Bhavan,Vidyanagar,0
+14:22:53,New Market,Moosapet,0
+14:22:58,Parade Grounds,Yusufguda,0
+14:23:12,KPHB Colony,Madhapur,0
+14:23:23,Habsiguda,Peddamma Temple,0
+14:23:35,Irrum Manzil,SR Nagar,0
+14:23:47,Lalaguda,SR Nagar,0
+14:24:02,Madhura Nagar,Secunderabad West,0
+14:24:07,Prakash Nagar,Peddamma Temple,0
+14:24:22,Miyapur,Stadium,0
+14:24:34,Irrum Manzil,Kukatpally,0
+14:24:37,Paradise,Erragadda,0
+14:24:39,Nampally,Bharat Nagar,0
+14:24:40,Secunderabad West,Nagole,0
+14:24:41,Sultan Bazar,MG Bus Station,0
+14:24:49,Vidyanagar,Raidurg,0
+14:25:03,Secunderabad West,Gandhi Bhavan,0
+14:25:13,Yusufguda,Secunderabad West,0
+14:25:23,Erragadda,SR Nagar,0
+14:25:24,Ameerpet,Raidurg,0
+14:25:35,Assembly,Habsiguda,0
+14:25:47,Secunderabad East,Uppal,0
+14:25:52,MG Bus Station,Bharat Nagar,0
+14:26:02,Stadium,Madhura Nagar,0
+14:26:09,Victoria Memorial,Raidurg,0
+14:26:17,LB Nagar,Miyapur,0
+14:26:25,Erragadda,Victoria Memorial,0
+14:26:35,MG Bus Station,Begumpet,0
+14:26:50,Begumpet,Nagole,0
+14:27:05,Chikkadpally,Borabanda,0
+14:27:13,Musheerabad,Nagole,0
+14:27:14,Vidyanagar,Musarambagh,0
+14:27:28,Secunderabad West,Khairatabad,0
+14:27:43,Jubilee Hills Check Post,Victoria Memorial,0
+14:27:45,Ameerpet,Begumpet,0
+14:27:55,New Market,Jubilee Hills Check Post,0
+14:28:08,SR Nagar,HITEC City,0
+14:28:19,MG Bus Station,Victoria Memorial,0
+14:28:34,Secunderabad West,Stadium,0
+14:28:42,Rasoolpura,Ameerpet,0
+14:28:54,Sultan Bazar,HITEC City,0
+14:29:03,Nampally,Road No 5 Jubilee Hills,0
+14:29:13,Borabanda,Musarambagh,0
+14:29:23,Secunderabad West,Kukatpally,0
+14:29:24,Secunderabad West,Ameerpet,0
+14:29:26,Begumpet,NGRI,0
+14:29:37,Uppal,HITEC City,0
+14:29:50,Raidurg,Madhapur,0
+14:29:54,Bharat Nagar,Musheerabad,0
+14:30:06,RTC X Roads,HITEC City,0
+14:30:13,Narayanguda,Kukatpally,0
+14:30:18,Erragadda,Secunderabad West,0
+14:30:20,Nagole,Chaitanyapuri,0
+14:30:31,Secunderabad West,Narayanguda,0
+14:30:37,Bharat Nagar,Nagole,0
+14:30:40,Kachiguda,Parade Grounds,0
+14:30:44,Punjagutta,Stadium,0
+14:30:55,MG Bus Station,Irrum Manzil,0
+14:30:58,Nagole,Tarnaka,0
+14:31:11,Punjagutta,Parade Grounds,0
+14:31:22,Borabanda,Moosapet,0
+14:31:23,Raidurg,RTC X Roads,0
+14:31:29,HITEC City,Parade Grounds,0
+14:31:43,Kukatpally,Punjagutta,0
+14:31:55,Borabanda,Peddamma Temple,0
+14:32:04,NGRI,Secunderabad West,0
+14:32:14,Secunderabad West,NGRI,0
+14:32:20,Prakash Nagar,Parade Grounds,0
+14:32:23,Raidurg,Nagole,0
+14:32:34,Chaitanyapuri,Kukatpally,0
+14:32:36,ESI Hospital,Habsiguda,0
+14:32:38,Erragadda,Lakdikapul,0
+14:32:48,Mettuguda,Miyapur,0
+14:33:02,Sanath Nagar,Narayanguda,0
+14:33:07,Victoria Memorial,Musarambagh,0
+14:33:21,Gandhi Hospital,Lalaguda,0
+14:33:23,Mettuguda,Assembly,0
+14:33:32,Sultan Bazar,NGRI,0
+14:33:39,Prakash Nagar,Secunderabad East,0
+14:33:54,Bharat Nagar,Uppal,0
+14:34:09,Vidyanagar,Begumpet,0
+14:34:10,New Market,Gandhi Bhavan,0
+14:34:16,Musheerabad,KPHB Colony,0
+14:34:20,Secunderabad East,Madhapur,0
+14:34:35,HITEC City,Chikkadpally,0
+14:34:36,Assembly,Kukatpally,0
+14:34:46,Chikkadpally,Road No 5 Jubilee Hills,0
+14:34:59,Raidurg,Musarambagh,0
+14:35:01,Sanath Nagar,Paradise,0
+14:35:11,Sultan Bazar,Musheerabad,0
+14:35:19,Sanath Nagar,Gandhi Bhavan,0
+14:35:20,Bharat Nagar,NGRI,0
+14:35:24,Begumpet,LB Nagar,0
+14:35:29,HITEC City,Gandhi Hospital,0
+14:35:33,Miyapur,KPHB Colony,0
+14:35:46,HITEC City,Punjagutta,0
+14:35:56,Secunderabad West,Yusufguda,0
+14:36:08,Miyapur,Stadium,0
+14:36:15,HITEC City,Road No 5 Jubilee Hills,0
+14:36:22,Road No 5 Jubilee Hills,Secunderabad East,0
+14:36:24,Nagole,RTC X Roads,0
+14:36:39,Dilsukhnagar,Punjagutta,0
+14:36:46,Narayanguda,Assembly,0
+14:36:48,Parade Grounds,Lakdikapul,0
+14:37:00,Durgam Cheruvu,Raidurg,0
+14:37:09,Parade Grounds,Kachiguda,0
+14:37:10,Gandhi Hospital,Nampally,0
+14:37:11,Balanagar,ESI Hospital,0
+14:37:14,Osmania Medical College,MG Bus Station,0
+14:37:24,Begumpet,Assembly,0
+14:37:29,ESI Hospital,LB Nagar,0
+14:37:40,Erragadda,Balanagar,0
+14:37:45,Sanath Nagar,Irrum Manzil,0
+14:37:57,Madhapur,Musarambagh,0
+14:38:12,Secunderabad West,Nagole,0
+14:38:17,Sanath Nagar,HITEC City,0
+14:38:22,Gandhi Hospital,Assembly,0
+14:38:37,Gandhi Bhavan,Road No 5 Jubilee Hills,0
+14:38:46,Bharat Nagar,Musarambagh,0
+14:38:53,Jubilee Hills Check Post,Prakash Nagar,0
+14:38:58,Balanagar,Chikkadpally,0
+14:39:12,Vidyanagar,Lakdikapul,0
+14:39:24,Secunderabad East,Erragadda,0
+14:39:36,Raidurg,SR Nagar,0
+14:39:40,Road No 5 Jubilee Hills,Begumpet,0
+14:39:48,Borabanda,Miyapur,0
+14:40:02,Miyapur,Osmania Medical College,0
+14:40:09,MG Bus Station,Lalaguda,0
+14:40:10,Osmania Medical College,Rasoolpura,0
+14:40:18,Miyapur,Chaitanyapuri,0
+14:40:26,JNTU College,Irrum Manzil,0
+14:40:29,Begumpet,Mettuguda,0
+14:40:40,MG Bus Station,Mettuguda,0
+14:40:46,Sultan Bazar,Chikkadpally,0
+14:40:59,RTC X Roads,Narayanguda,0
+14:41:14,Gandhi Bhavan,HITEC City,0
+14:41:18,HITEC City,New Market,0
+14:41:32,Prakash Nagar,Gandhi Hospital,0
+14:41:45,Madhapur,KPHB Colony,0
+14:41:47,Secunderabad East,Borabanda,0
+14:42:02,Madhura Nagar,Secunderabad West,0
+14:42:11,Nagole,Parade Grounds,0
+14:42:21,HITEC City,Gandhi Bhavan,0
+14:42:28,Nagole,Kachiguda,0
+14:42:32,ESI Hospital,Miyapur,0
+14:42:45,Yusufguda,Osmania Medical College,0
+14:42:49,HITEC City,MG Bus Station,0
+14:42:59,Victoria Memorial,Rasoolpura,0
+14:43:05,Gandhi Bhavan,Nampally,0
+14:43:16,Raidurg,Rasoolpura,0
+14:43:18,MG Bus Station,Begumpet,0
+14:43:32,Gandhi Bhavan,Ameerpet,0
+14:43:40,Miyapur,Dilsukhnagar,0
+14:43:51,Secunderabad West,Khairatabad,0
+14:43:52,Parade Grounds,Balanagar,0
+14:44:07,Rasoolpura,MG Bus Station,0
+14:44:09,Nagole,Nampally,0
+14:44:22,Osmania Medical College,Gandhi Hospital,0
+14:44:25,Lakdikapul,Ameerpet,0
+14:44:39,Prakash Nagar,KPHB Colony,0
+14:44:41,Begumpet,Ameerpet,0
+14:44:50,Secunderabad West,Parade Grounds,0
+14:44:51,Secunderabad East,Lakdikapul,0
+14:45:03,Kachiguda,Lalaguda,0
+14:45:04,Madhura Nagar,Secunderabad West,0
+14:45:10,Mettuguda,JNTU College,0
+14:45:14,Musarambagh,Balanagar,0
+14:45:22,Erragadda,Balanagar,0
+14:45:26,Malakpet,Chaitanyapuri,0
+14:45:40,Yusufguda,Kukatpally,0
+14:45:47,Gandhi Hospital,SR Nagar,0
+14:45:53,Rasoolpura,Dilsukhnagar,0
+14:46:00,RTC X Roads,Chaitanyapuri,0
+14:46:05,Prakash Nagar,Ameerpet,0
+14:46:06,MG Bus Station,Ameerpet,0
+14:46:16,Miyapur,Rasoolpura,0
+14:46:29,MG Bus Station,Jubilee Hills Check Post,0
+14:46:41,Habsiguda,Parade Grounds,0
+14:46:47,Sanath Nagar,Chaitanyapuri,0
+14:46:57,Miyapur,Peddamma Temple,0
+14:47:04,HITEC City,Begumpet,0
+14:47:06,Borabanda,Kachiguda,0
+14:47:16,NGRI,Parade Grounds,0
+14:47:25,Madhapur,Mettuguda,0
+14:47:27,Secunderabad West,Tarnaka,0
+14:47:28,Rasoolpura,Begumpet,0
+14:47:37,Nagole,Gandhi Bhavan,0
+14:47:51,Parade Grounds,Chikkadpally,0
+14:47:57,Assembly,HITEC City,0
+14:48:03,Lakdikapul,MG Bus Station,0
+14:48:05,Road No 5 Jubilee Hills,Nagole,0
+14:48:20,LB Nagar,Balanagar,0
+14:48:29,NGRI,Narayanguda,0
+14:48:40,Stadium,Lakdikapul,0
+14:48:53,LB Nagar,Parade Grounds,0
+14:49:07,Vidyanagar,Narayanguda,0
+14:49:11,HITEC City,LB Nagar,0
+14:49:21,Begumpet,Rasoolpura,0
+14:49:34,MG Bus Station,Balanagar,0
+14:49:41,NGRI,Ameerpet,0
+14:49:49,Begumpet,HITEC City,0
+14:50:04,Ameerpet,Nagole,0
+14:50:07,Erragadda,Gandhi Bhavan,0
+14:50:16,Jubilee Hills Check Post,Uppal,0
+14:50:18,ESI Hospital,Miyapur,0
+14:50:25,Miyapur,Ameerpet,0
+14:50:27,ESI Hospital,Gandhi Hospital,0
+14:50:42,Victoria Memorial,LB Nagar,0
+14:50:45,LB Nagar,Parade Grounds,0
+14:50:57,MG Bus Station,New Market,0
+14:51:11,RTC X Roads,Parade Grounds,0
+14:51:21,Bharat Nagar,Peddamma Temple,0
+14:51:23,Madhapur,Musarambagh,0
+14:51:31,Chikkadpally,Begumpet,0
+14:51:43,Secunderabad West,MG Bus Station,0
+14:51:51,Road No 5 Jubilee Hills,Madhapur,0
+14:52:03,HITEC City,Narayanguda,0
+14:52:18,Habsiguda,Ameerpet,0
+14:52:19,Paradise,Dilsukhnagar,0
+14:52:30,Nagole,MG Bus Station,0
+14:52:33,Habsiguda,Parade Grounds,0
+14:52:46,Moosapet,MG Bus Station,0
+14:52:52,JNTU College,Habsiguda,0
+14:53:01,Parade Grounds,Secunderabad West,0
+14:53:08,MG Bus Station,Victoria Memorial,0
+14:53:21,Ameerpet,SR Nagar,0
+14:53:35,Sanath Nagar,Musheerabad,0
+14:53:47,Khairatabad,Tarnaka,0
+14:53:57,Musheerabad,MG Bus Station,0
+14:54:03,MG Bus Station,Erragadda,0
+14:54:08,Stadium,Lakdikapul,0
+14:54:11,MG Bus Station,Narayanguda,0
+14:54:21,HITEC City,Narayanguda,0
+14:54:32,Osmania Medical College,Moosapet,0
+14:54:41,Secunderabad West,HITEC City,0
+14:54:42,Paradise,JNTU College,0
+14:54:57,Mettuguda,Raidurg,0
+14:54:58,Stadium,Raidurg,0
+14:55:04,Irrum Manzil,Sanath Nagar,0
+14:55:14,LB Nagar,Nagole,0
+14:55:17,Secunderabad West,MG Bus Station,0
+14:55:19,Peddamma Temple,Narayanguda,0
+14:55:21,Nagole,Gandhi Bhavan,0
+14:55:35,SR Nagar,Osmania Medical College,0
+14:55:46,Erragadda,Musarambagh,0
+14:55:48,Durgam Cheruvu,Lakdikapul,0
+14:55:50,Malakpet,Habsiguda,0
+14:55:55,Nagole,Madhapur,0
+14:56:06,HITEC City,Jubilee Hills Check Post,0
+14:56:12,RTC X Roads,JNTU College,0
+14:56:14,Sultan Bazar,Raidurg,0
+14:56:20,Punjagutta,Parade Grounds,0
+14:56:34,Musheerabad,Miyapur,0
+14:56:45,Prakash Nagar,Assembly,0
+14:56:55,Chaitanyapuri,Sanath Nagar,0
+14:57:06,Punjagutta,Uppal,0
+14:57:14,Raidurg,Madhapur,0
+14:57:19,ESI Hospital,Begumpet,0
+14:57:21,Borabanda,Secunderabad West,0
+14:57:33,Khairatabad,Nagole,0
+14:57:41,Parade Grounds,Irrum Manzil,0
+14:57:44,JNTU College,Yusufguda,0
+14:57:54,Chaitanyapuri,Parade Grounds,0
+14:58:05,Musarambagh,Tarnaka,0
+14:58:08,Musheerabad,Secunderabad West,0
+14:58:23,MG Bus Station,Stadium,0
+14:58:36,Begumpet,Paradise,0
+14:58:45,Uppal,Moosapet,0
+14:58:47,Borabanda,RTC X Roads,0
+14:59:00,MG Bus Station,Lalaguda,0
+14:59:06,Nampally,LB Nagar,0
+14:59:09,Nagole,MG Bus Station,0
+14:59:11,Musarambagh,LB Nagar,0
+14:59:14,HITEC City,Stadium,0
+14:59:27,Secunderabad West,Paradise,0
+14:59:38,Assembly,MG Bus Station,0
+14:59:47,Khairatabad,Secunderabad West,0
+14:59:54,KPHB Colony,HITEC City,0
+14:59:59,Madhura Nagar,LB Nagar,0
+15:00:12,Nagole,LB Nagar,0
+15:00:27,KPHB Colony,Stadium,0
+15:00:31,New Market,Raidurg,0
+15:00:36,Nagole,Khairatabad,0
+15:00:51,Ameerpet,Irrum Manzil,0
+15:01:02,Bharat Nagar,Lalaguda,0
+15:01:12,Malakpet,Rasoolpura,0
+15:01:13,Sanath Nagar,Miyapur,0
+15:01:20,Moosapet,Jubilee Hills Check Post,0
+15:01:35,Musarambagh,HITEC City,0
+15:01:37,Begumpet,Tarnaka,0
+15:01:43,Mettuguda,Vidyanagar,0
+15:01:57,Mettuguda,Secunderabad West,0
+15:02:01,MG Bus Station,Ameerpet,0
+15:02:07,Malakpet,Khairatabad,0
+15:02:19,Nampally,Miyapur,0
+15:02:33,Miyapur,Sanath Nagar,0
+15:02:35,NGRI,Raidurg,0
+15:02:36,Ameerpet,MG Bus Station,0
+15:02:40,Begumpet,Yusufguda,0
+15:02:41,Osmania Medical College,ESI Hospital,0
+15:02:54,Chaitanyapuri,LB Nagar,0
+15:03:08,Madhapur,Gandhi Bhavan,0
+15:03:10,Balanagar,NGRI,0
+15:03:22,HITEC City,LB Nagar,0
+15:03:23,Durgam Cheruvu,Mettuguda,0
+15:03:38,Ameerpet,Madhapur,0
+15:03:51,Victoria Memorial,Secunderabad West,0
+15:04:05,MG Bus Station,Malakpet,0
+15:04:14,Durgam Cheruvu,MG Bus Station,0
+15:04:22,Irrum Manzil,Gandhi Bhavan,0
+15:04:33,Parade Grounds,Chaitanyapuri,0
+15:04:40,Moosapet,Lalaguda,0
+15:04:49,Osmania Medical College,MG Bus Station,0
+15:05:01,Mettuguda,Assembly,0
+15:05:02,Kachiguda,Peddamma Temple,0
+15:05:08,HITEC City,Jubilee Hills Check Post,0
+15:05:16,Lakdikapul,Lalaguda,0
+15:05:23,HITEC City,Nagole,0
+15:05:31,Parade Grounds,Begumpet,0
+15:05:37,SR Nagar,Begumpet,0
+15:05:39,Moosapet,Ameerpet,0
+15:05:53,Sanath Nagar,Paradise,0
+15:05:55,SR Nagar,Rasoolpura,0
+15:06:03,Tarnaka,Secunderabad West,0
+15:06:16,Lakdikapul,HITEC City,0
+15:06:21,LB Nagar,Madhapur,0
+15:06:35,Ameerpet,Malakpet,0
+15:06:45,Paradise,Gandhi Hospital,0
+15:06:50,Yusufguda,HITEC City,0
+15:07:03,Stadium,NGRI,0
+15:07:14,Assembly,Nagole,0
+15:07:22,Habsiguda,Secunderabad West,0
+15:07:34,Balanagar,Bharat Nagar,0
+15:07:46,Balanagar,ESI Hospital,0
+15:07:47,Ameerpet,Durgam Cheruvu,0
+15:07:50,Punjagutta,Gandhi Hospital,0
+15:07:52,JNTU College,LB Nagar,0
+15:07:55,Prakash Nagar,Tarnaka,0
+15:07:58,Durgam Cheruvu,Secunderabad East,0
+15:08:05,Miyapur,Erragadda,0
+15:08:10,Peddamma Temple,Musheerabad,0
+15:08:15,Tarnaka,Rasoolpura,0
+15:08:21,Parade Grounds,Ameerpet,0
+15:08:26,Tarnaka,Irrum Manzil,0
+15:08:36,Borabanda,Chaitanyapuri,0
+15:08:46,Nampally,Nagole,0
+15:09:01,Malakpet,Durgam Cheruvu,0
+15:09:15,Sultan Bazar,Ameerpet,0
+15:09:27,Secunderabad West,Miyapur,0
+15:09:34,Ameerpet,Uppal,0
+15:09:35,MG Bus Station,Punjagutta,0
+15:09:47,Moosapet,Nagole,0
+15:09:49,KPHB Colony,Nagole,0
+15:09:52,Kukatpally,Begumpet,0
+15:10:07,Lakdikapul,Prakash Nagar,0
+15:10:22,Punjagutta,MG Bus Station,0
+15:10:37,Gandhi Hospital,Parade Grounds,0
+15:10:42,Dilsukhnagar,HITEC City,0
+15:10:57,Nampally,Mettuguda,0
+15:11:08,Irrum Manzil,Paradise,0
+15:11:10,Madhapur,Osmania Medical College,0
+15:11:15,Parade Grounds,ESI Hospital,0
+15:11:24,Parade Grounds,HITEC City,0
+15:11:30,Parade Grounds,Secunderabad West,0
+15:11:40,Osmania Medical College,Raidurg,0
+15:11:54,Rasoolpura,Chikkadpally,0
+15:11:58,Ameerpet,HITEC City,0
+15:12:02,Moosapet,Raidurg,0
+15:12:05,SR Nagar,Uppal,0
+15:12:06,Malakpet,RTC X Roads,0
+15:12:07,SR Nagar,Raidurg,0
+15:12:14,Begumpet,Malakpet,0
+15:12:23,HITEC City,Assembly,0
+15:12:30,Chaitanyapuri,Victoria Memorial,0
+15:12:38,Musarambagh,Secunderabad West,0
+15:12:44,Tarnaka,Musheerabad,0
+15:12:58,Khairatabad,Ameerpet,0
+15:13:09,Secunderabad West,Jubilee Hills Check Post,0
+15:13:23,Nagole,Road No 5 Jubilee Hills,0
+15:13:28,Yusufguda,Parade Grounds,0
+15:13:35,Begumpet,Ameerpet,0
+15:13:49,Dilsukhnagar,Nagole,0
+15:14:00,Musarambagh,LB Nagar,0
+15:14:10,Parade Grounds,Kachiguda,0
+15:14:14,Chaitanyapuri,Ameerpet,0
+15:14:26,Kachiguda,Punjagutta,0
+15:14:32,Tarnaka,Miyapur,0
+15:14:37,Malakpet,Chikkadpally,0
+15:14:52,Nampally,Narayanguda,0
+15:15:02,Osmania Medical College,Begumpet,0
+15:15:13,Uppal,JNTU College,0
+15:15:25,Jubilee Hills Check Post,Osmania Medical College,0
+15:15:26,Lalaguda,Raidurg,0
+15:15:40,Peddamma Temple,Uppal,0
+15:15:50,Begumpet,Stadium,0
+15:15:58,Durgam Cheruvu,Begumpet,0
+15:16:07,Raidurg,JNTU College,0
+15:16:08,Rasoolpura,Jubilee Hills Check Post,0
+15:16:20,Madhapur,Gandhi Hospital,0
+15:16:23,Balanagar,Secunderabad West,0
+15:16:25,KPHB Colony,Begumpet,0
+15:16:26,MG Bus Station,Secunderabad West,0
+15:16:31,Vidyanagar,Punjagutta,0
+15:16:41,Madhapur,Malakpet,0
+15:16:52,Secunderabad West,MG Bus Station,0
+15:17:04,Ameerpet,Vidyanagar,0
+15:17:16,Sanath Nagar,Habsiguda,0
+15:17:27,LB Nagar,Secunderabad West,0
+15:17:38,KPHB Colony,Punjagutta,0
+15:17:51,NGRI,Madhapur,0
+15:17:53,Ameerpet,JNTU College,0
+15:18:03,Irrum Manzil,NGRI,0
+15:18:06,Begumpet,Secunderabad West,0
+15:18:07,MG Bus Station,Parade Grounds,0
+15:18:09,New Market,Parade Grounds,0
+15:18:21,Balanagar,Sultan Bazar,0
+15:18:23,Erragadda,Moosapet,0
+15:18:35,Balanagar,MG Bus Station,0
+15:18:46,Lalaguda,HITEC City,0
+15:18:59,Miyapur,Begumpet,0
+15:19:07,Balanagar,Peddamma Temple,0
+15:19:11,MG Bus Station,Yusufguda,0
+15:19:26,Gandhi Hospital,Durgam Cheruvu,0
+15:19:38,ESI Hospital,KPHB Colony,0
+15:19:50,MG Bus Station,Osmania Medical College,0
+15:20:00,MG Bus Station,Lakdikapul,0
+15:20:04,Osmania Medical College,Irrum Manzil,0
+15:20:09,Gandhi Bhavan,Nagole,0
+15:20:11,Stadium,Parade Grounds,0
+15:20:17,HITEC City,Tarnaka,0
+15:20:31,Begumpet,Secunderabad West,0
+15:20:32,Sanath Nagar,Parade Grounds,0
+15:20:35,Mettuguda,Khairatabad,0
+15:20:47,Nagole,Begumpet,0
+15:20:58,Raidurg,Irrum Manzil,0
+15:21:10,Lalaguda,Secunderabad East,0
+15:21:22,Raidurg,Moosapet,0
+15:21:35,Khairatabad,Gandhi Bhavan,0
+15:21:50,Erragadda,Begumpet,0
+15:21:53,Uppal,Nagole,0
+15:21:59,Chaitanyapuri,Parade Grounds,0
+15:22:00,Malakpet,Bharat Nagar,0
+15:22:06,Gandhi Hospital,Miyapur,0
+15:22:13,Uppal,New Market,0
+15:22:28,Bharat Nagar,Chikkadpally,0
+15:22:33,Ameerpet,Secunderabad East,0
+15:22:46,Miyapur,Raidurg,0
+15:22:54,Paradise,Road No 5 Jubilee Hills,0
+15:23:06,LB Nagar,Secunderabad West,0
+15:23:11,Peddamma Temple,Paradise,0
+15:23:19,Madhura Nagar,MG Bus Station,0
+15:23:34,Musheerabad,HITEC City,0
+15:23:49,Sultan Bazar,Bharat Nagar,0
+15:23:56,HITEC City,Borabanda,0
+15:24:03,Paradise,Ameerpet,0
+15:24:06,Narayanguda,Musheerabad,0
+15:24:18,Sanath Nagar,Irrum Manzil,0
+15:24:28,Durgam Cheruvu,ESI Hospital,0
+15:24:34,HITEC City,KPHB Colony,0
+15:24:36,MG Bus Station,HITEC City,0
+15:24:49,Musarambagh,LB Nagar,0
+15:24:57,Miyapur,SR Nagar,0
+15:25:12,Ameerpet,MG Bus Station,0
+15:25:15,Assembly,Irrum Manzil,0
+15:25:17,Peddamma Temple,Ameerpet,0
+15:25:26,Secunderabad West,Chaitanyapuri,0
+15:25:34,Ameerpet,Bharat Nagar,0
+15:25:43,Yusufguda,Road No 5 Jubilee Hills,0
+15:25:58,Uppal,Chaitanyapuri,0
+15:26:06,Jubilee Hills Check Post,HITEC City,0
+15:26:08,Victoria Memorial,MG Bus Station,0
+15:26:23,ESI Hospital,HITEC City,0
+15:26:38,Osmania Medical College,Madhura Nagar,0
+15:26:52,LB Nagar,Victoria Memorial,0
+15:26:54,Musarambagh,Madhura Nagar,0
+15:27:04,Miyapur,Musheerabad,0
+15:27:07,HITEC City,Dilsukhnagar,0
+15:27:13,NGRI,Miyapur,0
+15:27:23,Durgam Cheruvu,Narayanguda,0
+15:27:34,Lakdikapul,NGRI,0
+15:27:35,Khairatabad,Nagole,0
+15:27:41,Victoria Memorial,Ameerpet,0
+15:27:44,MG Bus Station,Victoria Memorial,0
+15:27:58,Uppal,Gandhi Bhavan,0
+15:28:05,Ameerpet,LB Nagar,0
+15:28:14,Secunderabad West,Nagole,0
+15:28:16,Musarambagh,Madhapur,0
+15:28:27,Secunderabad West,Raidurg,0
+15:28:28,Ameerpet,ESI Hospital,0
+15:28:37,Victoria Memorial,Nagole,0
+15:28:45,Begumpet,Madhura Nagar,0
+15:28:52,HITEC City,MG Bus Station,0
+15:28:57,Durgam Cheruvu,Erragadda,0
+15:29:10,Raidurg,Nagole,0
+15:29:16,HITEC City,Jubilee Hills Check Post,0
+15:29:30,Mettuguda,Dilsukhnagar,0
+15:29:43,Ameerpet,LB Nagar,0
+15:29:56,Victoria Memorial,Madhura Nagar,0
+15:29:59,Miyapur,Sanath Nagar,0
+15:30:11,Parade Grounds,Irrum Manzil,0
+15:30:25,Rasoolpura,Gandhi Hospital,0
+15:30:32,JNTU College,Osmania Medical College,0
+15:30:34,Gandhi Hospital,Nagole,0
+15:30:35,RTC X Roads,Yusufguda,0
+15:30:40,LB Nagar,Madhura Nagar,0
+15:30:53,Raidurg,Mettuguda,0
+15:30:56,MG Bus Station,LB Nagar,0
+15:31:04,Malakpet,Begumpet,0
+15:31:14,Erragadda,Madhapur,0
+15:31:23,Madhapur,Nampally,0
+15:31:25,Mettuguda,ESI Hospital,0
+15:31:28,Begumpet,LB Nagar,0
+15:31:33,New Market,Nagole,0
+15:31:43,Assembly,Raidurg,0
+15:31:57,Sultan Bazar,Raidurg,0
+15:32:07,Nagole,Balanagar,0
+15:32:13,JNTU College,Rasoolpura,0
+15:32:25,Begumpet,Musheerabad,0
+15:32:32,Habsiguda,Peddamma Temple,0
+15:32:38,Sultan Bazar,Durgam Cheruvu,0
+15:32:45,LB Nagar,Ameerpet,0
+15:32:57,Nampally,Begumpet,0
+15:33:12,Balanagar,Chikkadpally,0
+15:33:14,Raidurg,Parade Grounds,0
+15:33:19,Rasoolpura,Mettuguda,0
+15:33:32,Assembly,Raidurg,0
+15:33:38,Parade Grounds,Khairatabad,0
+15:33:53,Nagole,Durgam Cheruvu,0
+15:34:06,Punjagutta,NGRI,0
+15:34:07,Paradise,Chikkadpally,0
+15:34:18,MG Bus Station,Miyapur,0
+15:34:22,Miyapur,LB Nagar,0
+15:34:25,Osmania Medical College,Nagole,0
+15:34:38,Vidyanagar,MG Bus Station,0
+15:34:42,Lakdikapul,Jubilee Hills Check Post,0
+15:34:46,Kukatpally,MG Bus Station,0
+15:34:58,Rasoolpura,Nagole,0
+15:35:05,Begumpet,Malakpet,0
+15:35:12,Uppal,Parade Grounds,0
+15:35:18,New Market,Musarambagh,0
+15:35:26,Ameerpet,Secunderabad West,0
+15:35:34,Khairatabad,Road No 5 Jubilee Hills,0
+15:35:45,Victoria Memorial,LB Nagar,0
+15:35:56,Secunderabad West,Lalaguda,0
+15:36:07,Stadium,Vidyanagar,0
+15:36:09,Irrum Manzil,Vidyanagar,0
+15:36:15,MG Bus Station,Durgam Cheruvu,0
+15:36:23,Madhura Nagar,Miyapur,0
+15:36:33,Parade Grounds,Prakash Nagar,0
+15:36:43,LB Nagar,Kachiguda,0
+15:36:44,Durgam Cheruvu,Osmania Medical College,0
+15:36:56,Stadium,Assembly,0
+15:37:11,Mettuguda,Chaitanyapuri,0
+15:37:25,ESI Hospital,LB Nagar,0
+15:37:29,Kachiguda,Parade Grounds,0
+15:37:32,Gandhi Hospital,HITEC City,0
+15:37:44,Vidyanagar,Secunderabad East,0
+15:37:50,Durgam Cheruvu,LB Nagar,0
+15:38:00,Osmania Medical College,HITEC City,0
+15:38:11,Bharat Nagar,Musheerabad,0
+15:38:22,HITEC City,MG Bus Station,0
+15:38:31,Mettuguda,Lakdikapul,0
+15:38:38,NGRI,Nagole,0
+15:38:52,Narayanguda,Ameerpet,0
+15:39:06,Ameerpet,MG Bus Station,0
+15:39:15,Secunderabad West,HITEC City,0
+15:39:26,Ameerpet,Chikkadpally,0
+15:39:33,Parade Grounds,LB Nagar,0
+15:39:40,LB Nagar,Begumpet,0
+15:39:50,Lakdikapul,Rasoolpura,0
+15:39:59,Kachiguda,Paradise,0
+15:40:11,LB Nagar,Miyapur,0
+15:40:21,Nampally,Parade Grounds,0
+15:40:29,Yusufguda,Borabanda,0
+15:40:30,Durgam Cheruvu,Musheerabad,0
+15:40:41,Victoria Memorial,Habsiguda,0
+15:40:45,Secunderabad West,Ameerpet,0
+15:40:51,Peddamma Temple,Assembly,0
+15:40:59,Sultan Bazar,Narayanguda,0
+15:41:05,ESI Hospital,Kukatpally,0
+15:41:06,Irrum Manzil,Nagole,0
+15:41:10,Yusufguda,Nagole,0
+15:41:14,Raidurg,Lalaguda,0
+15:41:23,Begumpet,Raidurg,0
+15:41:37,Malakpet,Narayanguda,0
+15:41:40,Assembly,Peddamma Temple,0
+15:41:42,Miyapur,Madhura Nagar,0
+15:41:56,Tarnaka,Uppal,0
+15:42:03,Kukatpally,LB Nagar,0
+15:42:08,Musheerabad,Mettuguda,0
+15:42:20,HITEC City,Begumpet,0
+15:42:29,Jubilee Hills Check Post,Nagole,0
+15:42:43,Peddamma Temple,MG Bus Station,0
+15:42:50,Secunderabad West,Peddamma Temple,0
+15:42:51,Dilsukhnagar,Peddamma Temple,0
+15:43:00,Prakash Nagar,Nagole,0
+15:43:13,ESI Hospital,SR Nagar,0
+15:43:18,HITEC City,Parade Grounds,0
+15:43:31,Erragadda,Ameerpet,0
+15:43:38,Begumpet,SR Nagar,0
+15:43:42,Raidurg,Khairatabad,0
+15:43:44,Malakpet,Road No 5 Jubilee Hills,0
+15:43:52,RTC X Roads,Stadium,0
+15:43:56,HITEC City,New Market,0
+15:44:08,Nagole,HITEC City,0
+15:44:20,Nampally,Osmania Medical College,0
+15:44:21,HITEC City,SR Nagar,0
+15:44:26,Miyapur,Musheerabad,0
+15:44:36,Dilsukhnagar,MG Bus Station,0
+15:44:48,Ameerpet,Begumpet,0
+15:44:56,Jubilee Hills Check Post,Madhura Nagar,0
+15:44:59,Durgam Cheruvu,Road No 5 Jubilee Hills,0
+15:45:02,Rasoolpura,Secunderabad West,0
+15:45:07,Begumpet,Miyapur,0
+15:45:11,Parade Grounds,Ameerpet,0
+15:45:12,Gandhi Bhavan,Peddamma Temple,0
+15:45:24,Gandhi Hospital,Habsiguda,0
+15:45:32,Prakash Nagar,Ameerpet,0
+15:45:38,Begumpet,Parade Grounds,0
+15:45:47,MG Bus Station,Chaitanyapuri,0
+15:46:01,Sultan Bazar,Begumpet,0
+15:46:15,Tarnaka,Ameerpet,0
+15:46:30,Chaitanyapuri,Madhura Nagar,0
+15:46:32,New Market,MG Bus Station,0
+15:46:36,Ameerpet,Rasoolpura,0
+15:46:48,HITEC City,Begumpet,0
+15:46:54,NGRI,Parade Grounds,0
+15:47:05,Chikkadpally,Secunderabad West,0
+15:47:19,Raidurg,HITEC City,0
+15:47:34,Lakdikapul,Irrum Manzil,0
+15:47:45,Miyapur,Prakash Nagar,0
+15:47:51,Habsiguda,Gandhi Bhavan,0
+15:48:00,Secunderabad West,Mettuguda,0
+15:48:02,Lalaguda,KPHB Colony,0
+15:48:12,Tarnaka,Assembly,0
+15:48:25,Madhapur,Yusufguda,0
+15:48:36,Secunderabad West,Lakdikapul,0
+15:48:48,Nagole,JNTU College,0
+15:48:58,Gandhi Bhavan,Osmania Medical College,0
+15:49:10,Punjagutta,Secunderabad West,0
+15:49:12,Chikkadpally,ESI Hospital,0
+15:49:17,KPHB Colony,Lakdikapul,0
+15:49:27,HITEC City,Uppal,0
+15:49:29,Mettuguda,HITEC City,0
+15:49:35,HITEC City,Kukatpally,0
+15:49:43,Erragadda,Balanagar,0
+15:49:47,Bharat Nagar,Parade Grounds,0
+15:49:57,Stadium,Parade Grounds,0
+15:50:07,LB Nagar,Chikkadpally,0
+15:50:19,Musheerabad,HITEC City,0
+15:50:23,Parade Grounds,Begumpet,0
+15:50:36,Nagole,Miyapur,0
+15:50:49,LB Nagar,Gandhi Bhavan,0
+15:51:00,Ameerpet,Habsiguda,0
+15:51:09,Osmania Medical College,Begumpet,0
+15:51:14,Gandhi Hospital,Nampally,0
+15:51:19,Madhura Nagar,NGRI,0
+15:51:30,Nagole,Vidyanagar,0
+15:51:33,Stadium,MG Bus Station,0
+15:51:42,Uppal,Ameerpet,0
+15:51:44,HITEC City,Madhura Nagar,0
+15:51:46,Narayanguda,Nagole,0
+15:51:57,Yusufguda,Raidurg,0
+15:52:01,HITEC City,Khairatabad,0
+15:52:10,MG Bus Station,HITEC City,0
+15:52:18,Bharat Nagar,MG Bus Station,0
+15:52:28,Khairatabad,Madhura Nagar,0
+15:52:34,Ameerpet,HITEC City,0
+15:52:47,Ameerpet,Begumpet,0
+15:52:53,Borabanda,Vidyanagar,0
+15:53:04,Paradise,LB Nagar,0
+15:53:16,Gandhi Bhavan,Sultan Bazar,0
+15:53:24,Sultan Bazar,Secunderabad West,0
+15:53:30,SR Nagar,New Market,0
+15:53:36,Secunderabad West,MG Bus Station,0
+15:53:41,LB Nagar,Victoria Memorial,0
+15:53:48,Miyapur,Sanath Nagar,0
+15:53:49,Lalaguda,Musarambagh,0
+15:54:02,SR Nagar,Nagole,0
+15:54:07,Miyapur,Jubilee Hills Check Post,0
+15:54:11,Begumpet,Nampally,0
+15:54:25,Chaitanyapuri,Malakpet,0
+15:54:38,Chaitanyapuri,Parade Grounds,0
+15:54:50,Irrum Manzil,Khairatabad,0
+15:54:59,Nagole,Osmania Medical College,0
+15:55:01,Assembly,Malakpet,0
+15:55:09,Sanath Nagar,Paradise,0
+15:55:10,HITEC City,Victoria Memorial,0
+15:55:25,Jubilee Hills Check Post,Nampally,0
+15:55:35,Parade Grounds,KPHB Colony,0
+15:55:36,Begumpet,Osmania Medical College,0
+15:55:42,Nagole,MG Bus Station,0
+15:55:50,ESI Hospital,Durgam Cheruvu,0
+15:55:56,Vidyanagar,Madhapur,0
+15:56:10,Ameerpet,MG Bus Station,0
+15:56:14,Parade Grounds,Nagole,0
+15:56:20,Parade Grounds,HITEC City,0
+15:56:25,Parade Grounds,Raidurg,0
+15:56:37,Miyapur,HITEC City,0
+15:56:39,Gandhi Hospital,Road No 5 Jubilee Hills,0
+15:56:51,MG Bus Station,Secunderabad West,0
+15:57:06,HITEC City,Durgam Cheruvu,0
+15:57:10,Ameerpet,Nagole,0
+15:57:18,Dilsukhnagar,Irrum Manzil,0
+15:57:30,Nampally,Paradise,0
+15:57:45,Miyapur,Erragadda,0
+15:57:52,LB Nagar,Raidurg,0
+15:58:05,JNTU College,Tarnaka,0
+15:58:20,Kachiguda,Chaitanyapuri,0
+15:58:30,Nagole,Miyapur,0
+15:58:39,Gandhi Hospital,Malakpet,0
+15:58:48,Stadium,Parade Grounds,0
+15:58:59,Kukatpally,Balanagar,0
+15:59:01,Lalaguda,HITEC City,0
+15:59:10,Ameerpet,Habsiguda,0
+15:59:24,Moosapet,Narayanguda,0
+15:59:34,Begumpet,Punjagutta,0
+15:59:36,HITEC City,LB Nagar,0
+15:59:41,Nagole,RTC X Roads,0
+15:59:53,Ameerpet,Malakpet,0
+15:59:56,Begumpet,New Market,0
+16:00:05,HITEC City,Madhapur,0
+16:00:12,RTC X Roads,LB Nagar,0
+16:00:17,Miyapur,Secunderabad West,0
+16:00:18,Miyapur,Malakpet,0
+16:00:21,Nampally,Lakdikapul,0
+16:00:32,HITEC City,Mettuguda,0
+16:00:43,Begumpet,HITEC City,0
+16:00:53,Narayanguda,RTC X Roads,0
+16:01:05,Gandhi Hospital,Ameerpet,0
+16:01:18,Ameerpet,MG Bus Station,0
+16:01:20,Miyapur,Paradise,0
+16:01:34,JNTU College,ESI Hospital,0
+16:01:40,Borabanda,Malakpet,0
+16:01:46,Sultan Bazar,Begumpet,0
+16:01:50,MG Bus Station,LB Nagar,0
+16:01:55,Lakdikapul,Narayanguda,0
+16:02:08,Musarambagh,SR Nagar,0
+16:02:23,Sanath Nagar,Erragadda,0
+16:02:30,Miyapur,Gandhi Hospital,0
+16:02:44,Madhapur,Chaitanyapuri,0
+16:02:52,Nagole,Irrum Manzil,0
+16:03:05,Chaitanyapuri,Raidurg,0
+16:03:07,Lalaguda,Habsiguda,0
+16:03:17,Peddamma Temple,Erragadda,0
+16:03:30,Irrum Manzil,Sanath Nagar,0
+16:03:42,Paradise,Durgam Cheruvu,0
+16:03:48,LB Nagar,Khairatabad,0
+16:03:50,Raidurg,Dilsukhnagar,0
+16:03:55,Habsiguda,Sanath Nagar,0
+16:03:56,Miyapur,Raidurg,0
+16:04:03,Borabanda,Bharat Nagar,0
+16:04:09,Sanath Nagar,Secunderabad West,0
+16:04:16,Sanath Nagar,Begumpet,0
+16:04:20,Kachiguda,Balanagar,0
+16:04:31,Raidurg,Gandhi Hospital,0
+16:04:32,Borabanda,Osmania Medical College,0
+16:04:43,RTC X Roads,JNTU College,0
+16:04:57,Nampally,Parade Grounds,0
+16:05:00,Tarnaka,SR Nagar,0
+16:05:08,HITEC City,KPHB Colony,0
+16:05:21,Irrum Manzil,Madhapur,0
+16:05:26,Chaitanyapuri,LB Nagar,0
+16:05:29,LB Nagar,Ameerpet,0
+16:05:38,Lalaguda,Durgam Cheruvu,0
+16:05:51,Madhura Nagar,Dilsukhnagar,0
+16:06:06,Bharat Nagar,Ameerpet,0
+16:06:14,Irrum Manzil,LB Nagar,0
+16:06:20,Chikkadpally,Gandhi Bhavan,0
+16:06:26,Miyapur,Uppal,0
+16:06:38,Gandhi Hospital,Chikkadpally,0
+16:06:39,Mettuguda,HITEC City,0
+16:06:51,Tarnaka,Ameerpet,0
+16:06:52,Musarambagh,Lakdikapul,0
+16:06:59,Kachiguda,Erragadda,0
+16:07:07,Nagole,LB Nagar,0
+16:07:22,Mettuguda,ESI Hospital,0
+16:07:32,Raidurg,Miyapur,0
+16:07:40,Uppal,Chikkadpally,0
+16:07:43,Malakpet,Mettuguda,0
+16:07:53,Madhura Nagar,Moosapet,0
+16:08:01,Durgam Cheruvu,Secunderabad West,0
+16:08:05,ESI Hospital,Habsiguda,0
+16:08:18,Sanath Nagar,Lakdikapul,0
+16:08:20,Durgam Cheruvu,Peddamma Temple,0
+16:08:25,Musheerabad,Bharat Nagar,0
+16:08:29,Nampally,Madhapur,0
+16:08:34,Malakpet,Lalaguda,0
+16:08:45,Parade Grounds,Habsiguda,0
+16:09:00,Gandhi Bhavan,RTC X Roads,0
+16:09:06,LB Nagar,Begumpet,0
+16:09:16,Madhapur,Secunderabad West,0
+16:09:28,Chikkadpally,Victoria Memorial,0
+16:09:29,Raidurg,Vidyanagar,0
+16:09:30,SR Nagar,Miyapur,0
+16:09:43,Assembly,LB Nagar,0
+16:09:44,Parade Grounds,Stadium,0
+16:09:50,Punjagutta,Gandhi Hospital,0
+16:10:00,LB Nagar,Kachiguda,0
+16:10:08,Prakash Nagar,Secunderabad East,0
+16:10:10,Durgam Cheruvu,Begumpet,0
+16:10:19,Narayanguda,New Market,0
+16:10:34,Punjagutta,New Market,0
+16:10:48,Stadium,Secunderabad East,0
+16:10:59,Moosapet,Secunderabad West,0
+16:11:12,Tarnaka,Kukatpally,0
+16:11:18,LB Nagar,Miyapur,0
+16:11:27,ESI Hospital,Lakdikapul,0
+16:11:35,Secunderabad West,Erragadda,0
+16:11:47,MG Bus Station,Gandhi Hospital,0
+16:11:52,Nagole,Secunderabad East,0
+16:11:54,Lalaguda,Ameerpet,0
+16:12:08,Sanath Nagar,Kachiguda,0
+16:12:12,SR Nagar,Yusufguda,0
+16:12:25,Miyapur,Madhapur,0
+16:12:31,Tarnaka,HITEC City,0
+16:12:41,Secunderabad West,Tarnaka,0
+16:12:54,Mettuguda,Road No 5 Jubilee Hills,0
+16:13:03,Ameerpet,Yusufguda,0
+16:13:14,Begumpet,Prakash Nagar,0
+16:13:28,Sultan Bazar,Peddamma Temple,0
+16:13:37,Sanath Nagar,Rasoolpura,0
+16:13:51,Irrum Manzil,JNTU College,0
+16:13:58,MG Bus Station,RTC X Roads,0
+16:14:05,RTC X Roads,Nagole,0
+16:14:08,Peddamma Temple,MG Bus Station,0
+16:14:10,Nampally,Parade Grounds,0
+16:14:15,Irrum Manzil,Madhapur,0
+16:14:25,Borabanda,KPHB Colony,0
+16:14:32,SR Nagar,Uppal,0
+16:14:35,HITEC City,Raidurg,0
+16:14:39,Victoria Memorial,Ameerpet,0
+16:14:46,Victoria Memorial,Punjagutta,0
+16:15:00,Musarambagh,Lakdikapul,0
+16:15:05,SR Nagar,LB Nagar,0
+16:15:17,Madhapur,Sanath Nagar,0
+16:15:20,Irrum Manzil,SR Nagar,0
+16:15:25,HITEC City,Miyapur,0
+16:15:27,Tarnaka,HITEC City,0
+16:15:37,Uppal,Begumpet,0
+16:15:42,Raidurg,Mettuguda,0
+16:15:52,Nagole,Kukatpally,0
+16:16:05,Chikkadpally,New Market,0
+16:16:10,Sanath Nagar,JNTU College,0
+16:16:24,RTC X Roads,Erragadda,0
+16:16:32,LB Nagar,Ameerpet,0
+16:16:44,Road No 5 Jubilee Hills,Raidurg,0
+16:16:57,MG Bus Station,Tarnaka,0
+16:16:59,Kachiguda,Paradise,0
+16:17:09,Gandhi Hospital,Assembly,0
+16:17:23,Begumpet,Secunderabad West,0
+16:17:30,LB Nagar,Begumpet,0
+16:17:44,HITEC City,Secunderabad West,0
+16:17:56,Osmania Medical College,Nampally,0
+16:18:05,Malakpet,Madhura Nagar,0
+16:18:10,Vidyanagar,Balanagar,0
+16:18:12,Jubilee Hills Check Post,Stadium,0
+16:18:22,NGRI,Parade Grounds,0
+16:18:33,Gandhi Bhavan,Kachiguda,0
+16:18:47,Jubilee Hills Check Post,Parade Grounds,0
+16:19:01,Parade Grounds,Rasoolpura,0
+16:19:15,Narayanguda,Chaitanyapuri,0
+16:19:25,Bharat Nagar,Secunderabad West,0
+16:19:36,Borabanda,Parade Grounds,0
+16:19:38,Lalaguda,Assembly,0
+16:19:48,Madhura Nagar,Chikkadpally,0
+16:19:55,Raidurg,Peddamma Temple,0
+16:19:56,Musarambagh,HITEC City,0
+16:20:10,Nagole,Secunderabad West,0
+16:20:11,Sanath Nagar,Raidurg,0
+16:20:22,Durgam Cheruvu,LB Nagar,0
+16:20:37,Miyapur,Parade Grounds,0
+16:20:38,Begumpet,Malakpet,0
+16:20:43,Narayanguda,Raidurg,0
+16:20:55,Nagole,RTC X Roads,0
+16:21:01,Raidurg,New Market,0
+16:21:05,Osmania Medical College,HITEC City,0
+16:21:11,Nagole,Kachiguda,0
+16:21:16,HITEC City,Ameerpet,0
+16:21:25,HITEC City,Secunderabad East,0
+16:21:31,Madhapur,HITEC City,0
+16:21:44,Raidurg,Secunderabad West,0
+16:21:58,Moosapet,Musarambagh,0
+16:22:07,Madhapur,Secunderabad West,0
+16:22:11,MG Bus Station,Narayanguda,0
+16:22:13,Begumpet,MG Bus Station,0
+16:22:21,Begumpet,HITEC City,0
+16:22:25,Gandhi Bhavan,Jubilee Hills Check Post,0
+16:22:31,New Market,Nagole,0
+16:22:37,HITEC City,Borabanda,0
+16:22:43,Miyapur,Punjagutta,0
+16:22:48,Chikkadpally,Road No 5 Jubilee Hills,0
+16:22:57,MG Bus Station,Parade Grounds,0
+16:23:00,LB Nagar,Road No 5 Jubilee Hills,0
+16:23:04,Moosapet,Jubilee Hills Check Post,0
+16:23:19,Musheerabad,LB Nagar,0
+16:23:24,SR Nagar,New Market,0
+16:23:30,LB Nagar,Narayanguda,0
+16:23:32,Secunderabad West,Madhapur,0
+16:23:47,Musheerabad,MG Bus Station,0
+16:23:57,Lalaguda,Malakpet,0
+16:24:01,Nagole,JNTU College,0
+16:24:10,Ameerpet,Kachiguda,0
+16:24:11,NGRI,Secunderabad West,0
+16:24:15,Assembly,Lakdikapul,0
+16:24:26,Raidurg,SR Nagar,0
+16:24:31,Assembly,Miyapur,0
+16:24:41,Stadium,Nagole,0
+16:24:50,Secunderabad East,Parade Grounds,0
+16:24:57,Punjagutta,Tarnaka,0
+16:25:04,Prakash Nagar,Musheerabad,0
+16:25:11,Durgam Cheruvu,Jubilee Hills Check Post,0
+16:25:17,Raidurg,Gandhi Bhavan,0
+16:25:23,Dilsukhnagar,Narayanguda,0
+16:25:27,MG Bus Station,Musarambagh,0
+16:25:39,ESI Hospital,Secunderabad West,0
+16:25:51,Assembly,Mettuguda,0
+16:25:54,Moosapet,Narayanguda,0
+16:26:03,Jubilee Hills Check Post,Mettuguda,0
+16:26:05,Raidurg,Paradise,0
+16:26:17,Musarambagh,Road No 5 Jubilee Hills,0
+16:26:26,Raidurg,Lakdikapul,0
+16:26:31,Parade Grounds,KPHB Colony,0
+16:26:41,Nagole,Parade Grounds,0
+16:26:43,Borabanda,Ameerpet,0
+16:26:52,Nagole,Begumpet,0
+16:27:07,Musarambagh,Gandhi Hospital,0
+16:27:10,Kukatpally,Musarambagh,0
+16:27:22,Osmania Medical College,Nampally,0
+16:27:37,Peddamma Temple,Jubilee Hills Check Post,0
+16:27:45,LB Nagar,HITEC City,0
+16:27:48,Vidyanagar,Khairatabad,0
+16:27:56,MG Bus Station,Road No 5 Jubilee Hills,0
+16:28:01,Malakpet,Parade Grounds,0
+16:28:16,Habsiguda,LB Nagar,0
+16:28:29,Mettuguda,Yusufguda,0
+16:28:35,Secunderabad West,Lalaguda,0
+16:28:36,Jubilee Hills Check Post,Dilsukhnagar,0
+16:28:38,HITEC City,Kukatpally,0
+16:28:40,Tarnaka,Madhapur,0
+16:28:52,Punjagutta,Vidyanagar,0
+16:29:05,HITEC City,Ameerpet,0
+16:29:08,Miyapur,Sultan Bazar,0
+16:29:20,Erragadda,Moosapet,0
+16:29:27,Parade Grounds,Sanath Nagar,0
+16:29:34,Raidurg,Chaitanyapuri,0
+16:29:42,SR Nagar,New Market,0
+16:29:44,MG Bus Station,Ameerpet,0
+16:29:51,Musheerabad,NGRI,0
+16:29:54,Gandhi Bhavan,Irrum Manzil,0
+16:30:00,Vidyanagar,Begumpet,0
+16:30:06,Nagole,Moosapet,0
+16:30:11,Miyapur,Rasoolpura,0
+16:30:20,KPHB Colony,Chaitanyapuri,0
+16:30:23,Miyapur,Vidyanagar,0
+16:30:24,Miyapur,Victoria Memorial,0
+16:30:25,Raidurg,Parade Grounds,0
+16:30:31,Secunderabad West,Borabanda,0
+16:30:35,Begumpet,NGRI,0
+16:30:44,Khairatabad,New Market,0
+16:30:58,Yusufguda,Ameerpet,0
+16:31:04,Parade Grounds,RTC X Roads,0
+16:31:16,Secunderabad West,HITEC City,0
+16:31:25,Ameerpet,Raidurg,0
+16:31:26,Prakash Nagar,Sultan Bazar,0
+16:31:41,Borabanda,Sanath Nagar,0
+16:31:54,Sultan Bazar,Bharat Nagar,0
+16:32:05,Ameerpet,Habsiguda,0
+16:32:20,Bharat Nagar,Punjagutta,0
+16:32:23,Kachiguda,Narayanguda,0
+16:32:31,Sultan Bazar,Secunderabad East,0
+16:32:38,HITEC City,Sanath Nagar,0
+16:32:49,Secunderabad East,New Market,0
+16:32:55,SR Nagar,Borabanda,0
+16:33:03,Punjagutta,LB Nagar,0
+16:33:09,KPHB Colony,Vidyanagar,0
+16:33:17,Raidurg,Chikkadpally,0
+16:33:29,HITEC City,Parade Grounds,0
+16:33:43,Tarnaka,Begumpet,0
+16:33:49,Chikkadpally,Parade Grounds,0
+16:34:01,Mettuguda,Victoria Memorial,0
+16:34:10,Begumpet,Osmania Medical College,0
+16:34:13,Nagole,Irrum Manzil,0
+16:34:24,LB Nagar,Nagole,0
+16:34:26,Stadium,Malakpet,0
+16:34:34,Rasoolpura,MG Bus Station,0
+16:34:47,HITEC City,Road No 5 Jubilee Hills,0
+16:34:56,Secunderabad West,Punjagutta,0
+16:34:58,MG Bus Station,Parade Grounds,0
+16:35:13,Parade Grounds,Ameerpet,0
+16:35:19,Madhapur,Mettuguda,0
+16:35:20,Lalaguda,Victoria Memorial,0
+16:35:26,Lalaguda,KPHB Colony,0
+16:35:40,Yusufguda,Nagole,0
+16:35:49,Tarnaka,Ameerpet,0
+16:35:55,Yusufguda,JNTU College,0
+16:35:59,Moosapet,Sanath Nagar,0
+16:36:14,Khairatabad,MG Bus Station,0
+16:36:26,Irrum Manzil,Begumpet,0
+16:36:27,JNTU College,Chaitanyapuri,0
+16:36:42,Yusufguda,Narayanguda,0
+16:36:43,Chikkadpally,Begumpet,0
+16:36:58,Secunderabad West,Vidyanagar,0
+16:37:05,Raidurg,Chaitanyapuri,0
+16:37:19,LB Nagar,Ameerpet,0
+16:37:29,Assembly,Madhura Nagar,0
+16:37:44,Narayanguda,Yusufguda,0
+16:37:56,Secunderabad West,Prakash Nagar,0
+16:38:00,Sanath Nagar,Begumpet,0
+16:38:15,Osmania Medical College,Yusufguda,0
+16:38:22,Raidurg,Chaitanyapuri,0
+16:38:36,RTC X Roads,Raidurg,0
+16:38:44,Nampally,Miyapur,0
+16:38:56,LB Nagar,Road No 5 Jubilee Hills,0
+16:39:04,ESI Hospital,Yusufguda,0
+16:39:06,Begumpet,Erragadda,0
+16:39:21,Raidurg,Kukatpally,0
+16:39:30,Malakpet,Sanath Nagar,0
+16:39:35,Borabanda,Jubilee Hills Check Post,0
+16:39:47,LB Nagar,Mettuguda,0
+16:39:52,Secunderabad West,Gandhi Bhavan,0
+16:40:05,Erragadda,Raidurg,0
+16:40:20,Irrum Manzil,Moosapet,0
+16:40:34,NGRI,ESI Hospital,0
+16:40:35,Nagole,Bharat Nagar,0
+16:40:39,JNTU College,Victoria Memorial,0
+16:40:41,HITEC City,Raidurg,0
+16:40:45,Nagole,Chaitanyapuri,0
+16:40:57,SR Nagar,Paradise,0
+16:40:58,Begumpet,NGRI,0
+16:41:02,HITEC City,Peddamma Temple,0
+16:41:03,Parade Grounds,Sanath Nagar,0
+16:41:09,Secunderabad West,Nampally,0
+16:41:12,Musarambagh,Irrum Manzil,0
+16:41:23,KPHB Colony,Chaitanyapuri,0
+16:41:28,NGRI,Lakdikapul,0
+16:41:39,Punjagutta,Begumpet,0
+16:41:47,Miyapur,Nagole,0
+16:42:01,Assembly,Tarnaka,0
+16:42:10,Ameerpet,Secunderabad East,0
+16:42:16,KPHB Colony,Yusufguda,0
+16:42:23,Habsiguda,Miyapur,0
+16:42:35,Ameerpet,Sultan Bazar,0
+16:42:41,JNTU College,Chikkadpally,0
+16:42:52,Lakdikapul,Chaitanyapuri,0
+16:43:02,KPHB Colony,Victoria Memorial,0
+16:43:12,Erragadda,Lakdikapul,0
+16:43:23,Miyapur,Secunderabad East,0
+16:43:24,Begumpet,Chikkadpally,0
+16:43:39,Parade Grounds,Victoria Memorial,0
+16:43:50,Rasoolpura,Nagole,0
+16:44:02,Assembly,Stadium,0
+16:44:07,New Market,Kachiguda,0
+16:44:15,Uppal,RTC X Roads,0
+16:44:23,Mettuguda,Dilsukhnagar,0
+16:44:26,MG Bus Station,Madhapur,0
+16:44:33,Kachiguda,Musheerabad,0
+16:44:39,Madhapur,LB Nagar,0
+16:44:44,SR Nagar,Nagole,0
+16:44:56,Musheerabad,Secunderabad West,0
+16:45:03,ESI Hospital,Prakash Nagar,0
+16:45:07,Sanath Nagar,LB Nagar,0
+16:45:14,Nagole,Borabanda,0
+16:45:22,Dilsukhnagar,Malakpet,0
+16:45:29,ESI Hospital,Tarnaka,0
+16:45:33,Khairatabad,Punjagutta,0
+16:45:37,Sanath Nagar,Madhapur,0
+16:45:50,Prakash Nagar,RTC X Roads,0
+16:45:59,Secunderabad West,Raidurg,0
+16:46:05,Begumpet,Khairatabad,0
+16:46:08,Uppal,Mettuguda,0
+16:46:16,MG Bus Station,Secunderabad West,0
+16:46:29,Gandhi Hospital,LB Nagar,0
+16:46:33,Khairatabad,Secunderabad East,0
+16:46:36,Begumpet,Sultan Bazar,0
+16:46:43,Ameerpet,Nagole,0
+16:46:55,Irrum Manzil,Parade Grounds,0
+16:46:58,Osmania Medical College,Durgam Cheruvu,0
+16:47:08,HITEC City,Begumpet,0
+16:47:18,HITEC City,Irrum Manzil,0
+16:47:25,MG Bus Station,Assembly,0
+16:47:37,ESI Hospital,Sultan Bazar,0
+16:47:43,Rasoolpura,HITEC City,0
+16:47:52,Madhapur,Gandhi Hospital,0
+16:48:03,Moosapet,Kukatpally,0
+16:48:04,Miyapur,Secunderabad West,0
+16:48:05,Malakpet,Moosapet,0
+16:48:20,Chikkadpally,Irrum Manzil,0
+16:48:23,Borabanda,MG Bus Station,0
+16:48:25,Dilsukhnagar,Chikkadpally,0
+16:48:35,Chikkadpally,Nagole,0
+16:48:41,Road No 5 Jubilee Hills,MG Bus Station,0
+16:48:43,Raidurg,Ameerpet,0
+16:48:58,Ameerpet,LB Nagar,0
+16:49:07,Chikkadpally,LB Nagar,0
+16:49:16,Secunderabad East,Uppal,0
+16:49:21,Yusufguda,Chikkadpally,0
+16:49:23,Begumpet,SR Nagar,0
+16:49:31,Moosapet,JNTU College,0
+16:49:46,Chaitanyapuri,Ameerpet,0
+16:49:47,Parade Grounds,Kachiguda,0
+16:49:53,Sultan Bazar,Parade Grounds,0
+16:49:56,Nagole,Miyapur,0
+16:50:04,Sanath Nagar,Parade Grounds,0
+16:50:19,New Market,Balanagar,0
+16:50:25,Kukatpally,ESI Hospital,0
+16:50:30,Madhura Nagar,Narayanguda,0
+16:50:32,Kachiguda,Raidurg,0
+16:50:43,Punjagutta,Begumpet,0
+16:50:48,Jubilee Hills Check Post,Sanath Nagar,0
+16:50:50,Musarambagh,Vidyanagar,0
+16:50:58,Miyapur,RTC X Roads,0
+16:51:05,Kachiguda,Dilsukhnagar,0
+16:51:10,Punjagutta,Osmania Medical College,0
+16:51:19,Chikkadpally,Miyapur,0
+16:51:25,Chikkadpally,KPHB Colony,0
+16:51:29,Road No 5 Jubilee Hills,Gandhi Bhavan,0
+16:51:36,New Market,Osmania Medical College,0
+16:51:49,Begumpet,Malakpet,0
+16:51:50,ESI Hospital,Vidyanagar,0
+16:52:00,Miyapur,Parade Grounds,0
+16:52:05,Chaitanyapuri,Chikkadpally,0
+16:52:12,Victoria Memorial,Road No 5 Jubilee Hills,0
+16:52:17,Road No 5 Jubilee Hills,New Market,0
+16:52:30,Habsiguda,Kachiguda,0
+16:52:37,LB Nagar,New Market,0
+16:52:43,Peddamma Temple,Secunderabad East,0
+16:52:51,Osmania Medical College,Balanagar,0
+16:52:59,Narayanguda,Balanagar,0
+16:53:10,Chikkadpally,Secunderabad West,0
+16:53:25,Erragadda,Raidurg,0
+16:53:38,HITEC City,Assembly,0
+16:53:41,Chaitanyapuri,Ameerpet,0
+16:53:54,Assembly,Moosapet,0
+16:53:56,Miyapur,Raidurg,0
+16:54:10,Chikkadpally,Kukatpally,0
+16:54:20,Prakash Nagar,Gandhi Hospital,0
+16:54:28,Begumpet,Malakpet,0
+16:54:39,Bharat Nagar,Erragadda,0
+16:54:51,SR Nagar,Narayanguda,0
+16:55:06,Balanagar,Moosapet,0
+16:55:08,Miyapur,Raidurg,0
+16:55:12,Khairatabad,Peddamma Temple,0
+16:55:19,MG Bus Station,Tarnaka,0
+16:55:27,Raidurg,Jubilee Hills Check Post,0
+16:55:35,Rasoolpura,Punjagutta,0
+16:55:40,Madhapur,Parade Grounds,0
+16:55:54,KPHB Colony,Ameerpet,0
+16:55:55,Balanagar,Lalaguda,0
+16:56:00,SR Nagar,Mettuguda,0
+16:56:04,Road No 5 Jubilee Hills,Balanagar,0
+16:56:07,Secunderabad West,HITEC City,0
+16:56:11,Ameerpet,Begumpet,0
+16:56:21,MG Bus Station,LB Nagar,0
+16:56:32,MG Bus Station,LB Nagar,0
+16:56:46,New Market,Assembly,0
+16:56:47,Begumpet,Lalaguda,0
+16:56:52,Osmania Medical College,Ameerpet,0
+16:56:53,Kukatpally,New Market,0
+16:57:05,KPHB Colony,HITEC City,0
+16:57:12,Balanagar,HITEC City,0
+16:57:24,Nagole,Vidyanagar,0
+16:57:35,Moosapet,Parade Grounds,0
+16:57:50,Narayanguda,Road No 5 Jubilee Hills,0
+16:58:00,Madhura Nagar,Kukatpally,0
+16:58:05,Peddamma Temple,MG Bus Station,0
+16:58:11,Durgam Cheruvu,Uppal,0
+16:58:19,MG Bus Station,Stadium,0
+16:58:28,Kachiguda,Punjagutta,0
+16:58:38,Ameerpet,Yusufguda,0
+16:58:45,Nagole,Narayanguda,0
+16:58:59,Sanath Nagar,LB Nagar,0
+16:59:13,RTC X Roads,Nagole,0
+16:59:16,Madhapur,Victoria Memorial,0
+16:59:17,Gandhi Hospital,HITEC City,0
+16:59:24,Kachiguda,Begumpet,0
+16:59:31,Dilsukhnagar,Nagole,0
+16:59:45,Begumpet,Ameerpet,0
+16:59:55,Sanath Nagar,Khairatabad,0
+16:59:56,Victoria Memorial,Ameerpet,0
+17:00:02,Irrum Manzil,NGRI,1
+17:00:05,MG Bus Station,Borabanda,1
+17:00:14,Osmania Medical College,Punjagutta,1
+17:00:24,Peddamma Temple,Nagole,1
+17:00:38,Ameerpet,Lalaguda,1
+17:00:39,Musarambagh,Bharat Nagar,1
+17:00:45,Jubilee Hills Check Post,Rasoolpura,1
+17:00:48,Assembly,Sanath Nagar,1
+17:01:01,Khairatabad,Stadium,1
+17:01:06,Begumpet,New Market,1
+17:01:11,Yusufguda,LB Nagar,1
+17:01:13,Paradise,Tarnaka,1
+17:01:19,Peddamma Temple,Raidurg,1
+17:01:33,ESI Hospital,Parade Grounds,1
+17:01:41,Kukatpally,Nagole,1
+17:01:48,Assembly,Sanath Nagar,1
+17:02:00,Lakdikapul,Gandhi Hospital,1
+17:02:06,Begumpet,Chikkadpally,1
+17:02:14,HITEC City,Secunderabad East,1
+17:02:24,Raidurg,Road No 5 Jubilee Hills,1
+17:02:39,ESI Hospital,Malakpet,1
+17:02:50,Parade Grounds,Chikkadpally,1
+17:03:02,Paradise,Assembly,1
+17:03:16,Nampally,Parade Grounds,1
+17:03:31,Miyapur,Habsiguda,1
+17:03:33,Victoria Memorial,Ameerpet,1
+17:03:39,Balanagar,Stadium,1
+17:03:49,RTC X Roads,Sanath Nagar,1
+17:04:01,Gandhi Bhavan,Nagole,1
+17:04:14,Punjagutta,HITEC City,1
+17:04:26,SR Nagar,Secunderabad West,1
+17:04:27,Uppal,Lakdikapul,1
+17:04:28,Malakpet,Raidurg,1
+17:04:36,Parade Grounds,HITEC City,1
+17:04:42,Stadium,MG Bus Station,1
+17:04:57,Mettuguda,Raidurg,1
+17:05:08,Punjagutta,Narayanguda,1
+17:05:18,Erragadda,Madhapur,1
+17:05:30,Musheerabad,Tarnaka,1
+17:05:39,Osmania Medical College,Raidurg,1
+17:05:46,Road No 5 Jubilee Hills,Secunderabad West,1

@@ -1,0 +1,57 @@
+{
+  "currency": "INR",
+  "slabs": [
+    {
+      "max_km": 2,
+      "fare": 10
+    },
+    {
+      "max_km": 4,
+      "fare": 20
+    },
+    {
+      "max_km": 6,
+      "fare": 30
+    },
+    {
+      "max_km": 9,
+      "fare": 40
+    },
+    {
+      "max_km": 12,
+      "fare": 50
+    },
+    {
+      "max_km": 15,
+      "fare": 60
+    },
+    {
+      "max_km": 18,
+      "fare": 70
+    },
+    {
+      "max_km": 22,
+      "fare": 80
+    },
+    {
+      "max_km": 26,
+      "fare": 90
+    },
+    {
+      "max_km": 30,
+      "fare": 100
+    },
+    {
+      "max_km": 36,
+      "fare": 110
+    },
+    {
+      "max_km": 45,
+      "fare": 120
+    },
+    {
+      "max_km": 999,
+      "fare": 130
+    }
+  ]
+}
