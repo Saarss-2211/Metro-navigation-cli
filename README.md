@@ -28,6 +28,7 @@ python main.py critical
 python main.py reachable <station> <minutes>
 python main.py expand
 python main.py stats [-k N]
+python main.py top-stations [-k N]
 python main.py requests [--limit N]
 python main.py shell
 ```
@@ -42,11 +43,13 @@ Station names are matched case-insensitively. Use `shell` to run several command
 - `data/journeys.txt` contains journey requests. Invalid rows are skipped and counted by the statistics and request commands.
 - `data/DATA_README.md` documents the input formats. Keep all supplied data files unchanged.
 
+The loader reports missing required fields, invalid references, malformed JSON, and negative or otherwise invalid numeric values with the file and field context. Journey rows are handled separately: invalid rows are skipped and counted as specified by the data format.
+
 ## Algorithms and data structures
 
 - The network is an adjacency-list graph; each listed connection is available in both directions.
 - A custom binary min-heap drives Dijkstra route searches. The route state includes the line used to arrive, so the configured interchange penalty is added when the passenger changes lines.
-- Fastest route minimizes time, then distance. Fewest-interchanges route minimizes line changes, then time. Cheapest route minimizes the fare slab first, then travel time, distance, and interchange count.
+- Fastest route minimizes time, then distance. Fewest-interchanges route minimizes line changes, then time. Cheapest route minimizes the fare slab first, then travel time, distance, and interchange count. Distances are loaded and summed with `Decimal` so values such as 0.1 + 0.2 land exactly on fare boundaries.
 - Station autocomplete uses a Trie. Route results use an LRU cache implemented with a dictionary and doubly linked list; network changes increment a revision and clear the cache.
 - Connected zones and expansion use Union-Find. Expansion applies Kruskal's algorithm to connect the already-built network components with candidate tracks.
 - Critical stations are found with Tarjan's articulation-point DFS. Time-limited reachability uses a shortest-time search.

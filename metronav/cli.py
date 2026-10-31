@@ -28,6 +28,8 @@ def build_parser():
     expand = sub.add_parser("expand", help="minimum-cost candidate network expansion")
     stats = sub.add_parser("stats", help="busiest stations from journey data")
     stats.add_argument("-k", type=int, default=10)
+    top = sub.add_parser("top-stations", help="show the busiest stations")
+    top.add_argument("-k", type=int, default=10)
     queue = sub.add_parser("requests", help="show journeys ordered by peak priority")
     queue.add_argument("--limit", type=int, default=20)
     sub.add_parser("shell", help="interactive session for routes and network closures")
@@ -52,6 +54,7 @@ def run(args, net=None):
     net = net or MetroNetwork(args.data)
     if args.command == "route": show_route(net, args)
     elif args.command == "autocomplete":
+        if args.limit < 0: raise ValueError("Autocomplete limit must be non-negative")
         for name in net.trie.autocomplete(args.prefix, max(args.limit, 0)): print(name)
     elif args.command == "close-station": net.close_station(args.station); print(f"Closed station: {args.station}")
     elif args.command == "reopen-station": net.reopen_station(args.station); print(f"Reopened station: {args.station}")
@@ -70,13 +73,14 @@ def run(args, net=None):
         print("Tracks to connect existing zones:")
         for edge in tracks: print(f"{edge['id']}: {net.station_name(edge['from'])} <-> {net.station_name(edge['to'])} - INR {edge['cost_crore']} crore")
         print(f"Total: INR {sum(e['cost_crore'] for e in tracks)} crore")
-    elif args.command == "stats":
+    elif args.command in {"stats", "top-stations"}:
         if args.k < 1: raise ValueError("K must be at least 1")
         data = net.journey_stats(args.k)
         print(f"Valid journeys: {data['valid']} | Skipped invalid rows: {data['skipped']}")
         print("Busiest stations:")
         for name, count in data["busiest"]: print(f"{name}: {count} passenger endpoints")
     elif args.command == "requests":
+        if args.limit < 0: raise ValueError("Request limit must be non-negative")
         rows, skipped = net.prioritize_journeys(max(args.limit, 0))
         print(f"Priority ordered requests (peak first); invalid rows skipped: {skipped}")
         for timestamp, origin, destination, peak in rows:
@@ -87,7 +91,10 @@ def main():
     parser = build_parser()
     args = parser.parse_args()
     if args.command == "shell":
-        net = MetroNetwork(args.data)
+        try:
+            net = MetroNetwork(args.data)
+        except (ValueError, OSError, KeyError) as exc:
+            parser.error(str(exc))
         print("MetroNav session. Enter commands (for example: route Miyapur LB Nagar); type exit to quit.")
         while True:
             try: line = input("metronav> ").strip()
